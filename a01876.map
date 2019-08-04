@@ -1,0 +1,14 @@
+<map id="applications/mne_browse/Utils/butterflyscene.h" name="applications/mne_browse/Utils/butterflyscene.h">
+<area shape="rect" id="node2" href="$a01928.html" title="Contains the declaration of the AverageWindow class. " alt="" coords="489,95,675,136"/>
+<area shape="rect" id="node13" href="$a01871.html" title="Definition of the ButterflyScene class. " alt="" coords="699,95,868,136"/>
+<area shape="rect" id="node3" href="$a06340_source.html" title="applications/mne_browse\l/Windows/mainwindow.h" alt="" coords="393,184,563,225"/>
+<area shape="rect" id="node12" href="$a01925.html" title="Definition of the AverageWindow class. " alt="" coords="587,184,785,225"/>
+<area shape="rect" id="node4" href="$a06187_source.html" title="applications/mne_browse\l/main.cpp" alt="" coords="5,273,175,315"/>
+<area shape="rect" id="node5" href="$a01952.html" title="Contains the declaration of the FilterWindow class. " alt="" coords="199,273,368,315"/>
+<area shape="rect" id="node7" href="$a01946.html" title="Definition of the EventWindow class. " alt="" coords="393,273,563,315"/>
+<area shape="rect" id="node9" href="$a01940.html" title="Definition of the DataWindow class. " alt="" coords="588,273,757,315"/>
+<area shape="rect" id="node11" href="$a06328_source.html" title="applications/mne_browse\l/Windows/mainwindow.cpp" alt="" coords="782,273,963,315"/>
+<area shape="rect" id="node6" href="$a01949.html" title="Definition of the FilterWindow class. " alt="" coords="182,363,361,404"/>
+<area shape="rect" id="node8" href="$a01943_source.html" title="applications/mne_browse\l/Windows/eventwindow.cpp" alt="" coords="385,363,571,404"/>
+<area shape="rect" id="node10" href="$a01937_source.html" title="applications/mne_browse\l/Windows/datawindow.cpp" alt="" coords="595,363,774,404"/>
+</map>

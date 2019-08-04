@@ -1,0 +1,51 @@
+<map id="libraries/fiff/fiff_ctf_comp.h" name="libraries/fiff/fiff_ctf_comp.h">
+<area shape="rect" id="node2" href="$a00254.html" title="Definition of the CompensatorView Class. " alt="" coords="6330,95,6484,136"/>
+<area shape="rect" id="node3" href="$a00818.html" title="FIFF class declaration, which provides static wrapper functions to stay consistent with mne matlab to..." alt="" coords="3356,281,3472,307"/>
+<area shape="rect" id="node47" href="$a00914.html" title="FiffInfoBase class declaration. " alt="" coords="6610,95,6716,136"/>
+<area shape="rect" id="node48" href="$a00908.html" title="FiffInfo class declaration. " alt="" coords="6560,184,6665,225"/>
+<area shape="rect" id="node49" href="$a00947.html" title="Definition of the FiffStream Class. " alt="" coords="6701,273,6806,315"/>
+<area shape="rect" id="node50" href="$a00848.html" title="Definition of the FiffCtfComp Class. " alt="" coords="6792,95,6900,136"/>
+<area shape="rect" id="node4" href="$a00248.html" title="Definition of the ChannelSelectionView class. " alt="" coords="5533,370,5708,411"/>
+<area shape="rect" id="node5" href="$a00815.html" title="Definition of the FIFF Wrapper Class. " alt="" coords="5732,377,5863,404"/>
+<area shape="rect" id="node6" href="$a00917.html" title="Definition of a generic Fiff IO interface. " alt="" coords="5888,370,5993,411"/>
+<area shape="rect" id="node7" href="$a01436.html" title="MNEHemisphere class declaration. " alt="" coords="6199,377,6410,404"/>
+<area shape="rect" id="node8" href="$a01454.html" title="MNESourceSpace class declaration. " alt="" coords="6266,474,6484,501"/>
+<area shape="rect" id="node9" href="$a01397.html" title="MNEBemSurface class declaration. " alt="" coords="6018,370,6175,411"/>
+<area shape="rect" id="node10" href="$a01391.html" title="MNEBem class declaration. " alt="" coords="3846,474,4014,501"/>
+<area shape="rect" id="node11" href="$a06427_source.html" title="libraries/mne/mne.cpp" alt="" coords="30,377,181,404"/>
+<area shape="rect" id="node12" href="$a01730.html" title="Definition of the MNE class. " alt="" coords="205,370,412,411"/>
+<area shape="rect" id="node13" href="$a01745.html" title="Definition of the Music class. " alt="" coords="436,370,628,411"/>
+<area shape="rect" id="node14" href="$a06412_source.html" title="applications/mne_browse\l/Utils/types.h" alt="" coords="754,370,924,411"/>
+<area shape="rect" id="node15" href="$a01898.html" title="The FilterOperator class represents a derived class from an arbitrary MNEOperator class object..." alt="" coords="634,467,804,508"/>
+<area shape="rect" id="node16" href="$a01868.html" title="This class represents the model of the model/view framework of mne_browse application. It is derived from QAbstractTableModel so the virtual functions rowCount(),columnCount() and data() needed to be reimplemented. The delegate requests the data for any individual table cell by invoking data(QModelIndex index, int role) and a certain role. DisplayRole is the standard role for requesting the plain data. Other roles such as BackgroundRole are requested to fill a cell with a certain background color with respect to the individual index. For further information see [1]. " alt="" coords="660,556,829,597"/>
+<area shape="rect" id="node17" href="$a01850.html" title="This class represents the delegate of the model/view framework of mne_browse application. Since it is derived from the QAbstractItemDelegate class [1], the virtual functions paint() und sizeHint() need to be reimplemented. The paint() function is invoked from the connected QTableView for each table cell for any individual item with a certain QModelIndex. The task of this function is to paint this cell with the data that is requested by index.model()&#45;&gt;data(index,Qt::DisplayRole); with the corresponding QModelIndex. " alt="" coords="1250,645,1420,687"/>
+<area shape="rect" id="node18" href="$a06340_source.html" title="applications/mne_browse\l/Windows/mainwindow.h" alt="" coords="1126,467,1296,508"/>
+<area shape="rect" id="node19" href="$a01880.html" title="Contains the declaration of the ButterflySceneItem class. " alt="" coords="436,467,610,508"/>
+<area shape="rect" id="node20" href="$a01856.html" title="This class represents the average model of the model/view framework of mne_browse application..." alt="" coords="930,467,1100,508"/>
+<area shape="rect" id="node21" href="$a01862.html" title="This class represents the event model of the model/view framework of mne_browse application. " alt="" coords="1496,556,1665,597"/>
+<area shape="rect" id="node22" href="$a01970.html" title="Contains the declaration of the ScaleWindow class. " alt="" coords="1250,370,1420,411"/>
+<area shape="rect" id="node23" href="$a01934.html" title="Contains the declaration of the ChInfoWindow class. " alt="" coords="1000,370,1174,411"/>
+<area shape="rect" id="node24" href="$a06199_source.html" title="applications/mne_matching\l_pursuit/main.cpp" alt="" coords="1597,370,1777,411"/>
+<area shape="rect" id="node25" href="$a06331_source.html" title="applications/mne_matching\l_pursuit/mainwindow.cpp" alt="" coords="1801,370,1981,411"/>
+<area shape="rect" id="node26" href="$a06349_source.html" title="applications/mne_rt\l_server/plugins/fiffsimulator\l/fiffsimulator.cpp" alt="" coords="2005,363,2188,419"/>
+<area shape="rect" id="node27" href="$a02465.html" title="Contains the implementation of the BrainAMP class. " alt="" coords="2212,370,2418,411"/>
+<area shape="rect" id="node28" href="$a02591.html" title="Contains the implementation of the EEGoSports class. " alt="" coords="2442,370,2670,411"/>
+<area shape="rect" id="node29" href="$a02708.html" title="Contains the declaration of the GUSBAmp class. " alt="" coords="2695,370,2887,411"/>
+<area shape="rect" id="node30" href="$a02732.html" title="Contains the definition of the LSLAdapter class. " alt="" coords="2912,370,3124,411"/>
+<area shape="rect" id="node31" href="$a02765.html" title="Contains the definition of the Natus class. " alt="" coords="3148,370,3312,411"/>
+<area shape="rect" id="node32" href="$a02924.html" title="Contains the declaration of the RtHpiSetupWidget class. " alt="" coords="6856,363,7014,419"/>
+<area shape="rect" id="node33" href="$a02957.html" title="Contains the declaration of the RTSSS class. " alt="" coords="6484,370,6639,411"/>
+<area shape="rect" id="node34" href="$a02966.html" title="Contains the declaration of the RtSssAlgo class. " alt="" coords="6663,370,6831,411"/>
+<area shape="rect" id="node35" href="$a03059.html" title="Contains the declaration of the TMSI class. " alt="" coords="3336,370,3491,411"/>
+<area shape="rect" id="node36" href="$a06214_source.html" title="examples/ex_cancel\l_noise/main.cpp" alt="" coords="3515,370,3656,411"/>
+<area shape="rect" id="node37" href="$a06220_source.html" title="examples/ex_clustered\l_inverse_mne_raw/main.cpp" alt="" coords="3681,370,3869,411"/>
+<area shape="rect" id="node38" href="$a06223_source.html" title="examples/ex_clustered\l_inverse_pwl_rap_music\l_raw/main.cpp" alt="" coords="3894,363,4059,419"/>
+<area shape="rect" id="node39" href="$a06226_source.html" title="examples/ex_clustered\l_inverse_rap_music_raw\l/main.cpp" alt="" coords="4084,363,4250,419"/>
+<area shape="rect" id="node40" href="$a06247_source.html" title="examples/ex_disp/main.cpp" alt="" coords="4275,377,4459,404"/>
+<area shape="rect" id="node41" href="$a06253_source.html" title="examples/ex_evoked\l_grad_amp/main.cpp" alt="" coords="4484,370,4629,411"/>
+<area shape="rect" id="node42" href="$a06256_source.html" title="examples/ex_fiff_io\l/main.cpp" alt="" coords="4653,370,4788,411"/>
+<area shape="rect" id="node43" href="$a06259_source.html" title="examples/ex_filtering\l/main.cpp" alt="" coords="4812,370,4957,411"/>
+<area shape="rect" id="node44" href="$a06262_source.html" title="examples/ex_find_evoked\l/main.cpp" alt="" coords="4982,370,5155,411"/>
+<area shape="rect" id="node45" href="$a06268_source.html" title="examples/ex_histogram\l/main.cpp" alt="" coords="5179,370,5339,411"/>
+<area shape="rect" id="node46" href="$a06277_source.html" title="examples/ex_inverse\l_mne_raw/main.cpp" alt="" coords="5364,370,5509,411"/>
+</map>

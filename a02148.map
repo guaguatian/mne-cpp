@@ -1,0 +1,30 @@
+<map id="applications/mne_scan/libs/scDisp/realtimeevokedsetwidget.cpp" name="applications/mne_scan/libs/scDisp/realtimeevokedsetwidget.cpp">
+<area shape="rect" id="node2" href="$a02150.html" title="Declaration of the RealTimeEvokedSetWidget Class. " alt="" coords="1678,95,1855,121"/>
+<area shape="rect" id="node9" href="$a00245.html" title="Declaration of the ButterflyView class. " alt="" coords="2135,177,2319,203"/>
+<area shape="rect" id="node13" href="$a00431.html" title="Declaration of the QuickControlView Class. " alt="" coords="2853,95,3059,121"/>
+<area shape="rect" id="node15" href="$a00251.html" title="Contains the declaration of the ChannelSelectionView class. " alt="" coords="899,177,1133,203"/>
+<area shape="rect" id="node17" href="$a00335.html" title="This class represents the channel info model of the model/view framework of mne_browse application..." alt="" coords="3865,169,4007,211"/>
+<area shape="rect" id="node21" href="$a00311_source.html" title="disp/viewers/filterdesignview.h" alt="" coords="3591,177,3791,203"/>
+<area shape="rect" id="node22" href="$a01523.html" title="The FilterData class represents a derived class from an arbitrary MNEOperator class object..." alt="" coords="3898,259,4070,285"/>
+<area shape="rect" id="node23" href="$a00317.html" title="Declaration of the FilterSettingsView Class. " alt="" coords="3095,177,3303,203"/>
+<area shape="rect" id="node24" href="$a00347.html" title="Declaration of the EvokedSetModel Class. " alt="" coords="4031,169,4172,211"/>
+<area shape="rect" id="node29" href="$a00227_source.html" title="disp/viewers/averagelayoutview.h" alt="" coords="2801,177,3020,203"/>
+<area shape="rect" id="node30" href="$a00443.html" title="Declaration of the ScalingView Class. " alt="" coords="2599,177,2777,203"/>
+<area shape="rect" id="node32" href="$a00419.html" title="Declaration of the ProjectorsView Class. " alt="" coords="1157,177,1352,203"/>
+<area shape="rect" id="node33" href="$a00257.html" title="Declaration of the CompensatorView Class. " alt="" coords="1377,177,1589,203"/>
+<area shape="rect" id="node34" href="$a00413.html" title="Declaration of the ModalitySelectionView Class. " alt="" coords="1871,177,2110,203"/>
+<area shape="rect" id="node35" href="$a00305.html" title="Declaration of the FiffRawViewSettings Class. " alt="" coords="656,177,875,203"/>
+<area shape="rect" id="node36" href="$a00233.html" title="Declaration of the AverageSelectionView Class. " alt="" coords="1612,177,1847,203"/>
+<area shape="rect" id="node37" href="$a00239.html" title="Contains the declaration of the AveragingSettingsView class. " alt="" coords="3327,177,3566,203"/>
+<area shape="rect" id="node38" href="$a02213.html" title="Contains the declaration of the RealTimeEvokedSet class. " alt="" coords="165,177,355,203"/>
+<area shape="rect" id="node3" href="$a02177_source.html" title="scdisp_global.h" alt="" coords="720,259,832,285"/>
+<area shape="rect" id="node4" href="$a02132.html" title="Declaration of the MeasurementWidget Class. " alt="" coords="481,177,631,203"/>
+<area shape="rect" id="node5" href="$a02183.html" title="MeasurementTreeItem class declaration. " alt="" coords="272,259,435,285"/>
+<area shape="rect" id="node6" href="$a02246.html" title="Contains the scMeas library export/import macros. " alt="" coords="293,333,413,360"/>
+<area shape="rect" id="node10" href="$a00167.html" title="disp library export/import macros. " alt="" coords="2449,259,2559,285"/>
+<area shape="rect" id="node14" href="$a00341.html" title="Definition of the DraggableFramelessWidget Class. " alt="" coords="2343,177,2574,203"/>
+<area shape="rect" id="node25" href="$a00959.html" title="Definitions for describing the objects in a FIFF file. " alt="" coords="2635,333,2741,360"/>
+<area shape="rect" id="node31" href="$a00824.html" title="FiffChInfo class declaration. " alt="" coords="2630,259,2746,285"/>
+<area shape="rect" id="node39" href="$a02231.html" title="Contains the declaration of the RealTimeSampleArrayChInfo class. " alt="" coords="459,259,645,285"/>
+<area shape="rect" id="node40" href="$a00887.html" title="FiffEvokedSet class declaration. " alt="" coords="5,259,147,285"/>
+</map>

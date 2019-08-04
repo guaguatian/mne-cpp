@@ -1,0 +1,51 @@
+<map id="libraries/fiff/fiff_cov.h" name="libraries/fiff/fiff_cov.h">
+<area shape="rect" id="node2" href="$a00842.html" title="Definition of the FiffCov Class. " alt="" coords="1671,95,1776,136"/>
+<area shape="rect" id="node3" href="$a00947.html" title="Definition of the FiffStream Class. " alt="" coords="1800,95,1905,136"/>
+<area shape="rect" id="node4" href="$a01136.html" title="HPIFit class defintion. " alt="" coords="1929,95,2078,136"/>
+<area shape="rect" id="node5" href="$a01427.html" title="MNEForwardSolution class declaration, which provides the forward solution including the source space ..." alt="" coords="2103,102,2333,129"/>
+<area shape="rect" id="node25" href="$a06424_source.html" title="libraries/mne/mne_inverse\l_operator.h" alt="" coords="4053,191,4228,233"/>
+<area shape="rect" id="node29" href="$a06286_source.html" title="examples/ex_make_inverse\l_operator/main.cpp" alt="" coords="4845,399,5029,441"/>
+<area shape="rect" id="node30" href="$a06433_source.html" title="libraries/mne/mne.h" alt="" coords="2393,303,2529,329"/>
+<area shape="rect" id="node42" href="$a01475.html" title="Definition of the RtCov Class. " alt="" coords="3603,95,3745,136"/>
+<area shape="rect" id="node43" href="$a01496.html" title="RtInvOp class declaration. " alt="" coords="3887,191,4029,233"/>
+<area shape="rect" id="node44" href="$a01502.html" title="RtNoise class declaration. " alt="" coords="4252,95,4395,136"/>
+<area shape="rect" id="node45" href="$a01499.html" title="Definition of the RtNoise Class. " alt="" coords="4252,191,4395,233"/>
+<area shape="rect" id="node47" href="$a02207.html" title="Contains the declaration of the RealTimeCov class. " alt="" coords="3394,191,3573,233"/>
+<area shape="rect" id="node50" href="$a02504.html" title="Definition of the Covariance class. " alt="" coords="3818,295,4045,337"/>
+<area shape="rect" id="node6" href="$a00056.html" title="ConnectivitySettings class definition. " alt="" coords="1392,191,1559,233"/>
+<area shape="rect" id="node7" href="$a00506.html" title="Data3DTreeModel class declaration. " alt="" coords="851,191,1025,233"/>
+<area shape="rect" id="node14" href="$a00782.html" title="SourceEstimateView class definition. " alt="" coords="1163,295,1329,337"/>
+<area shape="rect" id="node15" href="$a06304_source.html" title="examples/ex_read_fwd\l_disp_3D/main.cpp" alt="" coords="5,295,161,337"/>
+<area shape="rect" id="node16" href="$a00587_source.html" title="libraries/disp3D/engine\l/model/items/measurement\l/measurementtreeitem.h" alt="" coords="1779,184,1959,240"/>
+<area shape="rect" id="node17" href="$a00593.html" title="MriTreeItem class declaration. " alt="" coords="1983,191,2181,233"/>
+<area shape="rect" id="node18" href="$a00578.html" title="HemisphereTreeItem class definition. " alt="" coords="314,184,482,240"/>
+<area shape="rect" id="node19" href="$a00596.html" title="NetworkTreeItem class definition. " alt="" coords="557,191,826,233"/>
+<area shape="rect" id="node20" href="$a00632.html" title="MneDataTreeItem class definition. " alt="" coords="1101,184,1266,240"/>
+<area shape="rect" id="node21" href="$a01175.html" title="RapMusic algorithm class declaration. " alt="" coords="1583,191,1754,233"/>
+<area shape="rect" id="node22" href="$a01169.html" title="PwlRapMusic algorithm class declaration. " alt="" coords="1582,295,1753,337"/>
+<area shape="rect" id="node23" href="$a02876.html" title="Contains the declaration of the RapMusicToolbox class. " alt="" coords="1791,392,1957,448"/>
+<area shape="rect" id="node24" href="$a02867.html" title="Definition of the RapMusicToolboxSetupWidget class. " alt="" coords="1347,496,1625,552"/>
+<area shape="rect" id="node27" href="$a06430_source.html" title="applications/mne_scan\l/plugins/mne/mne.cpp" alt="" coords="3938,399,4093,441"/>
+<area shape="rect" id="node33" href="$a01493.html" title="Definition of the RtInvOp Class. " alt="" coords="4069,295,4212,337"/>
+<area shape="rect" id="node35" href="$a02753.html" title="Definition of the MNESetupWidget class. " alt="" coords="2203,392,2361,448"/>
+<area shape="rect" id="node36" href="$a01424.html" title="MNEForwardSolution class implementation. " alt="" coords="2357,199,2602,225"/>
+<area shape="rect" id="node37" href="$a02237.html" title="Contains the declaration of the RealTimeSourceEstimate class. " alt="" coords="3041,191,3288,233"/>
+<area shape="rect" id="node41" href="$a02198.html" title="Definition of the RealTimeConnectivityEstimate class. " alt="" coords="2626,191,2917,233"/>
+<area shape="rect" id="node8" href="$a00479.html" title="Data3DTreeDelegate class definition. " alt="" coords="556,295,773,337"/>
+<area shape="rect" id="node9" href="$a00503.html" title="Data3DTreeModel class definition. " alt="" coords="1777,295,1966,337"/>
+<area shape="rect" id="node10" href="$a00740.html" title="View3D class definition. " alt="" coords="798,295,953,337"/>
+<area shape="rect" id="node11" href="$a00758.html" title="AbstractView class definition. " alt="" coords="977,295,1139,337"/>
+<area shape="rect" id="node12" href="$a00764.html" title="ECDView class definition. " alt="" coords="185,295,347,337"/>
+<area shape="rect" id="node13" href="$a00770.html" title="HpiView class definition. " alt="" coords="371,295,532,337"/>
+<area shape="rect" id="node26" href="$a01157.html" title="Minimum norm class declaration. " alt="" coords="4666,295,4837,337"/>
+<area shape="rect" id="node28" href="$a06274_source.html" title="examples/ex_inverse\l_mne/main.cpp" alt="" coords="4675,399,4820,441"/>
+<area shape="rect" id="node32" href="$a06418_source.html" title="libraries/mne/mne_inverse\l_operator.cpp" alt="" coords="4467,295,4641,337"/>
+<area shape="rect" id="node34" href="$a06436_source.html" title="applications/mne_scan\l/plugins/mne/mne.h" alt="" coords="4287,295,4442,337"/>
+<area shape="rect" id="node31" href="$a06427_source.html" title="libraries/mne/mne.cpp" alt="" coords="2385,407,2536,433"/>
+<area shape="rect" id="node38" href="$a02186.html" title="Definition of the MeasurementTypes class. " alt="" coords="3041,295,3277,337"/>
+<area shape="rect" id="node39" href="$a02261.html" title="Definition of the DisplayManager Class. " alt="" coords="2603,288,2787,344"/>
+<area shape="rect" id="node40" href="$a02273.html" title="Contains the declaration of the PluginConnectorConnection class. " alt="" coords="2811,288,3017,344"/>
+<area shape="rect" id="node46" href="$a02834.html" title="Contains the declaration of the NoiseEstimate class. " alt="" coords="4419,191,4617,233"/>
+<area shape="rect" id="node48" href="$a02141.html" title="Definition of the RealTimeCovWidget Class. " alt="" coords="3301,295,3527,337"/>
+<area shape="rect" id="node49" href="$a02204.html" title="Definition of the RealTimeCov class. " alt="" coords="3551,295,3743,337"/>
+</map>

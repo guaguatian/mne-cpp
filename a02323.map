@@ -1,0 +1,51 @@
+<map id="applications/mne_scan/libs/scShared/scshared_global.h" name="applications/mne_scan/libs/scShared/scshared_global.h">
+<area shape="rect" id="node2" href="$a02312_source.html" title="applications/mne_scan\l/libs/scShared/Management\l/pluginoutputdata.h" alt="" coords="2418,317,2602,373"/>
+<area shape="rect" id="node21" href="$a02264.html" title="Declaration of the DisplayManager Class. " alt="" coords="2189,525,2373,581"/>
+<area shape="rect" id="node25" href="$a02276.html" title="Contains the declaration of the PluginConnectorConnection class. " alt="" coords="3747,525,3937,581"/>
+<area shape="rect" id="node28" href="$a02318.html" title="Contains declaration of PluginSceneManager class. " alt="" coords="3137,629,3321,685"/>
+<area shape="rect" id="node44" href="$a02306.html" title="Contains the declaration of the PluginOutputConnector class. " alt="" coords="3190,213,3374,269"/>
+<area shape="rect" id="node45" href="$a02270.html" title="Contains the declaration of the PluginConnector class. " alt="" coords="3319,109,3503,165"/>
+<area shape="rect" id="node46" href="$a02288_source.html" title="applications/mne_scan\l/libs/scShared/Management\l/plugininputconnector.h" alt="" coords="3629,213,3813,269"/>
+<area shape="rect" id="node47" href="$a02294.html" title="Contains the declaration of the PluginInputData class. " alt="" coords="3603,317,3787,373"/>
+<area shape="rect" id="node49" href="$a02282.html" title="Contains the declaration of the PluginConnectorConnectionWidget class. " alt="" coords="3962,525,4191,581"/>
+<area shape="rect" id="node50" href="$a02300.html" title="Contains the declaration of the PluginManager class. " alt="" coords="2929,629,3113,685"/>
+<area shape="rect" id="node3" href="$a02255.html" title="Contains declaration of IPlugin interface class. " alt="" coords="2788,421,2955,477"/>
+<area shape="rect" id="node36" href="$a06208_source.html" title="applications/mne_scan\l/mne_scan/main.cpp" alt="" coords="3593,637,3747,678"/>
+<area shape="rect" id="node40" href="$a02309.html" title="Contains the declaration of the PluginOutputData class. " alt="" coords="2418,421,2602,477"/>
+<area shape="rect" id="node41" href="$a02744.html" title="Contains the declaration of the LSLAdapterProducer class. " alt="" coords="1909,429,2157,470"/>
+<area shape="rect" id="node4" href="$a02249.html" title="Contains declaration of IAlgorithm interface class. " alt="" coords="1440,629,1607,685"/>
+<area shape="rect" id="node5" href="$a02297.html" title="Definition of the PluginManager class. " alt="" coords="2574,733,2758,789"/>
+<area shape="rect" id="node6" href="$a02336.html" title="PluginGui class implementation. " alt="" coords="3088,927,3255,968"/>
+<area shape="rect" id="node19" href="$a02252.html" title="Contains declaration of IIO interface class. " alt="" coords="2462,637,2662,678"/>
+<area shape="rect" id="node20" href="$a02258.html" title="Contains declaration of IIinverseAlgorithm interface class. " alt="" coords="2737,629,2904,685"/>
+<area shape="rect" id="node24" href="$a02267.html" title="Definition of the PluginConnector class. " alt="" coords="3061,525,3245,581"/>
+<area shape="rect" id="node37" href="$a02285.html" title="Definition of the PluginInputConnector class. " alt="" coords="3269,525,3453,581"/>
+<area shape="rect" id="node38" href="$a02303.html" title="Contains the declaration of the PluginOutputConnector class. " alt="" coords="2447,525,2631,581"/>
+<area shape="rect" id="node39" href="$a02345.html" title="PluginItem class declaration. " alt="" coords="3358,637,3518,678"/>
+<area shape="rect" id="node7" href="$a02369.html" title="Contains the declaration of the Averaging class. " alt="" coords="2123,741,2321,782"/>
+<area shape="rect" id="node8" href="$a02441.html" title="Contains the declaration of the BCI class. " alt="" coords="2345,741,2499,782"/>
+<area shape="rect" id="node9" href="$a02507.html" title="Contains the declaration of the Covariance class. " alt="" coords="55,741,267,782"/>
+<area shape="rect" id="node10" href="$a02534.html" title="Contains the declaration of the DummyToolbox class. " alt="" coords="291,733,447,789"/>
+<area shape="rect" id="node11" href="$a02639.html" title="Contains the declaration of the epidetect class. " alt="" coords="471,741,663,782"/>
+<area shape="rect" id="node12" href="$a06436_source.html" title="applications/mne_scan\l/plugins/mne/mne.h" alt="" coords="687,741,842,782"/>
+<area shape="rect" id="node13" href="$a02819.html" title="Contains the declaration of the NeuronalConnectivity class. " alt="" coords="867,733,1057,789"/>
+<area shape="rect" id="node14" href="$a02834.html" title="Contains the declaration of the NoiseEstimate class. " alt="" coords="1081,741,1280,782"/>
+<area shape="rect" id="node15" href="$a02855.html" title="Contains the declaration of the NoiseReduction class. " alt="" coords="1354,733,1509,789"/>
+<area shape="rect" id="node16" href="$a02876.html" title="Contains the declaration of the RapMusicToolbox class. " alt="" coords="1533,733,1700,789"/>
+<area shape="rect" id="node17" href="$a02909.html" title="Contains the declaration of the Reference class. " alt="" coords="1725,741,1919,782"/>
+<area shape="rect" id="node18" href="$a02930.html" title="Contains the declaration of the RTHPI class. " alt="" coords="1943,741,2098,782"/>
+<area shape="rect" id="node22" href="$a02261.html" title="Definition of the DisplayManager Class. " alt="" coords="1231,629,1415,685"/>
+<area shape="rect" id="node23" href="$a06334_source.html" title="applications/mne_scan\l/mne_scan/mainwindow.cpp" alt="" coords="2522,927,2709,968"/>
+<area shape="rect" id="node26" href="$a02273.html" title="Contains the declaration of the PluginConnectorConnection class. " alt="" coords="3825,629,4030,685"/>
+<area shape="rect" id="node27" href="$a02279.html" title="Definition of the PluginConnectorConnectionWidget class. " alt="" coords="4054,629,4297,685"/>
+<area shape="rect" id="node33" href="$a02327.html" title="Arrow class declaration. " alt="" coords="3718,741,3873,782"/>
+<area shape="rect" id="node29" href="$a02315.html" title="Definition of the PluginSceneManager class. " alt="" coords="3035,733,3219,789"/>
+<area shape="rect" id="node30" href="$a02351.html" title="PluginScene class declaration. " alt="" coords="3243,741,3414,782"/>
+<area shape="rect" id="node31" href="$a02339.html" title="PluginGui class declaration. " alt="" coords="3094,837,3249,879"/>
+<area shape="rect" id="node32" href="$a02348.html" title="PluginScene class implementation. " alt="" coords="3279,927,3463,968"/>
+<area shape="rect" id="node34" href="$a02324.html" title="Arrow class implementation. " alt="" coords="3891,837,4046,879"/>
+<area shape="rect" id="node35" href="$a02342.html" title="PluginItem class implementation. " alt="" coords="3591,837,3765,879"/>
+<area shape="rect" id="node42" href="$a02732.html" title="Contains the definition of the LSLAdapter class. " alt="" coords="1665,533,1877,574"/>
+<area shape="rect" id="node43" href="$a02741.html" title="Contains the definition of the LSLAdapterProducer class. " alt="" coords="1901,533,2164,574"/>
+<area shape="rect" id="node48" href="$a02291.html" title="Contains the declaration of the PluginInputData class. " alt="" coords="3629,421,3813,477"/>
+</map>

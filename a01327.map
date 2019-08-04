@@ -1,0 +1,12 @@
+<map id="libraries/mne/c/mne_raw_data.h" name="libraries/mne/c/mne_raw_data.h">
+<area shape="rect" id="node2" href="$a01082.html" title="MNE Meas Data (MneMeasData) class declaration. " alt="" coords="221,95,354,136"/>
+<area shape="rect" id="node11" href="$a01322.html" title="Definition of the MneRawData Class. " alt="" coords="378,95,514,136"/>
+<area shape="rect" id="node3" href="$a01079.html" title="Definition of the MNE Meas Data (MneMeasData) Class. " alt="" coords="47,184,194,225"/>
+<area shape="rect" id="node4" href="$a01091_source.html" title="libraries/inverse/dipole\lFit/analyze_types.h" alt="" coords="269,184,420,225"/>
+<area shape="rect" id="node6" href="$a01097.html" title="Dipole Fit class declaration. " alt="" coords="95,363,245,404"/>
+<area shape="rect" id="node9" href="$a01100_source.html" title="libraries/inverse/dipole\lFit/dipole_fit_data.cpp" alt="" coords="444,363,595,404"/>
+<area shape="rect" id="node5" href="$a01103.html" title="Dipole Fit Data class declaration. " alt="" coords="269,273,420,315"/>
+<area shape="rect" id="node10" href="$a01130.html" title="Definition of the GuessData Class. " alt="" coords="269,363,420,404"/>
+<area shape="rect" id="node7" href="$a01094_source.html" title="libraries/inverse/dipole\lFit/dipole_fit.cpp" alt="" coords="5,452,156,493"/>
+<area shape="rect" id="node8" href="$a06190_source.html" title="applications/mne_dipole\l_fit/main.cpp" alt="" coords="180,452,341,493"/>
+</map>

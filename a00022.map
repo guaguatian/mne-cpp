@@ -1,0 +1,10 @@
+<map id="libraries/communication/rtClient/rtdataclient.h" name="libraries/communication/rtClient/rtdataclient.h">
+<area shape="rect" id="node2" href="$a00005.html" title="Definition of the RtClient Class. " alt="" coords="5,102,164,143"/>
+<area shape="rect" id="node3" href="$a00017.html" title="Definition of the RtDataClient Class. " alt="" coords="188,102,349,143"/>
+<area shape="rect" id="node4" href="$a02672.html" title="Contains the declaration of the FiffSimulatorProducer class. " alt="" coords="374,95,529,151"/>
+<area shape="rect" id="node7" href="$a02801.html" title="Contains the declaration of the NeuromagProducer class. " alt="" coords="553,102,803,143"/>
+<area shape="rect" id="node5" href="$a06352_source.html" title="applications/mne_scan\l/plugins/fiffsimulator\l/fiffsimulator.cpp" alt="" coords="190,199,345,255"/>
+<area shape="rect" id="node6" href="$a02669.html" title="Definition of the FiffSimulatorProducer class. " alt="" coords="369,199,539,255"/>
+<area shape="rect" id="node8" href="$a06370_source.html" title="applications/mne_scan\l/plugins/neuromag/neuromag.cpp" alt="" coords="568,206,783,247"/>
+<area shape="rect" id="node9" href="$a02798.html" title="Definition of the NeuromagProducer class. " alt="" coords="807,206,1071,247"/>
+</map>

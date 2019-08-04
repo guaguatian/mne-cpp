@@ -1,0 +1,9 @@
+<map id="applications/mne_scan/plugins/tmsi/FormFiles/tmsimanualannotationwidget.h" name="applications/mne_scan/plugins/tmsi/FormFiles/tmsimanualannotationwidget.h">
+<area shape="rect" id="node2" href="$a03059.html" title="Contains the declaration of the TMSI class. " alt="" coords="463,109,617,151"/>
+<area shape="rect" id="node4" href="$a03038.html" title="Contains the implementation of the TMSISetupWidget class. " alt="" coords="5,199,221,255"/>
+<area shape="rect" id="node3" href="$a03032.html" title="Contains the declaration of the TMSIImpedanceWidget class. " alt="" coords="246,199,423,255"/>
+<area shape="rect" id="node5" href="$a03044.html" title="Contains the implementation of the TMSISetupProjectWidget class. " alt="" coords="447,199,633,255"/>
+<area shape="rect" id="node6" href="$a03050.html" title="Contains the implementation of the TMSISetupWidget class. " alt="" coords="657,199,815,255"/>
+<area shape="rect" id="node7" href="$a03056.html" title="Contains the implementation of the TMSI class. " alt="" coords="840,206,995,247"/>
+<area shape="rect" id="node8" href="$a03089.html" title="Contains the implementation of the TMSIProducer class. " alt="" coords="1019,206,1219,247"/>
+</map>

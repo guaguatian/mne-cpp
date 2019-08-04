@@ -1,0 +1,18 @@
+<map id="libraries/mne/mne_epoch_data_list.h" name="libraries/mne/mne_epoch_data_list.h">
+<area shape="rect" id="node2" href="$a06433_source.html" title="libraries/mne/mne.h" alt="" coords="13,109,149,136"/>
+<area shape="rect" id="node4" href="$a01418.html" title="Definition of the MNEEpochDataList Class. " alt="" coords="173,102,340,143"/>
+<area shape="rect" id="node5" href="$a01463.html" title="Definition of the RtCov Class. " alt="" coords="364,102,507,143"/>
+<area shape="rect" id="node6" href="$a06430_source.html" title="applications/mne_scan\l/plugins/mne/mne.cpp" alt="" coords="531,102,686,143"/>
+<area shape="rect" id="node7" href="$a02816.html" title="Definition of the NeuronalConnectivity class. " alt="" coords="711,95,901,151"/>
+<area shape="rect" id="node8" href="$a06220_source.html" title="examples/ex_clustered\l_inverse_mne_raw/main.cpp" alt="" coords="925,102,1113,143"/>
+<area shape="rect" id="node9" href="$a06223_source.html" title="examples/ex_clustered\l_inverse_pwl_rap_music\l_raw/main.cpp" alt="" coords="1138,95,1303,151"/>
+<area shape="rect" id="node10" href="$a06226_source.html" title="examples/ex_clustered\l_inverse_rap_music_raw\l/main.cpp" alt="" coords="1328,95,1495,151"/>
+<area shape="rect" id="node11" href="$a03146.html" title="Definition of the DraggableFramelessWidget Class. " alt="" coords="1519,102,1722,143"/>
+<area shape="rect" id="node12" href="$a06229_source.html" title="examples/ex_connectivity\l/main.cpp" alt="" coords="1603,199,1777,240"/>
+<area shape="rect" id="node13" href="$a06232_source.html" title="examples/ex_connectivity\l_comparison/main.cpp" alt="" coords="1797,102,1970,143"/>
+<area shape="rect" id="node14" href="$a06235_source.html" title="examples/ex_connectivity\l_performance/main.cpp" alt="" coords="1994,102,2167,143"/>
+<area shape="rect" id="node15" href="$a06277_source.html" title="examples/ex_inverse\l_mne_raw/main.cpp" alt="" coords="2192,102,2337,143"/>
+<area shape="rect" id="node16" href="$a06295_source.html" title="examples/ex_read_epochs\l/main.cpp" alt="" coords="2361,102,2539,143"/>
+<area shape="rect" id="node17" href="$a06319_source.html" title="examples/ex_st_clustered\l_inverse_pwl_rap_music\l/main.cpp" alt="" coords="2563,95,2737,151"/>
+<area shape="rect" id="node3" href="$a06427_source.html" title="libraries/mne/mne.cpp" alt="" coords="5,206,156,233"/>
+</map>

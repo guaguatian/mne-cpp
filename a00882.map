@@ -1,0 +1,16 @@
+<map id="libraries/fiff/fiff_evoked.h" name="libraries/fiff/fiff_evoked.h">
+<area shape="rect" id="node2" href="$a00896.html" title="Fiff library export/import macros. " alt="" coords="691,393,781,420"/>
+<area shape="rect" id="node4" href="$a00908.html" title="FiffInfo class declaration. " alt="" coords="1165,95,1241,121"/>
+<area shape="rect" id="node6" href="$a00959.html" title="Definitions for describing the objects in a FIFF file. " alt="" coords="1577,393,1663,420"/>
+<area shape="rect" id="node27" href="$a00893.html" title="Header file describing the numerical values used in fif files. " alt="" coords="2249,95,2321,121"/>
+<area shape="rect" id="node5" href="$a00914.html" title="FiffInfoBase class declaration. " alt="" coords="1054,169,1165,196"/>
+<area shape="rect" id="node13" href="$a00902.html" title="FiffId class declaration. " alt="" coords="1106,319,1171,345"/>
+<area shape="rect" id="node15" href="$a00824.html" title="FiffChInfo class declaration. " alt="" coords="1241,244,1338,271"/>
+<area shape="rect" id="node18" href="$a00857.html" title="FiffDigPoint class declaration. " alt="" coords="1471,319,1577,345"/>
+<area shape="rect" id="node20" href="$a00851.html" title="FiffCtfComp class declaration. " alt="" coords="613,244,723,271"/>
+<area shape="rect" id="node24" href="$a00839.html" title="FiffCoordTrans class declaration. " alt="" coords="857,319,980,345"/>
+<area shape="rect" id="node26" href="$a00932.html" title="FiffProj class declaration. " alt="" coords="513,244,589,271"/>
+<area shape="rect" id="node7" href="$a00833.html" title="Fiff constants. " alt="" coords="813,468,925,495"/>
+<area shape="rect" id="node16" href="$a00830.html" title="FiffChPos class declaration. " alt="" coords="1247,319,1345,345"/>
+<area shape="rect" id="node21" href="$a00926.html" title="FiffNamedMatrix class declaration. " alt="" coords="189,319,326,345"/>
+</map>

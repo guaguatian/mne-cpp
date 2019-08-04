@@ -1,0 +1,10 @@
+<map id="applications/mne_scan/plugins/gusbamp/gusbamp_global.h" name="applications/mne_scan/plugins/gusbamp/gusbamp_global.h">
+<area shape="rect" id="node2" href="$a02708.html" title="Contains the declaration of the GUSBAmp class. " alt="" coords="461,109,653,151"/>
+<area shape="rect" id="node7" href="$a02723.html" title="Contains the declaration of the GUSBAmpProducer class. " alt="" coords="684,109,927,151"/>
+<area shape="rect" id="node9" href="$a02717.html" title="Contains the declaration of the GUSBAmpdriver class. This class implements the basic communication be..." alt="" coords="951,109,1175,151"/>
+<area shape="rect" id="node3" href="$a02693.html" title="Contains the implementation of the gUSBampSetupProjectWidget class. " alt="" coords="216,199,429,255"/>
+<area shape="rect" id="node4" href="$a02699.html" title="Contains the implementation of the GUSBAmpSetupWidget class. " alt="" coords="5,199,192,255"/>
+<area shape="rect" id="node5" href="$a02705.html" title="Contains the implementation of the GUSBAmp class. " alt="" coords="454,206,661,247"/>
+<area shape="rect" id="node6" href="$a02720.html" title="Contains the implementation of the GUSBAmpProducer class. " alt="" coords="685,206,941,247"/>
+<area shape="rect" id="node8" href="$a02714.html" title="Contains the implementation of the GUSBAmpDriver class. " alt="" coords="966,206,1205,247"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="applications/mne_scan/mne_scan/pluginitem.cpp" name="applications/mne_scan/mne_scan/pluginitem.cpp">
+<area shape="rect" id="node2" href="$a02345.html" title="PluginItem class declaration. " alt="" coords="1583,191,1675,218"/>
+<area shape="rect" id="node29" href="$a02327.html" title="Arrow class declaration. " alt="" coords="1513,102,1578,129"/>
+<area shape="rect" id="node3" href="$a02255.html" title="Contains declaration of IPlugin interface class. " alt="" coords="1123,273,1261,315"/>
+<area shape="rect" id="node4" href="$a02312_source.html" title="../Management/pluginoutputdata.h" alt="" coords="517,363,736,389"/>
+<area shape="rect" id="node20" href="$a02294.html" title="Contains the declaration of the PluginInputData class. " alt="" coords="908,363,1119,389"/>
+<area shape="rect" id="node5" href="$a02321.html" title="Contains the scshared library export/import macros. " alt="" coords="23,587,161,613"/>
+<area shape="rect" id="node7" href="$a02306.html" title="Contains the declaration of the PluginOutputConnector class. " alt="" coords="144,437,304,464"/>
+<area shape="rect" id="node18" href="$a02309.html" title="Contains the declaration of the PluginOutputData class. " alt="" coords="555,437,698,464"/>
+<area shape="rect" id="node8" href="$a02270.html" title="Contains the declaration of the PluginConnector class. " alt="" coords="305,512,429,539"/>
+<area shape="rect" id="node14" href="$a02183.html" title="MeasurementTreeItem class declaration. " alt="" coords="453,512,616,539"/>
+<area shape="rect" id="node15" href="$a02246.html" title="Contains the scMeas library export/import macros. " alt="" coords="540,587,660,613"/>
+<area shape="rect" id="node21" href="$a02288_source.html" title="plugininputconnector.h" alt="" coords="379,437,531,464"/>
+<area shape="rect" id="node22" href="$a02291.html" title="Contains the declaration of the PluginInputData class. " alt="" coords="939,437,1074,464"/>
+<area shape="rect" id="node30" href="$a02276.html" title="Contains the declaration of the PluginConnectorConnection class. " alt="" coords="334,184,525,225"/>
+</map>

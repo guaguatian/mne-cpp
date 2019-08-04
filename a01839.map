@@ -1,0 +1,31 @@
+<map id="applications/mne_browse/Delegates/averagedelegate.h" name="applications/mne_browse/Delegates/averagedelegate.h">
+<area shape="rect" id="node2" href="$a06412_source.html" title="../Utils/types.h" alt="" coords="4217,95,4325,121"/>
+<area shape="rect" id="node5" href="$a00818.html" title="FIFF class declaration, which provides static wrapper functions to stay consistent with mne matlab to..." alt="" coords="2936,244,3003,271"/>
+<area shape="rect" id="node44" href="$a01898.html" title="The FilterOperator class represents a derived class from an arbitrary MNEOperator class object..." alt="" coords="4833,169,4938,196"/>
+<area shape="rect" id="node6" href="$a00896.html" title="Fiff library export/import macros. " alt="" coords="1586,781,1675,808"/>
+<area shape="rect" id="node8" href="$a00833.html" title="Fiff constants. " alt="" coords="1453,856,1565,883"/>
+<area shape="rect" id="node9" href="$a00839.html" title="FiffCoordTrans class declaration. " alt="" coords="3587,625,3709,651"/>
+<area shape="rect" id="node10" href="$a00959.html" title="Definitions for describing the objects in a FIFF file. " alt="" coords="2371,781,2458,808"/>
+<area shape="rect" id="node17" href="$a00875.html" title="FiffDirNode class declaration, which provides fiff dir tree processing methods. " alt="" coords="2077,625,2181,651"/>
+<area shape="rect" id="node18" href="$a00869.html" title="FiffDirEntry class declaration. " alt="" coords="1881,707,1986,733"/>
+<area shape="rect" id="node22" href="$a00926.html" title="FiffNamedMatrix class declaration. " alt="" coords="4038,707,4175,733"/>
+<area shape="rect" id="node25" href="$a00956.html" title="FiffTag class declaration, which provides fiff tag I/O and processing methods. " alt="" coords="1250,543,1323,569"/>
+<area shape="rect" id="node34" href="$a00932.html" title="FiffProj class declaration. " alt="" coords="3217,625,3293,651"/>
+<area shape="rect" id="node35" href="$a00851.html" title="FiffCtfComp class declaration. " alt="" coords="3453,625,3563,651"/>
+<area shape="rect" id="node36" href="$a00908.html" title="FiffInfo class declaration. " alt="" coords="2975,468,3051,495"/>
+<area shape="rect" id="node38" href="$a00938.html" title="FiffRawData class declaration. " alt="" coords="2151,393,2259,420"/>
+<area shape="rect" id="node39" href="$a00944.html" title="FiffRawDir class declaration. " alt="" coords="2409,625,2506,651"/>
+<area shape="rect" id="node40" href="$a00950.html" title="FiffStream class declaration. " alt="" coords="2082,543,2177,569"/>
+<area shape="rect" id="node42" href="$a00887.html" title="FiffEvokedSet class declaration. " alt="" coords="3081,319,3204,345"/>
+<area shape="rect" id="node19" href="$a00902.html" title="FiffId class declaration. " alt="" coords="2113,707,2178,733"/>
+<area shape="rect" id="node20" href="$a00890.html" title="Fiff block and dir tag explainations. " alt="" coords="1659,707,1755,733"/>
+<area shape="rect" id="node21" href="$a00893.html" title="Header file describing the numerical values used in fif files. " alt="" coords="1011,781,1083,808"/>
+<area shape="rect" id="node26" href="$a00824.html" title="FiffChInfo class declaration. " alt="" coords="2886,625,2983,651"/>
+<area shape="rect" id="node27" href="$a00830.html" title="FiffChPos class declaration. " alt="" coords="2254,707,2351,733"/>
+<area shape="rect" id="node29" href="$a00857.html" title="FiffDigPoint class declaration. " alt="" coords="1717,625,1824,651"/>
+<area shape="rect" id="node37" href="$a00914.html" title="FiffInfoBase class declaration. " alt="" coords="3009,543,3119,569"/>
+<area shape="rect" id="node43" href="$a00881.html" title="FiffEvoked class declaration. " alt="" coords="3007,393,3105,420"/>
+<area shape="rect" id="node45" href="$a00377.html" title="Declaration of the MNEOperator Class. " alt="" coords="3987,617,4128,659"/>
+<area shape="rect" id="node47" href="$a01535.html" title="utils/filterTools/parksmcclellan.h" alt="" coords="5099,319,5309,345"/>
+<area shape="rect" id="node48" href="$a01517.html" title="Declaration of the CosineFilter class. " alt="" coords="5174,468,5359,495"/>
+</map>

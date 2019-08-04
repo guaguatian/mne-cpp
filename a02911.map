@@ -1,0 +1,7 @@
+<map id="applications/mne_scan/plugins/reference/reference.h" name="applications/mne_scan/plugins/reference/reference.h">
+<area shape="rect" id="node2" href="$a02897.html" title="Contains the declaration of the ReferenceSetupWidget class. " alt="" coords="5,95,192,151"/>
+<area shape="rect" id="node4" href="$a02903.html" title="Contains the declaration of the ReferenceToolbarWidget class. " alt="" coords="216,95,403,151"/>
+<area shape="rect" id="node6" href="$a02906.html" title="Definition of the Reference class. " alt="" coords="427,102,635,143"/>
+<area shape="rect" id="node3" href="$a02894.html" title="Definition of the ECGSetupWidget class. " alt="" coords="5,199,192,255"/>
+<area shape="rect" id="node5" href="$a02900.html" title="Definition of the ReferenceToolbarWidget class. " alt="" coords="216,199,403,255"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="applications/mne_scan/plugins/babymeg/babymegclient.h" name="applications/mne_scan/plugins/babymeg/babymegclient.h">
+<area shape="rect" id="node2" href="$a02405.html" title="BabyMEGInfo class declaration. " alt="" coords="1120,95,1227,121"/>
+<area shape="rect" id="node3" href="$a02393.html" title="Contains the BabyMEG library export/import macros. " alt="" coords="723,169,850,196"/>
+<area shape="rect" id="node5" href="$a00908.html" title="FiffInfo class declaration. " alt="" coords="1109,169,1203,196"/>
+<area shape="rect" id="node6" href="$a00896.html" title="Fiff library export/import macros. " alt="" coords="347,468,437,495"/>
+<area shape="rect" id="node7" href="$a00914.html" title="FiffInfoBase class declaration. " alt="" coords="943,244,1054,271"/>
+<area shape="rect" id="node8" href="$a00959.html" title="Definitions for describing the objects in a FIFF file. " alt="" coords="998,468,1085,495"/>
+<area shape="rect" id="node15" href="$a00902.html" title="FiffId class declaration. " alt="" coords="618,393,683,420"/>
+<area shape="rect" id="node17" href="$a00824.html" title="FiffChInfo class declaration. " alt="" coords="858,319,955,345"/>
+<area shape="rect" id="node20" href="$a00857.html" title="FiffDigPoint class declaration. " alt="" coords="436,393,543,420"/>
+<area shape="rect" id="node22" href="$a00851.html" title="FiffCtfComp class declaration. " alt="" coords="1193,319,1303,345"/>
+<area shape="rect" id="node26" href="$a00839.html" title="FiffCoordTrans class declaration. " alt="" coords="1175,393,1297,420"/>
+<area shape="rect" id="node28" href="$a00932.html" title="FiffProj class declaration. " alt="" coords="1347,319,1423,345"/>
+<area shape="rect" id="node9" href="$a00833.html" title="Fiff constants. " alt="" coords="1153,543,1265,569"/>
+<area shape="rect" id="node18" href="$a00830.html" title="FiffChPos class declaration. " alt="" coords="810,393,907,420"/>
+<area shape="rect" id="node23" href="$a00926.html" title="FiffNamedMatrix class declaration. " alt="" coords="1626,393,1763,420"/>
+</map>

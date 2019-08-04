@@ -1,0 +1,9 @@
+<map id="ANSHAREDLIB::IExtension" name="ANSHAREDLIB::IExtension">
+<area shape="rect" id="node3" href="$a04915.html" title="The DeepCNTK class provides a Machine Learning Capbilities. " alt="" coords="5,417,188,509"/>
+<area shape="rect" id="node4" href="$a04935.html" title="The DipoleFit class provides input and output capabilities for the fiff file format. " alt="" coords="212,417,381,509"/>
+<area shape="rect" id="node5" href="$a04943.html" title="The FiffIO class provides input and output capabilities for the fiff file format. ..." alt="" coords="405,425,588,502"/>
+<area shape="rect" id="node6" href="$a04951.html" title="The InvMNE class provides MNE based inverse estimation. " alt="" coords="612,425,821,502"/>
+<area shape="rect" id="node7" href="$a04959.html" title="The Music class provides MUSIC based estimations. " alt="" coords="846,425,1033,502"/>
+<area shape="rect" id="node8" href="$a04967.html" title="The STCBrowser class provides stc browsing capabilities. " alt="" coords="1057,417,1254,509"/>
+<area shape="rect" id="node9" href="$a04971.html" title="The Surfer class provides a Disp3D Views. " alt="" coords="1279,425,1477,502"/>
+</map>

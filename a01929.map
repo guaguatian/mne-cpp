@@ -1,0 +1,28 @@
+<map id="applications/mne_browse/Windows/averagewindow.h" name="applications/mne_browse/Windows/averagewindow.h">
+<area shape="rect" id="node3" href="$a01874.html" title="Contains the declaration of the ButterflyScene class. " alt="" coords="3141,102,3299,129"/>
+<area shape="rect" id="node28" href="$a06412_source.html" title="types.h" alt="" coords="2365,273,2430,300"/>
+<area shape="rect" id="node37" href="$a00401.html" title="Contains the declaration of the SelectionSceneItem class. " alt="" coords="3231,184,3380,225"/>
+<area shape="rect" id="node38" href="$a01856.html" title="This class represents the average model of the model/view framework of mne_browse application..." alt="" coords="2418,102,2590,129"/>
+<area shape="rect" id="node42" href="$a01838.html" title="Contains the declaration of the AverageDelegate class. " alt="" coords="2724,102,2927,129"/>
+<area shape="rect" id="node44" href="$a01595.html" title="LayoutLoader class declaration. " alt="" coords="3141,647,3272,673"/>
+<area shape="rect" id="node46" href="$a00323.html" title="Contains the declaration of the AverageScene class. " alt="" coords="3324,95,3465,136"/>
+<area shape="rect" id="node4" href="$a01880.html" title="Contains the declaration of the ButterflySceneItem class. " alt="" coords="3023,191,3163,218"/>
+<area shape="rect" id="node34" href="$a00371.html" title="Contains the declaration of the LayoutScene class. " alt="" coords="3487,184,3628,225"/>
+<area shape="rect" id="node7" href="$a00818.html" title="FIFF class declaration, which provides static wrapper functions to stay consistent with mne matlab to..." alt="" coords="1273,423,1340,449"/>
+<area shape="rect" id="node8" href="$a00896.html" title="Fiff library export/import macros. " alt="" coords="873,796,962,823"/>
+<area shape="rect" id="node9" href="$a00833.html" title="Fiff constants. " alt="" coords="1195,871,1307,897"/>
+<area shape="rect" id="node10" href="$a00839.html" title="FiffCoordTrans class declaration. " alt="" coords="2059,721,2181,748"/>
+<area shape="rect" id="node11" href="$a00959.html" title="Definitions for describing the objects in a FIFF file. " alt="" coords="1289,796,1375,823"/>
+<area shape="rect" id="node16" href="$a00875.html" title="FiffDirNode class declaration, which provides fiff dir tree processing methods. " alt="" coords="619,647,723,673"/>
+<area shape="rect" id="node17" href="$a00869.html" title="FiffDirEntry class declaration. " alt="" coords="1006,721,1111,748"/>
+<area shape="rect" id="node18" href="$a00926.html" title="FiffNamedMatrix class declaration. " alt="" coords="1187,721,1325,748"/>
+<area shape="rect" id="node19" href="$a00956.html" title="FiffTag class declaration, which provides fiff tag I/O and processing methods. " alt="" coords="2233,647,2306,673"/>
+<area shape="rect" id="node23" href="$a00932.html" title="FiffProj class declaration. " alt="" coords="1375,647,1451,673"/>
+<area shape="rect" id="node25" href="$a00851.html" title="FiffCtfComp class declaration. " alt="" coords="1552,647,1661,673"/>
+<area shape="rect" id="node26" href="$a00908.html" title="FiffInfo class declaration. " alt="" coords="1159,572,1235,599"/>
+<area shape="rect" id="node27" href="$a00938.html" title="FiffRawData class declaration. " alt="" coords="1110,497,1218,524"/>
+<area shape="rect" id="node29" href="$a01898.html" title="The FilterOperator class represents a derived class from an arbitrary MNEOperator class object..." alt="" coords="2345,348,2450,375"/>
+<area shape="rect" id="node35" href="$a00167.html" title="disp library export/import macros. " alt="" coords="3653,273,3776,300"/>
+<area shape="rect" id="node39" href="$a01910.html" title="In this RawSettings class all mne_browse settings are managed. In order to store settings from the la..." alt="" coords="2547,191,2690,218"/>
+<area shape="rect" id="node45" href="$a01655.html" title="utils library export/import macros. " alt="" coords="3381,721,3491,748"/>
+</map>

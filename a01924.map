@@ -1,0 +1,12 @@
+<map id="applications/mne_browse/Windows/aboutwindow.h" name="applications/mne_browse/Windows/aboutwindow.h">
+<area shape="rect" id="node2" href="$a06340_source.html" title="applications/mne_browse\l/Windows/mainwindow.h" alt="" coords="393,95,563,136"/>
+<area shape="rect" id="node11" href="$a01919_source.html" title="applications/mne_browse\l/Windows/aboutwindow.cpp" alt="" coords="587,95,772,136"/>
+<area shape="rect" id="node3" href="$a06187_source.html" title="applications/mne_browse\l/main.cpp" alt="" coords="5,184,175,225"/>
+<area shape="rect" id="node4" href="$a01952.html" title="Contains the declaration of the FilterWindow class. " alt="" coords="199,184,368,225"/>
+<area shape="rect" id="node6" href="$a01946.html" title="Definition of the EventWindow class. " alt="" coords="393,184,563,225"/>
+<area shape="rect" id="node8" href="$a01940.html" title="Definition of the DataWindow class. " alt="" coords="588,184,757,225"/>
+<area shape="rect" id="node10" href="$a06328_source.html" title="applications/mne_browse\l/Windows/mainwindow.cpp" alt="" coords="782,184,963,225"/>
+<area shape="rect" id="node5" href="$a01949.html" title="Definition of the FilterWindow class. " alt="" coords="182,273,361,315"/>
+<area shape="rect" id="node7" href="$a01943_source.html" title="applications/mne_browse\l/Windows/eventwindow.cpp" alt="" coords="385,273,571,315"/>
+<area shape="rect" id="node9" href="$a01937_source.html" title="applications/mne_browse\l/Windows/datawindow.cpp" alt="" coords="595,273,774,315"/>
+</map>

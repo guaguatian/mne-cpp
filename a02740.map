@@ -1,0 +1,7 @@
+<map id="applications/mne_scan/plugins/lsladapter/lsladapter_global.h" name="applications/mne_scan/plugins/lsladapter/lsladapter_global.h">
+<area shape="rect" id="node2" href="$a02735.html" title="Contains the declaration of the LSLAdapter class. " alt="" coords="113,109,311,151"/>
+<area shape="rect" id="node5" href="$a02744.html" title="Contains the declaration of the LSLAdapterProducer class. " alt="" coords="335,109,583,151"/>
+<area shape="rect" id="node3" href="$a02726.html" title="Contains the implementation of the LSLAdapterSetup class. " alt="" coords="5,199,195,255"/>
+<area shape="rect" id="node4" href="$a02732.html" title="Contains the definition of the LSLAdapter class. " alt="" coords="219,206,431,247"/>
+<area shape="rect" id="node6" href="$a02741.html" title="Contains the definition of the LSLAdapterProducer class. " alt="" coords="455,206,718,247"/>
+</map>

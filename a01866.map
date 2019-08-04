@@ -1,0 +1,29 @@
+<map id="applications/mne_browse/Models/rawmodel.cpp" name="applications/mne_browse/Models/rawmodel.cpp">
+<area shape="rect" id="node2" href="$a01868.html" title="This class represents the model of the model/view framework of mne_browse application. It is derived from QAbstractTableModel so the virtual functions rowCount(),columnCount() and data() needed to be reimplemented. The delegate requests the data for any individual table cell by invoking data(QModelIndex index, int role) and a certain role. DisplayRole is the standard role for requesting the plain data. Other roles such as BackgroundRole are requested to fill a cell with a certain background color with respect to the individual index. For further information see [1]. " alt="" coords="3674,95,3763,121"/>
+<area shape="rect" id="node3" href="$a06412_source.html" title="../Utils/types.h" alt="" coords="3446,244,3554,271"/>
+<area shape="rect" id="node6" href="$a00818.html" title="FIFF class declaration, which provides static wrapper functions to stay consistent with mne matlab to..." alt="" coords="2260,393,2327,420"/>
+<area shape="rect" id="node29" href="$a01898.html" title="The FilterOperator class represents a derived class from an arbitrary MNEOperator class object..." alt="" coords="3591,319,3697,345"/>
+<area shape="rect" id="node32" href="$a01535.html" title="utils/filterTools/parksmcclellan.h" alt="" coords="4105,393,4314,420"/>
+<area shape="rect" id="node36" href="$a01910.html" title="In this RawSettings class all mne_browse settings are managed. In order to store settings from the la..." alt="" coords="4583,169,4726,196"/>
+<area shape="rect" id="node42" href="$a01892.html" title="Contains the declaration of the DataPackage class. " alt="" coords="3454,169,3605,196"/>
+<area shape="rect" id="node49" href="$a00920.html" title="Definition of a generic Fiff IO interface. " alt="" coords="1461,475,1545,502"/>
+<area shape="rect" id="node7" href="$a00896.html" title="Fiff library export/import macros. " alt="" coords="985,856,1074,883"/>
+<area shape="rect" id="node8" href="$a00833.html" title="Fiff constants. " alt="" coords="891,931,1003,957"/>
+<area shape="rect" id="node9" href="$a00839.html" title="FiffCoordTrans class declaration. " alt="" coords="2667,707,2789,733"/>
+<area shape="rect" id="node10" href="$a00959.html" title="Definitions for describing the objects in a FIFF file. " alt="" coords="1769,856,1855,883"/>
+<area shape="rect" id="node16" href="$a00875.html" title="FiffDirNode class declaration, which provides fiff dir tree processing methods. " alt="" coords="1000,707,1104,733"/>
+<area shape="rect" id="node17" href="$a00869.html" title="FiffDirEntry class declaration. " alt="" coords="1254,781,1359,808"/>
+<area shape="rect" id="node18" href="$a00926.html" title="FiffNamedMatrix class declaration. " alt="" coords="2145,781,2282,808"/>
+<area shape="rect" id="node19" href="$a00956.html" title="FiffTag class declaration, which provides fiff tag I/O and processing methods. " alt="" coords="1179,632,1253,659"/>
+<area shape="rect" id="node21" href="$a00932.html" title="FiffProj class declaration. " alt="" coords="2566,707,2642,733"/>
+<area shape="rect" id="node22" href="$a00851.html" title="FiffCtfComp class declaration. " alt="" coords="2280,707,2389,733"/>
+<area shape="rect" id="node23" href="$a00908.html" title="FiffInfo class declaration. " alt="" coords="2297,632,2373,659"/>
+<area shape="rect" id="node24" href="$a00938.html" title="FiffRawData class declaration. " alt="" coords="1631,557,1739,584"/>
+<area shape="rect" id="node25" href="$a00944.html" title="FiffRawDir class declaration. " alt="" coords="1627,707,1725,733"/>
+<area shape="rect" id="node26" href="$a00950.html" title="FiffStream class declaration. " alt="" coords="1542,632,1637,659"/>
+<area shape="rect" id="node27" href="$a00887.html" title="FiffEvokedSet class declaration. " alt="" coords="2943,475,3065,502"/>
+<area shape="rect" id="node28" href="$a00881.html" title="FiffEvoked class declaration. " alt="" coords="2107,557,2205,584"/>
+<area shape="rect" id="node30" href="$a00377.html" title="Declaration of the MNEOperator Class. " alt="" coords="3573,468,3715,509"/>
+<area shape="rect" id="node34" href="$a01517.html" title="Declaration of the CosineFilter class. " alt="" coords="3891,557,4077,584"/>
+<area shape="rect" id="node37" href="$a06178_source.html" title="info.h" alt="" coords="4773,319,4827,345"/>
+</map>

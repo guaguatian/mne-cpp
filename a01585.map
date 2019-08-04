@@ -1,0 +1,32 @@
+<map id="libraries/utils/ioutils.h" name="libraries/utils/ioutils.h">
+<area shape="rect" id="node2" href="$a00386.html" title="Definition of the RtFiffRawViewModel Class. " alt="" coords="5,87,208,129"/>
+<area shape="rect" id="node3" href="$a00905.html" title="Definition of the FiffInfo Class. " alt="" coords="233,87,338,129"/>
+<area shape="rect" id="node4" href="$a00947.html" title="Definition of the FiffStream Class. " alt="" coords="362,87,467,129"/>
+<area shape="rect" id="node5" href="$a00953.html" title="Definition of the FiffTag Class. " alt="" coords="491,87,597,129"/>
+<area shape="rect" id="node6" href="$a00989.html" title="Definition of the Surface class. " alt="" coords="620,95,775,121"/>
+<area shape="rect" id="node7" href="$a01136.html" title="HPIFit class defintion. " alt="" coords="799,87,948,129"/>
+<area shape="rect" id="node8" href="$a01352.html" title="Definition of the MNE Surface or Volume (MneSurfaceOrVolume) Class. " alt="" coords="973,87,1137,129"/>
+<area shape="rect" id="node9" href="$a01424.html" title="MNEForwardSolution class implementation. " alt="" coords="1161,95,1407,121"/>
+<area shape="rect" id="node10" href="$a01463.html" title="Definition of the RtCov Class. " alt="" coords="1431,87,1574,129"/>
+<area shape="rect" id="node11" href="$a01580.html" title="Definition of the IOUtils class. " alt="" coords="1598,95,1757,121"/>
+<area shape="rect" id="node12" href="$a02051.html" title="Definition of the FiffStreamThread Class. " alt="" coords="1781,80,1933,136"/>
+<area shape="rect" id="node13" href="$a02387.html" title="BabyMEG class definition. " alt="" coords="1958,87,2165,129"/>
+<area shape="rect" id="node14" href="$a06352_source.html" title="applications/mne_scan\l/plugins/fiffsimulator\l/fiffsimulator.cpp" alt="" coords="2189,80,2344,136"/>
+<area shape="rect" id="node15" href="$a06430_source.html" title="applications/mne_scan\l/plugins/mne/mne.cpp" alt="" coords="2368,87,2523,129"/>
+<area shape="rect" id="node16" href="$a06370_source.html" title="applications/mne_scan\l/plugins/neuromag/neuromag.cpp" alt="" coords="2547,87,2762,129"/>
+<area shape="rect" id="node17" href="$a02852.html" title="Definition of the NoiseReduction class. " alt="" coords="2787,80,2941,136"/>
+<area shape="rect" id="node18" href="$a02885.html" title="EEGRef class declaration. " alt="" coords="2965,87,3141,129"/>
+<area shape="rect" id="node26" href="$a03005.html" title="Definition of the BCI class. " alt="" coords="3166,87,3370,129"/>
+<area shape="rect" id="node27" href="$a06229_source.html" title="examples/ex_connectivity\l/main.cpp" alt="" coords="3395,87,3568,129"/>
+<area shape="rect" id="node28" href="$a06232_source.html" title="examples/ex_connectivity\l_comparison/main.cpp" alt="" coords="3592,87,3765,129"/>
+<area shape="rect" id="node29" href="$a06235_source.html" title="examples/ex_connectivity\l_performance/main.cpp" alt="" coords="3789,87,3963,129"/>
+<area shape="rect" id="node30" href="$a06292_source.html" title="examples/ex_read_bem\l/main.cpp" alt="" coords="3987,87,4147,129"/>
+<area shape="rect" id="node31" href="$a06301_source.html" title="examples/ex_read_fwd\l/main.cpp" alt="" coords="4171,87,4327,129"/>
+<area shape="rect" id="node19" href="$a02882.html" title="EEGRef class definition. " alt="" coords="2849,184,3039,225"/>
+<area shape="rect" id="node20" href="$a02909.html" title="Contains the declaration of the Reference class. " alt="" coords="3064,184,3259,225"/>
+<area shape="rect" id="node21" href="$a02897.html" title="Contains the declaration of the ReferenceSetupWidget class. " alt="" coords="2857,273,3044,329"/>
+<area shape="rect" id="node23" href="$a02903.html" title="Contains the declaration of the ReferenceToolbarWidget class. " alt="" coords="3068,273,3255,329"/>
+<area shape="rect" id="node25" href="$a02906.html" title="Definition of the Reference class. " alt="" coords="3279,281,3487,322"/>
+<area shape="rect" id="node22" href="$a02894.html" title="Definition of the ECGSetupWidget class. " alt="" coords="2857,377,3044,433"/>
+<area shape="rect" id="node24" href="$a02900.html" title="Definition of the ReferenceToolbarWidget class. " alt="" coords="3068,377,3255,433"/>
+</map>

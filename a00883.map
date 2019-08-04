@@ -1,0 +1,51 @@
+<map id="libraries/fiff/fiff_evoked.h" name="libraries/fiff/fiff_evoked.h">
+<area shape="rect" id="node2" href="$a00749.html" title="GeometryInfo class declaration. " alt="" coords="621,95,811,136"/>
+<area shape="rect" id="node8" href="$a00887.html" title="FiffEvokedSet class declaration. " alt="" coords="3245,95,3352,136"/>
+<area shape="rect" id="node14" href="$a01730.html" title="Definition of the MNE class. " alt="" coords="1429,295,1635,337"/>
+<area shape="rect" id="node15" href="$a01745.html" title="Definition of the Music class. " alt="" coords="1660,295,1852,337"/>
+<area shape="rect" id="node17" href="$a02957.html" title="Contains the declaration of the RTSSS class. " alt="" coords="768,295,923,337"/>
+<area shape="rect" id="node18" href="$a06220_source.html" title="examples/ex_clustered\l_inverse_mne_raw/main.cpp" alt="" coords="3062,295,3250,337"/>
+<area shape="rect" id="node19" href="$a06223_source.html" title="examples/ex_clustered\l_inverse_pwl_rap_music\l_raw/main.cpp" alt="" coords="2681,288,2847,344"/>
+<area shape="rect" id="node20" href="$a06226_source.html" title="examples/ex_clustered\l_inverse_rap_music_raw\l/main.cpp" alt="" coords="2871,288,3038,344"/>
+<area shape="rect" id="node22" href="$a06268_source.html" title="examples/ex_histogram\l/main.cpp" alt="" coords="2079,295,2239,337"/>
+<area shape="rect" id="node23" href="$a06277_source.html" title="examples/ex_inverse\l_mne_raw/main.cpp" alt="" coords="3274,295,3419,337"/>
+<area shape="rect" id="node24" href="$a06280_source.html" title="examples/ex_inverse\l_pwl_rap_music/main.cpp" alt="" coords="2263,295,2436,337"/>
+<area shape="rect" id="node25" href="$a06283_source.html" title="examples/ex_inverse\l_rap_music/main.cpp" alt="" coords="2460,295,2607,337"/>
+<area shape="rect" id="node26" href="$a06313_source.html" title="examples/ex_roi_clustered\l_inverse_pwl_rap_music\l/main.cpp" alt="" coords="1877,288,2054,344"/>
+<area shape="rect" id="node27" href="$a06319_source.html" title="examples/ex_st_clustered\l_inverse_pwl_rap_music\l/main.cpp" alt="" coords="3443,288,3618,344"/>
+<area shape="rect" id="node34" href="$a02876.html" title="Contains the declaration of the RapMusicToolbox class. " alt="" coords="5227,288,5394,344"/>
+<area shape="rect" id="node36" href="$a06274_source.html" title="examples/ex_inverse\l_mne/main.cpp" alt="" coords="3775,191,3921,233"/>
+<area shape="rect" id="node37" href="$a00878.html" title="Definition of the FIFFEvoked Class. " alt="" coords="4149,95,4254,136"/>
+<area shape="rect" id="node38" href="$a00920.html" title="Definition of a generic Fiff IO interface. " alt="" coords="1165,199,1299,225"/>
+<area shape="rect" id="node40" href="$a01154.html" title="Definition of the MinimumNorm Class. " alt="" coords="4279,95,4449,136"/>
+<area shape="rect" id="node41" href="$a01421.html" title="MNEEpochDataList class declaration. " alt="" coords="4047,191,4214,233"/>
+<area shape="rect" id="node48" href="$a06436_source.html" title="applications/mne_scan\l/plugins/mne/mne.h" alt="" coords="2455,191,2609,233"/>
+<area shape="rect" id="node49" href="$a06217_source.html" title="examples/ex_clustered\l_inverse_mne/main.cpp" alt="" coords="4473,95,4633,136"/>
+<area shape="rect" id="node50" href="$a06286_source.html" title="examples/ex_make_inverse\l_operator/main.cpp" alt="" coords="4657,95,4841,136"/>
+<area shape="rect" id="node3" href="$a00704.html" title="RtSensorInterpolationMatWorker class definition. " alt="" coords="5,184,235,240"/>
+<area shape="rect" id="node4" href="$a00722.html" title="RtSourceInterpolationMatWorker class definition. " alt="" coords="259,184,488,240"/>
+<area shape="rect" id="node5" href="$a00746.html" title="GeometryInfo class definition. " alt="" coords="512,191,717,233"/>
+<area shape="rect" id="node6" href="$a06250_source.html" title="examples/ex_disp_3D\l/main.cpp" alt="" coords="742,191,893,233"/>
+<area shape="rect" id="node7" href="$a06271_source.html" title="examples/ex_interpolation\l/main.cpp" alt="" coords="917,191,1091,233"/>
+<area shape="rect" id="node9" href="$a00230.html" title="Definition of the AverageSelectionView Class. " alt="" coords="3008,191,3184,233"/>
+<area shape="rect" id="node10" href="$a00236.html" title="Definition of the AveragingSettingsView class. " alt="" coords="3209,191,3389,233"/>
+<area shape="rect" id="node11" href="$a00344.html" title="Definition of the EvokedSetModel Class. " alt="" coords="3413,191,3605,233"/>
+<area shape="rect" id="node12" href="$a00818.html" title="FIFF class declaration, which provides static wrapper functions to stay consistent with mne matlab to..." alt="" coords="2206,199,2322,225"/>
+<area shape="rect" id="node13" href="$a00917.html" title="Definition of a generic Fiff IO interface. " alt="" coords="947,295,1053,337"/>
+<area shape="rect" id="node28" href="$a00884.html" title="Definition of the FiffEvokedSet Class. " alt="" coords="3630,191,3751,233"/>
+<area shape="rect" id="node29" href="$a01466.html" title="RtAveWorker class declaration. " alt="" coords="4479,191,4622,233"/>
+<area shape="rect" id="node31" href="$a02213.html" title="Contains the declaration of the RealTimeEvokedSet class. " alt="" coords="4238,191,4455,233"/>
+<area shape="rect" id="node35" href="$a02369.html" title="Contains the declaration of the Averaging class. " alt="" coords="2785,191,2983,233"/>
+<area shape="rect" id="node16" href="$a01868.html" title="This class represents the model of the model/view framework of mne_browse application. It is derived from QAbstractTableModel so the virtual functions rowCount(),columnCount() and data() needed to be reimplemented. The delegate requests the data for any individual table cell by invoking data(QModelIndex index, int role) and a certain role. DisplayRole is the standard role for requesting the plain data. Other roles such as BackgroundRole are requested to fill a cell with a certain background color with respect to the individual index. For further information see [1]. " alt="" coords="1235,295,1405,337"/>
+<area shape="rect" id="node21" href="$a06256_source.html" title="examples/ex_fiff_io\l/main.cpp" alt="" coords="1077,295,1211,337"/>
+<area shape="rect" id="node30" href="$a01463.html" title="Definition of the RtCov Class. " alt="" coords="5061,295,5203,337"/>
+<area shape="rect" id="node32" href="$a06430_source.html" title="applications/mne_scan\l/plugins/mne/mne.cpp" alt="" coords="4616,295,4771,337"/>
+<area shape="rect" id="node33" href="$a02816.html" title="Definition of the NeuronalConnectivity class. " alt="" coords="4846,288,5037,344"/>
+<area shape="rect" id="node39" href="$a01853.html" title="This class represents the average model of the model/view framework of mne_browse application..." alt="" coords="565,295,744,337"/>
+<area shape="rect" id="node42" href="$a06433_source.html" title="libraries/mne/mne.h" alt="" coords="4264,303,4400,329"/>
+<area shape="rect" id="node43" href="$a01418.html" title="Definition of the MNEEpochDataList Class. " alt="" coords="4425,295,4591,337"/>
+<area shape="rect" id="node44" href="$a03146.html" title="Definition of the DraggableFramelessWidget Class. " alt="" coords="4037,295,4240,337"/>
+<area shape="rect" id="node45" href="$a06229_source.html" title="examples/ex_connectivity\l/main.cpp" alt="" coords="4052,392,4225,433"/>
+<area shape="rect" id="node46" href="$a06232_source.html" title="examples/ex_connectivity\l_comparison/main.cpp" alt="" coords="3643,295,3816,337"/>
+<area shape="rect" id="node47" href="$a06235_source.html" title="examples/ex_connectivity\l_performance/main.cpp" alt="" coords="3840,295,4013,337"/>
+</map>

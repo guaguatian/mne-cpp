@@ -1,0 +1,12 @@
+<map id="applications/mne_scan/plugins/reference/reference_global.h" name="applications/mne_scan/plugins/reference/reference_global.h">
+<area shape="rect" id="node2" href="$a02885.html" title="EEGRef class declaration. " alt="" coords="21,117,197,158"/>
+<area shape="rect" id="node4" href="$a02909.html" title="Contains the declaration of the Reference class. " alt="" coords="322,221,517,262"/>
+<area shape="rect" id="node5" href="$a02897.html" title="Contains the declaration of the ReferenceSetupWidget class. " alt="" coords="166,317,353,373"/>
+<area shape="rect" id="node7" href="$a02903.html" title="Contains the declaration of the ReferenceToolbarWidget class. " alt="" coords="609,317,795,373"/>
+<area shape="rect" id="node10" href="$a02891.html" title="Contains the declaration of the ReferenceAboutWidget class. " alt="" coords="389,109,575,165"/>
+<area shape="rect" id="node3" href="$a02882.html" title="EEGRef class definition. " alt="" coords="5,221,196,262"/>
+<area shape="rect" id="node9" href="$a02906.html" title="Definition of the Reference class. " alt="" coords="377,325,585,366"/>
+<area shape="rect" id="node6" href="$a02894.html" title="Definition of the ECGSetupWidget class. " alt="" coords="166,421,353,477"/>
+<area shape="rect" id="node8" href="$a02900.html" title="Definition of the ReferenceToolbarWidget class. " alt="" coords="609,421,795,477"/>
+<area shape="rect" id="node11" href="$a02888.html" title="Definition of the ReferenceAboutWidget class. " alt="" coords="541,213,727,269"/>
+</map>

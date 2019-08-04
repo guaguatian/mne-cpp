@@ -1,0 +1,6 @@
+<map id="applications/mne_scan/plugins/ecgsimulator/ecgsimulator_global.h" name="applications/mne_scan/plugins/ecgsimulator/ecgsimulator_global.h">
+<area shape="rect" id="node2" href="$a02573.html" title="Contains the declaration of the ECGSimulator class. " alt="" coords="184,109,339,165"/>
+<area shape="rect" id="node3" href="$a02558.html" title="Definition of the ECGProducer class. " alt="" coords="5,213,160,269"/>
+<area shape="rect" id="node4" href="$a02570.html" title="Definition of the ECGSimulator class. " alt="" coords="184,213,339,269"/>
+<area shape="rect" id="node5" href="$a02585.html" title="Definition of the ECGSetupWidget class. " alt="" coords="363,213,567,269"/>
+</map>

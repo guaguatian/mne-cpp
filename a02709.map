@@ -1,0 +1,32 @@
+<map id="applications/mne_scan/plugins/gusbamp/gusbamp.h" name="applications/mne_scan/plugins/gusbamp/gusbamp.h">
+<area shape="rect" id="node2" href="$a02711.html" title="Contains the GUSBAmp library export/import macros. " alt="" coords="74,102,201,129"/>
+<area shape="rect" id="node4" href="$a02258.html" title="Contains declaration of IIinverseAlgorithm interface class. " alt="" coords="1773,95,1912,136"/>
+<area shape="rect" id="node9" href="$a01562.html" title="CircularMatrixBuffer class declaration. " alt="" coords="258,333,483,360"/>
+<area shape="rect" id="node17" href="$a02219.html" title="Contains the declaration of the RealTimeMultiSampleArray class. " alt="" coords="853,184,1081,211"/>
+<area shape="rect" id="node35" href="$a00818.html" title="FIFF class declaration, which provides static wrapper functions to stay consistent with mne matlab to..." alt="" coords="3512,102,3579,129"/>
+<area shape="rect" id="node43" href="$a02702.html" title="Contains the declaration of the GUSBAmpSetupWidget class. " alt="" coords="4733,102,4952,129"/>
+<area shape="rect" id="node46" href="$a02696.html" title="Contains the declaration of the GUSBAmpSetupProjectWidget class. " alt="" coords="5129,102,5386,129"/>
+<area shape="rect" id="node5" href="$a02255.html" title="Contains declaration of IPlugin interface class. " alt="" coords="1593,333,1666,360"/>
+<area shape="rect" id="node6" href="$a02312_source.html" title="../Management/pluginoutputdata.h" alt="" coords="1640,408,1859,435"/>
+<area shape="rect" id="node8" href="$a02294.html" title="Contains the declaration of the PluginInputData class. " alt="" coords="1405,408,1616,435"/>
+<area shape="rect" id="node10" href="$a01655.html" title="utils library export/import macros. " alt="" coords="350,483,461,509"/>
+<area shape="rect" id="node11" href="$a01547.html" title="Contains the declaration of the Buffer base class. " alt="" coords="395,408,461,435"/>
+<area shape="rect" id="node18" href="$a02246.html" title="Contains the scMeas library export/import macros. " alt="" coords="616,483,736,509"/>
+<area shape="rect" id="node19" href="$a02183.html" title="MeasurementTreeItem class declaration. " alt="" coords="647,259,809,285"/>
+<area shape="rect" id="node22" href="$a02231.html" title="Contains the declaration of the RealTimeSampleArrayChInfo class. " alt="" coords="993,408,1178,435"/>
+<area shape="rect" id="node27" href="$a00908.html" title="FiffInfo class declaration. " alt="" coords="3594,259,3689,285"/>
+<area shape="rect" id="node23" href="$a00833.html" title="Fiff constants. " alt="" coords="3256,557,3387,584"/>
+<area shape="rect" id="node24" href="$a00959.html" title="Definitions for describing the objects in a FIFF file. " alt="" coords="3387,483,3493,509"/>
+<area shape="rect" id="node28" href="$a00896.html" title="Fiff library export/import macros. " alt="" coords="2879,483,2969,509"/>
+<area shape="rect" id="node29" href="$a00851.html" title="FiffCtfComp class declaration. " alt="" coords="3693,333,3803,360"/>
+<area shape="rect" id="node31" href="$a00839.html" title="FiffCoordTrans class declaration. " alt="" coords="3477,408,3600,435"/>
+<area shape="rect" id="node33" href="$a00932.html" title="FiffProj class declaration. " alt="" coords="3878,333,3954,360"/>
+<area shape="rect" id="node30" href="$a00926.html" title="FiffNamedMatrix class declaration. " alt="" coords="3929,408,4066,435"/>
+<area shape="rect" id="node36" href="$a00875.html" title="FiffDirNode class declaration, which provides fiff dir tree processing methods. " alt="" coords="2035,333,2139,360"/>
+<area shape="rect" id="node37" href="$a00869.html" title="FiffDirEntry class declaration. " alt="" coords="2441,408,2546,435"/>
+<area shape="rect" id="node38" href="$a00956.html" title="FiffTag class declaration, which provides fiff tag I/O and processing methods. " alt="" coords="3175,333,3249,360"/>
+<area shape="rect" id="node39" href="$a00938.html" title="FiffRawData class declaration. " alt="" coords="2197,184,2305,211"/>
+<area shape="rect" id="node40" href="$a00944.html" title="FiffRawDir class declaration. " alt="" coords="2259,333,2357,360"/>
+<area shape="rect" id="node41" href="$a00950.html" title="FiffStream class declaration. " alt="" coords="2835,259,2930,285"/>
+<area shape="rect" id="node42" href="$a00887.html" title="FiffEvokedSet class declaration. " alt="" coords="4269,184,4392,211"/>
+</map>

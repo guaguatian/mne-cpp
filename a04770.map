@@ -1,0 +1,6 @@
+<map id="IOBUFFER::Buffer" name="IOBUFFER::Buffer">
+<area shape="rect" id="node2" href="$a04783.html" title="{IOBUFFER::CircularMatrix\lBuffer\&lt; double \&gt;\n||+ CircularMatrixBuffer()\l+ ~CircularMatrixBuffer()\l+ push()\l+ pop()\l+ clear()\l+ size()\l+ rows()\l+ cols()\l+ pause()\l+ releaseFromPop()\l+ releaseFromPush()\l}" alt="" coords="5,145,184,384"/>
+<area shape="rect" id="node3" href="$a04779.html" title="The TEMPLATE CIRCULAR BUFFER provides a template for thread safe circular buffers. " alt="" coords="208,182,387,347"/>
+<area shape="rect" id="node4" href="$a04783.html" title="The circular matrix buffer. " alt="" coords="411,145,589,384"/>
+<area shape="rect" id="node5" href="$a04787.html" title="The TEMPLATE CIRCULAR BUFFER provides a template for thread safe circular buffers. " alt="" coords="614,153,845,377"/>
+</map>

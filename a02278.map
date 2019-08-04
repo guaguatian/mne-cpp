@@ -1,0 +1,15 @@
+<map id="applications/mne_scan/libs/scShared/Management/pluginconnectorconnection.h" name="applications/mne_scan/libs/scShared/Management/pluginconnectorconnection.h">
+<area shape="rect" id="node2" href="$a02273.html" title="Contains the declaration of the PluginConnectorConnection class. " alt="" coords="5,109,211,165"/>
+<area shape="rect" id="node3" href="$a02279.html" title="Definition of the PluginConnectorConnectionWidget class. " alt="" coords="235,109,477,165"/>
+<area shape="rect" id="node4" href="$a02318.html" title="Contains declaration of PluginSceneManager class. " alt="" coords="501,109,685,165"/>
+<area shape="rect" id="node11" href="$a02327.html" title="Arrow class declaration. " alt="" coords="721,317,876,359"/>
+<area shape="rect" id="node14" href="$a06208_source.html" title="applications/mne_scan\l/mne_scan/main.cpp" alt="" coords="819,117,973,158"/>
+<area shape="rect" id="node5" href="$a02315.html" title="Definition of the PluginSceneManager class. " alt="" coords="315,213,499,269"/>
+<area shape="rect" id="node6" href="$a06334_source.html" title="applications/mne_scan\l/mne_scan/mainwindow.cpp" alt="" coords="208,407,395,448"/>
+<area shape="rect" id="node7" href="$a02351.html" title="PluginScene class declaration. " alt="" coords="573,221,744,262"/>
+<area shape="rect" id="node8" href="$a02339.html" title="PluginGui class declaration. " alt="" coords="441,317,596,359"/>
+<area shape="rect" id="node9" href="$a02336.html" title="PluginGui class implementation. " alt="" coords="430,407,597,448"/>
+<area shape="rect" id="node10" href="$a02348.html" title="PluginScene class implementation. " alt="" coords="621,407,805,448"/>
+<area shape="rect" id="node12" href="$a02324.html" title="Arrow class implementation. " alt="" coords="1029,407,1184,448"/>
+<area shape="rect" id="node13" href="$a02342.html" title="PluginItem class implementation. " alt="" coords="830,407,1005,448"/>
+</map>

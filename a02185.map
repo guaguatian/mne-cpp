@@ -1,0 +1,51 @@
+<map id="applications/mne_scan/libs/scMeas/measurement.h" name="applications/mne_scan/libs/scMeas/measurement.h">
+<area shape="rect" id="node2" href="$a02132.html" title="Declaration of the MeasurementWidget Class. " alt="" coords="1088,102,1311,143"/>
+<area shape="rect" id="node14" href="$a02180.html" title="Definition of the Measurement base class. " alt="" coords="5348,102,5552,143"/>
+<area shape="rect" id="node15" href="$a02186.html" title="Definition of the MeasurementTypes class. " alt="" coords="2487,206,2723,247"/>
+<area shape="rect" id="node16" href="$a02225.html" title="Contains the declaration of the RealTimeSampleArray class. " alt="" coords="4139,102,4367,143"/>
+<area shape="rect" id="node24" href="$a02219.html" title="Contains the declaration of the RealTimeMultiSampleArray class. " alt="" coords="5067,102,5323,143"/>
+<area shape="rect" id="node42" href="$a02195.html" title="Contains the declaration of the Numeric class. " alt="" coords="3566,102,3723,143"/>
+<area shape="rect" id="node43" href="$a02237.html" title="Contains the declaration of the RealTimeSourceEstimate class. " alt="" coords="3295,102,3541,143"/>
+<area shape="rect" id="node44" href="$a02201.html" title="Contains the declaration of the RealTimeConnectivityEstimate class. " alt="" coords="2547,102,2825,143"/>
+<area shape="rect" id="node45" href="$a02243.html" title="Contains the declaration of the RealTimeSpectrum class. " alt="" coords="2262,102,2473,143"/>
+<area shape="rect" id="node46" href="$a02207.html" title="Contains the declaration of the RealTimeCov class. " alt="" coords="3091,102,3270,143"/>
+<area shape="rect" id="node47" href="$a02213.html" title="Contains the declaration of the RealTimeEvokedSet class. " alt="" coords="2849,102,3067,143"/>
+<area shape="rect" id="node48" href="$a02306.html" title="Contains the declaration of the PluginOutputConnector class. " alt="" coords="5577,95,5761,151"/>
+<area shape="rect" id="node49" href="$a02309.html" title="Contains the declaration of the PluginOutputData class. " alt="" coords="5785,95,5969,151"/>
+<area shape="rect" id="node50" href="$a02288_source.html" title="applications/mne_scan\l/libs/scShared/Management\l/plugininputconnector.h" alt="" coords="5993,95,6177,151"/>
+<area shape="rect" id="node3" href="$a02129.html" title="Definition of the MeasurementWidget Class. " alt="" coords="309,206,546,247"/>
+<area shape="rect" id="node4" href="$a02138.html" title="Declaration of the RealTimeConnectivityEstimateWidget Class. " alt="" coords="1349,206,1660,247"/>
+<area shape="rect" id="node6" href="$a02144.html" title="Declaration of the RealTimeCovWidget Class. " alt="" coords="839,206,1050,247"/>
+<area shape="rect" id="node7" href="$a02150.html" title="Declaration of the RealTimeEvokedSetWidget Class. " alt="" coords="1074,206,1325,247"/>
+<area shape="rect" id="node8" href="$a02156.html" title="Declaration of the RealTimeMultiSampleArrayWidget Class. " alt="" coords="2123,206,2412,247"/>
+<area shape="rect" id="node10" href="$a02162.html" title="Declaration of the RealTimeSampleArrayWidget Class. " alt="" coords="1685,206,1946,247"/>
+<area shape="rect" id="node12" href="$a02168.html" title="Declaration of the RealTimeSourceEstimateWidget Class. " alt="" coords="5,206,284,247"/>
+<area shape="rect" id="node13" href="$a02174.html" title="Declaration of the RealTimeSpectrumWidget Class. " alt="" coords="571,206,815,247"/>
+<area shape="rect" id="node5" href="$a02261.html" title="Definition of the DisplayManager Class. " alt="" coords="1917,303,2101,359"/>
+<area shape="rect" id="node9" href="$a02153.html" title="Definition of the RealTimeMultiSampleArrayWidget Class. " alt="" coords="4500,310,4803,351"/>
+<area shape="rect" id="node11" href="$a02159.html" title="Definition of the RealTimeSampleArrayWidget Class. " alt="" coords="3401,310,3675,351"/>
+<area shape="rect" id="node17" href="$a02222.html" title="Definition of the RealTimeSampleArray class. " alt="" coords="4354,206,4597,247"/>
+<area shape="rect" id="node18" href="$a02273.html" title="Contains the declaration of the PluginConnectorConnection class. " alt="" coords="3191,199,3397,255"/>
+<area shape="rect" id="node19" href="$a02441.html" title="Contains the declaration of the BCI class. " alt="" coords="4621,206,4775,247"/>
+<area shape="rect" id="node20" href="$a02573.html" title="Contains the declaration of the ECGSimulator class. " alt="" coords="4175,199,4330,255"/>
+<area shape="rect" id="node21" href="$a02957.html" title="Contains the declaration of the RTSSS class. " alt="" coords="5207,206,5362,247"/>
+<area shape="rect" id="node22" href="$a03008.html" title="Contains the declaration of the ssvepBCI class. " alt="" coords="3960,206,4151,247"/>
+<area shape="rect" id="node23" href="$a03122.html" title="Contains the declaration of the TriggerControl class. " alt="" coords="5029,199,5183,255"/>
+<area shape="rect" id="node25" href="$a02216_source.html" title="applications/mne_scan\l/libs/scMeas/realtimemultisamplearray.cpp" alt="" coords="5488,206,5759,247"/>
+<area shape="rect" id="node26" href="$a06208_source.html" title="applications/mne_scan\l/mne_scan/main.cpp" alt="" coords="4850,206,5005,247"/>
+<area shape="rect" id="node27" href="$a02366.html" title="Definition of the Averaging class. " alt="" coords="3421,206,3633,247"/>
+<area shape="rect" id="node28" href="$a02387.html" title="BabyMEG class definition. " alt="" coords="5783,206,5989,247"/>
+<area shape="rect" id="node29" href="$a02465.html" title="Contains the implementation of the BrainAMP class. " alt="" coords="6013,206,6220,247"/>
+<area shape="rect" id="node30" href="$a02504.html" title="Definition of the Covariance class. " alt="" coords="3658,206,3885,247"/>
+<area shape="rect" id="node31" href="$a02534.html" title="Contains the declaration of the DummyToolbox class. " alt="" coords="6244,199,6400,255"/>
+<area shape="rect" id="node32" href="$a02591.html" title="Contains the implementation of the EEGoSports class. " alt="" coords="6424,206,6652,247"/>
+<area shape="rect" id="node33" href="$a02639.html" title="Contains the declaration of the epidetect class. " alt="" coords="6677,206,6869,247"/>
+<area shape="rect" id="node34" href="$a06352_source.html" title="applications/mne_scan\l/plugins/fiffsimulator\l/fiffsimulator.cpp" alt="" coords="6893,199,7047,255"/>
+<area shape="rect" id="node35" href="$a02708.html" title="Contains the declaration of the GUSBAmp class. " alt="" coords="7071,206,7263,247"/>
+<area shape="rect" id="node36" href="$a02744.html" title="Contains the declaration of the LSLAdapterProducer class. " alt="" coords="7338,206,7586,247"/>
+<area shape="rect" id="node37" href="$a02732.html" title="Contains the definition of the LSLAdapter class. " alt="" coords="7275,310,7487,351"/>
+<area shape="rect" id="node38" href="$a06430_source.html" title="applications/mne_scan\l/plugins/mne/mne.cpp" alt="" coords="2962,206,3117,247"/>
+<area shape="rect" id="node39" href="$a02765.html" title="Contains the definition of the Natus class. " alt="" coords="7611,206,7775,247"/>
+<area shape="rect" id="node40" href="$a06370_source.html" title="applications/mne_scan\l/plugins/neuromag/neuromag.cpp" alt="" coords="7799,206,8013,247"/>
+<area shape="rect" id="node41" href="$a02816.html" title="Definition of the NeuronalConnectivity class. " alt="" coords="2747,199,2937,255"/>
+</map>

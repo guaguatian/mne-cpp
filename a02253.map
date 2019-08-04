@@ -1,0 +1,16 @@
+<map id="applications/mne_scan/libs/scShared/Interfaces/IIO.h" name="applications/mne_scan/libs/scShared/Interfaces/IIO.h">
+<area shape="rect" id="node2" href="$a02255.html" title="Contains declaration of IPlugin interface class. " alt="" coords="559,95,632,121"/>
+<area shape="rect" id="node25" href="$a01556.html" title="Contains the declaration of the CircularBuffer_old class. " alt="" coords="1158,244,1337,285"/>
+<area shape="rect" id="node3" href="$a02312_source.html" title="../Management/pluginoutputdata.h" alt="" coords="705,169,924,196"/>
+<area shape="rect" id="node19" href="$a02294.html" title="Contains the declaration of the PluginInputData class. " alt="" coords="38,169,249,196"/>
+<area shape="rect" id="node4" href="$a02321.html" title="Contains the scshared library export/import macros. " alt="" coords="32,408,170,435"/>
+<area shape="rect" id="node6" href="$a02306.html" title="Contains the declaration of the PluginOutputConnector class. " alt="" coords="238,251,398,278"/>
+<area shape="rect" id="node17" href="$a02309.html" title="Contains the declaration of the PluginOutputData class. " alt="" coords="871,251,1014,278"/>
+<area shape="rect" id="node7" href="$a02270.html" title="Contains the declaration of the PluginConnector class. " alt="" coords="260,333,384,360"/>
+<area shape="rect" id="node13" href="$a02183.html" title="MeasurementTreeItem class declaration. " alt="" coords="409,333,572,360"/>
+<area shape="rect" id="node14" href="$a02246.html" title="Contains the scMeas library export/import macros. " alt="" coords="680,408,800,435"/>
+<area shape="rect" id="node20" href="$a02288_source.html" title="plugininputconnector.h" alt="" coords="422,251,574,278"/>
+<area shape="rect" id="node21" href="$a02291.html" title="Contains the declaration of the PluginInputData class. " alt="" coords="28,251,163,278"/>
+<area shape="rect" id="node26" href="$a01655.html" title="utils library export/import macros. " alt="" coords="1046,408,1156,435"/>
+<area shape="rect" id="node27" href="$a01547.html" title="Contains the declaration of the Buffer base class. " alt="" coords="1068,333,1134,360"/>
+</map>

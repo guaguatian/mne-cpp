@@ -1,0 +1,32 @@
+<map id="applications/mne_scan/libs/scMeas/realtimesourceestimate.h" name="applications/mne_scan/libs/scMeas/realtimesourceestimate.h">
+<area shape="rect" id="node2" href="$a02246.html" title="Contains the scMeas library export/import macros. " alt="" coords="3684,169,3804,196"/>
+<area shape="rect" id="node4" href="$a02183.html" title="MeasurementTreeItem class declaration. " alt="" coords="3735,95,3847,121"/>
+<area shape="rect" id="node9" href="$a00986.html" title="Label class declaration. " alt="" coords="3547,543,3621,569"/>
+<area shape="rect" id="node13" href="$a00998.html" title="SurfaceSet class declaration. " alt="" coords="3684,468,3793,495"/>
+<area shape="rect" id="node15" href="$a00971.html" title="AnnotationSet class declaration. " alt="" coords="3330,393,3457,420"/>
+<area shape="rect" id="node20" href="$a00908.html" title="FiffInfo class declaration. " alt="" coords="1810,393,1905,420"/>
+<area shape="rect" id="node35" href="$a01454.html" title="MNESourceSpace class declaration. " alt="" coords="619,169,787,196"/>
+<area shape="rect" id="node42" href="$a01448.html" title="MNESourceEstimate class declaration. " alt="" coords="2818,468,3001,495"/>
+<area shape="rect" id="node43" href="$a01427.html" title="MNEForwardSolution class declaration, which provides the forward solution including the source space ..." alt="" coords="2726,95,2909,121"/>
+<area shape="rect" id="node10" href="$a00980.html" title="Fs library export/import macros. " alt="" coords="3835,617,3920,644"/>
+<area shape="rect" id="node14" href="$a00992.html" title="Surface class declaration. " alt="" coords="3747,543,3823,569"/>
+<area shape="rect" id="node16" href="$a00965.html" title="Annotation class declaration. " alt="" coords="3277,468,3371,495"/>
+<area shape="rect" id="node17" href="$a00977.html" title="Colortable class declaration. " alt="" coords="2998,543,3087,569"/>
+<area shape="rect" id="node21" href="$a00896.html" title="Fiff library export/import macros. " alt="" coords="2075,617,2165,644"/>
+<area shape="rect" id="node22" href="$a00914.html" title="FiffInfoBase class declaration. " alt="" coords="1802,468,1913,495"/>
+<area shape="rect" id="node23" href="$a00959.html" title="Definitions for describing the objects in a FIFF file. " alt="" coords="1046,617,1133,644"/>
+<area shape="rect" id="node28" href="$a00902.html" title="FiffId class declaration. " alt="" coords="1595,543,1661,569"/>
+<area shape="rect" id="node29" href="$a00824.html" title="FiffChInfo class declaration. " alt="" coords="2166,543,2263,569"/>
+<area shape="rect" id="node30" href="$a00857.html" title="FiffDigPoint class declaration. " alt="" coords="1736,543,1843,569"/>
+<area shape="rect" id="node31" href="$a00851.html" title="FiffCtfComp class declaration. " alt="" coords="1461,543,1571,569"/>
+<area shape="rect" id="node32" href="$a00839.html" title="FiffCoordTrans class declaration. " alt="" coords="1917,543,2040,569"/>
+<area shape="rect" id="node34" href="$a00932.html" title="FiffProj class declaration. " alt="" coords="2339,543,2415,569"/>
+<area shape="rect" id="node24" href="$a00833.html" title="Fiff constants. " alt="" coords="468,692,580,719"/>
+<area shape="rect" id="node36" href="$a06439_source.html" title="mne_global.h" alt="" coords="4051,543,4149,569"/>
+<area shape="rect" id="node37" href="$a01436.html" title="MNEHemisphere class declaration. " alt="" coords="698,244,830,271"/>
+<area shape="rect" id="node38" href="$a00818.html" title="FIFF class declaration, which provides static wrapper functions to stay consistent with mne matlab to..." alt="" coords="893,319,960,345"/>
+<area shape="rect" id="node39" href="$a00875.html" title="FiffDirNode class declaration, which provides fiff dir tree processing methods. " alt="" coords="700,468,804,495"/>
+<area shape="rect" id="node44" href="$a01607.html" title="MNEMath class declaration. " alt="" coords="1775,617,1889,644"/>
+<area shape="rect" id="node45" href="$a01589.html" title="KMeans class declaration. " alt="" coords="3213,543,3320,569"/>
+<area shape="rect" id="node46" href="$a00845.html" title="FiffCov class declaration. " alt="" coords="2507,319,2602,345"/>
+</map>

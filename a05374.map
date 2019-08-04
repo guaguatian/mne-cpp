@@ -1,0 +1,8 @@
+<map id="SCSHAREDLIB::PluginInputConnector" name="SCSHAREDLIB::PluginInputConnector">
+<area shape="rect" id="node4" href="$a05379.html" title="{SCSHAREDLIB::PluginInput\lData\&lt; SCMEASLIB::RealTimeEvokedSet \&gt;\n||+ PluginInputData()\l+ ~PluginInputData()\l+ setCallbackMethod()\l+ create()\l# notifyCallbackFunction()\l}" alt="" coords="5,535,284,686"/>
+<area shape="rect" id="node5" href="$a05379.html" title="{SCSHAREDLIB::PluginInput\lData\&lt; SCMEASLIB::RealTimeMulti\lSampleArray \&gt;\n||+ PluginInputData()\l+ ~PluginInputData()\l+ setCallbackMethod()\l+ create()\l# notifyCallbackFunction()\l}" alt="" coords="308,528,539,693"/>
+<area shape="rect" id="node6" href="$a05379.html" title="{SCSHAREDLIB::PluginInput\lData\&lt; SCMEASLIB::RealTimeSample\lArray \&gt;\n||+ PluginInputData()\l+ ~PluginInputData()\l+ setCallbackMethod()\l+ create()\l# notifyCallbackFunction()\l}" alt="" coords="563,528,809,693"/>
+<area shape="rect" id="node7" href="$a05379.html" title="{SCSHAREDLIB::PluginInput\lData\&lt; SCMEASLIB::RealTimeSource\lEstimate \&gt;\n||+ PluginInputData()\l+ ~PluginInputData()\l+ setCallbackMethod()\l+ create()\l# notifyCallbackFunction()\l}" alt="" coords="833,528,1077,693"/>
+<area shape="rect" id="node8" href="$a05379.html" title="{SCSHAREDLIB::PluginInput\lData\&lt; T \&gt;\n||+ PluginInputData()\l+ ~PluginInputData()\l+ setCallbackMethod()\l+ create()\l# notifyCallbackFunction()\l}" alt="" coords="1101,535,1292,686"/>
+<area shape="rect" id="node2" href="$a05363.html" title="The PluginConnector class provides the base to connect plug&#45;in data. " alt="" coords="575,131,797,281"/>
+</map>

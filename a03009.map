@@ -1,0 +1,26 @@
+<map id="applications/mne_scan/plugins/ssvepbci/ssvepbci.h" name="applications/mne_scan/plugins/ssvepbci/ssvepbci.h">
+<area shape="rect" id="node2" href="$a03011.html" title="Contains the SSVEPBCI library export/import macros. " alt="" coords="2981,259,3107,285"/>
+<area shape="rect" id="node4" href="$a02249.html" title="Contains declaration of IAlgorithm interface class. " alt="" coords="1176,169,1315,211"/>
+<area shape="rect" id="node7" href="$a01562.html" title="CircularMatrixBuffer class declaration. " alt="" coords="2590,177,2815,203"/>
+<area shape="rect" id="node15" href="$a02225.html" title="Contains the declaration of the RealTimeSampleArray class. " alt="" coords="167,177,367,203"/>
+<area shape="rect" id="node21" href="$a02219.html" title="Contains the declaration of the RealTimeMultiSampleArray class. " alt="" coords="493,177,721,203"/>
+<area shape="rect" id="node26" href="$a02237.html" title="Contains the declaration of the RealTimeSourceEstimate class. " alt="" coords="1427,95,1645,121"/>
+<area shape="rect" id="node33" href="$a01523.html" title="The FilterData class represents a derived class from an arbitrary MNEOperator class object..." alt="" coords="994,259,1166,285"/>
+<area shape="rect" id="node40" href="$a02996.html" title="Contains the declaration of the SsvepBciWidget class. " alt="" coords="4005,95,4190,121"/>
+<area shape="rect" id="node42" href="$a02984.html" title="Contains the declaration of the ssvepBCIConfiguration class. " alt="" coords="3361,95,3620,121"/>
+<area shape="rect" id="node44" href="$a02990.html" title="Contains the declaration of the ssvepbcisetupstimulus class. " alt="" coords="3183,259,3449,285"/>
+<area shape="rect" id="node5" href="$a02255.html" title="Contains declaration of IPlugin interface class. " alt="" coords="1190,259,1263,285"/>
+<area shape="rect" id="node8" href="$a01655.html" title="utils library export/import macros. " alt="" coords="2042,333,2153,360"/>
+<area shape="rect" id="node9" href="$a01547.html" title="Contains the declaration of the Buffer base class. " alt="" coords="2064,259,2131,285"/>
+<area shape="rect" id="node16" href="$a02246.html" title="Contains the scMeas library export/import macros. " alt="" coords="559,333,679,360"/>
+<area shape="rect" id="node17" href="$a02183.html" title="MeasurementTreeItem class declaration. " alt="" coords="247,259,409,285"/>
+<area shape="rect" id="node22" href="$a02231.html" title="Contains the declaration of the RealTimeSampleArrayChInfo class. " alt="" coords="682,259,867,285"/>
+<area shape="rect" id="node24" href="$a00908.html" title="FiffInfo class declaration. " alt="" coords="1793,259,1887,285"/>
+<area shape="rect" id="node27" href="$a00986.html" title="Label class declaration. " alt="" coords="1643,259,1717,285"/>
+<area shape="rect" id="node28" href="$a00998.html" title="SurfaceSet class declaration. " alt="" coords="1389,177,1499,203"/>
+<area shape="rect" id="node29" href="$a00971.html" title="AnnotationSet class declaration. " alt="" coords="1491,259,1618,285"/>
+<area shape="rect" id="node30" href="$a01454.html" title="MNESourceSpace class declaration. " alt="" coords="2256,259,2424,285"/>
+<area shape="rect" id="node31" href="$a01448.html" title="MNESourceEstimate class declaration. " alt="" coords="1625,177,1807,203"/>
+<area shape="rect" id="node32" href="$a01427.html" title="MNEForwardSolution class declaration, which provides the forward solution including the source space ..." alt="" coords="1883,177,2066,203"/>
+<area shape="rect" id="node43" href="$a03023.html" title="Contains the declaration of the ssvepBCIScreen class. " alt="" coords="3138,177,3262,203"/>
+</map>

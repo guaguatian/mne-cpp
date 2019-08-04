@@ -1,0 +1,3 @@
+<map id="MNEBROWSE::FilterOperator" name="MNEBROWSE::FilterOperator">
+<area shape="rect" id="node2" href="$a03503.html" title="MNEOperator class represents the base class of an arbitrary MNEOperator, e.g. FILTER,PCA,AVERAGE. All specific Operators must be derived from MNEOperator, see the FilterOperator class. " alt="" coords="23,5,186,141"/>
+</map>

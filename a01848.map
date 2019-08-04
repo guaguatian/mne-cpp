@@ -1,0 +1,23 @@
+<map id="applications/mne_browse/Delegates/rawdelegate.cpp" name="applications/mne_browse/Delegates/rawdelegate.cpp">
+<area shape="rect" id="node2" href="$a01850.html" title="This class represents the delegate of the model/view framework of mne_browse application. Since it is derived from the QAbstractItemDelegate class [1], the virtual functions paint() und sizeHint() need to be reimplemented. The paint() function is invoked from the connected QTableView for each table cell for any individual item with a certain QModelIndex. The task of this function is to paint this cell with the data that is requested by index.model()&#45;&gt;data(index,Qt::DisplayRole); with the corresponding QModelIndex. " alt="" coords="2084,95,2187,121"/>
+<area shape="rect" id="node3" href="$a01868.html" title="This class represents the model of the model/view framework of mne_browse application. It is derived from QAbstractTableModel so the virtual functions rowCount(),columnCount() and data() needed to be reimplemented. The delegate requests the data for any individual table cell by invoking data(QModelIndex index, int role) and a certain role. DisplayRole is the standard role for requesting the plain data. Other roles such as BackgroundRole are requested to fill a cell with a certain background color with respect to the individual index. For further information see [1]. " alt="" coords="1952,169,2098,196"/>
+<area shape="rect" id="node4" href="$a06412_source.html" title="../Utils/types.h" alt="" coords="1815,319,1923,345"/>
+<area shape="rect" id="node7" href="$a00818.html" title="FIFF class declaration, which provides static wrapper functions to stay consistent with mne matlab to..." alt="" coords="956,468,1022,495"/>
+<area shape="rect" id="node27" href="$a01910.html" title="In this RawSettings class all mne_browse settings are managed. In order to store settings from the la..." alt="" coords="822,244,964,271"/>
+<area shape="rect" id="node41" href="$a01862.html" title="This class represents the event model of the model/view framework of mne_browse application. " alt="" coords="963,169,1122,196"/>
+<area shape="rect" id="node42" href="$a01970.html" title="Contains the declaration of the ScaleWindow class. " alt="" coords="1421,169,1600,196"/>
+<area shape="rect" id="node23" href="$a01898.html" title="The FilterOperator class represents a derived class from an arbitrary MNEOperator class object..." alt="" coords="2135,393,2240,420"/>
+<area shape="rect" id="node25" href="$a01535.html" title="utils/filterTools/parksmcclellan.h" alt="" coords="2084,468,2294,495"/>
+<area shape="rect" id="node33" href="$a01892.html" title="Contains the declaration of the DataPackage class. " alt="" coords="2139,244,2290,271"/>
+<area shape="rect" id="node40" href="$a00920.html" title="Definition of a generic Fiff IO interface. " alt="" coords="1628,543,1712,569"/>
+<area shape="rect" id="node8" href="$a00896.html" title="Fiff library export/import macros. " alt="" coords="1028,692,1118,719"/>
+<area shape="rect" id="node9" href="$a00833.html" title="Fiff constants. " alt="" coords="666,767,778,793"/>
+<area shape="rect" id="node10" href="$a00839.html" title="FiffCoordTrans class declaration. " alt="" coords="1398,617,1521,644"/>
+<area shape="rect" id="node11" href="$a00959.html" title="Definitions for describing the objects in a FIFF file. " alt="" coords="679,692,766,719"/>
+<area shape="rect" id="node16" href="$a00875.html" title="FiffDirNode class declaration, which provides fiff dir tree processing methods. " alt="" coords="633,543,737,569"/>
+<area shape="rect" id="node17" href="$a00869.html" title="FiffDirEntry class declaration. " alt="" coords="1066,617,1171,644"/>
+<area shape="rect" id="node18" href="$a00926.html" title="FiffNamedMatrix class declaration. " alt="" coords="751,617,888,644"/>
+<area shape="rect" id="node19" href="$a00956.html" title="FiffTag class declaration, which provides fiff tag I/O and processing methods. " alt="" coords="1470,543,1543,569"/>
+<area shape="rect" id="node22" href="$a00932.html" title="FiffProj class declaration. " alt="" coords="914,543,990,569"/>
+<area shape="rect" id="node28" href="$a06178_source.html" title="info.h" alt="" coords="600,393,655,420"/>
+</map>

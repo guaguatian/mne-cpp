@@ -1,0 +1,51 @@
+<map id="libraries/inverse/inverse_global.h" name="libraries/inverse/inverse_global.h">
+<area shape="rect" id="node2" href="$a06421_source.html" title="libraries/inverse/c\l/mne_inverse_operator.h" alt="" coords="522,95,687,136"/>
+<area shape="rect" id="node5" href="$a01082.html" title="MNE Meas Data (MneMeasData) class declaration. " alt="" coords="1118,95,1251,136"/>
+<area shape="rect" id="node7" href="$a01103.html" title="Dipole Fit Data class declaration. " alt="" coords="885,281,1036,322"/>
+<area shape="rect" id="node8" href="$a01097.html" title="Dipole Fit class declaration. " alt="" coords="1213,385,1364,426"/>
+<area shape="rect" id="node13" href="$a01088.html" title="MNE Meas Data Set (MneMeasDataSet) class declaration. " alt="" coords="712,95,871,136"/>
+<area shape="rect" id="node15" href="$a01127.html" title="FiffDigPointSet class declaration. " alt="" coords="1847,184,1997,225"/>
+<area shape="rect" id="node22" href="$a01109.html" title="Dipole Fit Setting class declaration. " alt="" coords="2537,281,2694,322"/>
+<area shape="rect" id="node27" href="$a01121.html" title="Electric Current Dipole (ECD) class declaration. " alt="" coords="1467,95,1617,136"/>
+<area shape="rect" id="node29" href="$a01115.html" title="DipoleForward class declaration. " alt="" coords="49,184,200,225"/>
+<area shape="rect" id="node30" href="$a01133.html" title="GuessData class declaration. " alt="" coords="232,281,383,322"/>
+<area shape="rect" id="node32" href="$a01139.html" title="HPIFit class declaration. " alt="" coords="4082,95,4231,136"/>
+<area shape="rect" id="node36" href="$a01145.html" title="HPIFitData class declaration. " alt="" coords="4342,95,4491,136"/>
+<area shape="rect" id="node38" href="$a01157.html" title="Minimum norm class declaration. " alt="" coords="2762,95,2933,136"/>
+<area shape="rect" id="node49" href="$a01169.html" title="PwlRapMusic algorithm class declaration. " alt="" coords="4689,184,4859,225"/>
+<area shape="rect" id="node50" href="$a01175.html" title="RapMusic algorithm class declaration. " alt="" coords="4658,95,4829,136"/>
+<area shape="rect" id="node3" href="$a06415_source.html" title="libraries/inverse/c\l/mne_inverse_operator.cpp" alt="" coords="275,184,454,225"/>
+<area shape="rect" id="node4" href="$a01079.html" title="Definition of the MNE Meas Data (MneMeasData) Class. " alt="" coords="777,184,923,225"/>
+<area shape="rect" id="node6" href="$a01091_source.html" title="libraries/inverse/dipole\lFit/analyze_types.h" alt="" coords="999,184,1149,225"/>
+<area shape="rect" id="node11" href="$a01100_source.html" title="libraries/inverse/dipole\lFit/dipole_fit_data.cpp" alt="" coords="885,385,1036,426"/>
+<area shape="rect" id="node12" href="$a01130.html" title="Definition of the GuessData Class. " alt="" coords="303,385,453,426"/>
+<area shape="rect" id="node9" href="$a01094_source.html" title="libraries/inverse/dipole\lFit/dipole_fit.cpp" alt="" coords="416,481,567,523"/>
+<area shape="rect" id="node10" href="$a06190_source.html" title="applications/mne_dipole\l_fit/main.cpp" alt="" coords="1767,481,1928,523"/>
+<area shape="rect" id="node14" href="$a01085.html" title="Definition of the MNE Meas Data Set (MneMeasDataSet) Class. " alt="" coords="529,184,701,225"/>
+<area shape="rect" id="node16" href="$a06409_source.html" title="libraries/disp3D/engine\l/model/items/common/types.h" alt="" coords="1823,281,2021,322"/>
+<area shape="rect" id="node17" href="$a00503.html" title="Data3DTreeModel class definition. " alt="" coords="2046,281,2235,322"/>
+<area shape="rect" id="node18" href="$a00584_source.html" title="libraries/disp3D/engine\l/model/items/measurement\l/measurementtreeitem.cpp" alt="" coords="1428,273,1608,329"/>
+<area shape="rect" id="node19" href="$a00626.html" title="EcdDataTreeItem class definition. " alt="" coords="1633,273,1798,329"/>
+<area shape="rect" id="node20" href="$a00758.html" title="AbstractView class definition. " alt="" coords="2208,385,2369,426"/>
+<area shape="rect" id="node21" href="$a00764.html" title="ECDView class definition. " alt="" coords="2023,385,2184,426"/>
+<area shape="rect" id="node24" href="$a01802.html" title="Contains declaration of AnalyzeData Container class. " alt="" coords="2639,377,2823,433"/>
+<area shape="rect" id="node26" href="$a01124.html" title="Definition of the Electric Current Dipole Set (ECDSet) Class. " alt="" coords="2361,281,2512,322"/>
+<area shape="rect" id="node23" href="$a01106_source.html" title="libraries/inverse/dipole\lFit/dipole_fit_settings.cpp" alt="" coords="2445,385,2615,426"/>
+<area shape="rect" id="node25" href="$a01730.html" title="Definition of the MNE class. " alt="" coords="2692,481,2899,523"/>
+<area shape="rect" id="node28" href="$a01118.html" title="Definition of the Electric Current Dipole (ECD) Class. " alt="" coords="1467,184,1617,225"/>
+<area shape="rect" id="node31" href="$a01112.html" title="Definition of the DipoleForward Class. " alt="" coords="5,281,156,322"/>
+<area shape="rect" id="node33" href="$a00770.html" title="HpiView class definition. " alt="" coords="3989,184,4151,225"/>
+<area shape="rect" id="node34" href="$a01136.html" title="HPIFit class defintion. " alt="" coords="4342,184,4491,225"/>
+<area shape="rect" id="node35" href="$a01487.html" title="Definition of the RtHPIS Class. " alt="" coords="4175,184,4317,225"/>
+<area shape="rect" id="node37" href="$a01142.html" title="HPIFitData class defintion. " alt="" coords="4515,184,4665,225"/>
+<area shape="rect" id="node39" href="$a01154.html" title="Definition of the MinimumNorm Class. " alt="" coords="2823,184,2994,225"/>
+<area shape="rect" id="node40" href="$a06430_source.html" title="applications/mne_scan\l/plugins/mne/mne.cpp" alt="" coords="3018,184,3173,225"/>
+<area shape="rect" id="node41" href="$a06217_source.html" title="examples/ex_clustered\l_inverse_mne/main.cpp" alt="" coords="3197,184,3357,225"/>
+<area shape="rect" id="node42" href="$a06220_source.html" title="examples/ex_clustered\l_inverse_mne_raw/main.cpp" alt="" coords="3381,184,3569,225"/>
+<area shape="rect" id="node43" href="$a06229_source.html" title="examples/ex_connectivity\l/main.cpp" alt="" coords="3594,184,3767,225"/>
+<area shape="rect" id="node44" href="$a06232_source.html" title="examples/ex_connectivity\l_comparison/main.cpp" alt="" coords="3791,184,3965,225"/>
+<area shape="rect" id="node45" href="$a06250_source.html" title="examples/ex_disp_3D\l/main.cpp" alt="" coords="2073,184,2224,225"/>
+<area shape="rect" id="node46" href="$a06268_source.html" title="examples/ex_histogram\l/main.cpp" alt="" coords="2249,184,2409,225"/>
+<area shape="rect" id="node47" href="$a06274_source.html" title="examples/ex_inverse\l_mne/main.cpp" alt="" coords="2433,184,2579,225"/>
+<area shape="rect" id="node48" href="$a06277_source.html" title="examples/ex_inverse\l_mne_raw/main.cpp" alt="" coords="2603,184,2748,225"/>
+</map>

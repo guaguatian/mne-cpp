@@ -1,0 +1,7 @@
+<map id="applications/mne_scan/plugins/gusbamp/gusbampdriver.cpp" name="applications/mne_scan/plugins/gusbamp/gusbampdriver.cpp">
+<area shape="rect" id="node5" href="$a02717.html" title="Contains the declaration of the GUSBAmpdriver class. This class implements the basic communication be..." alt="" coords="579,95,698,121"/>
+<area shape="rect" id="node15" href="$a02723.html" title="Contains the declaration of the GUSBAmpProducer class. " alt="" coords="917,95,1053,121"/>
+<area shape="rect" id="node6" href="$a02711.html" title="Contains the GUSBAmp library export/import macros. " alt="" coords="887,169,1014,196"/>
+<area shape="rect" id="node16" href="$a01553.html" title="CircularBuffer class declaration. " alt="" coords="1133,169,1323,196"/>
+<area shape="rect" id="node17" href="$a01655.html" title="utils library export/import macros. " alt="" coords="1085,244,1195,271"/>
+</map>

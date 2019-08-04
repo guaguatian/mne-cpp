@@ -1,0 +1,15 @@
+<map id="libraries/fwd/fwd_eeg_sphere_model.h" name="libraries/fwd/fwd_eeg_sphere_model.h">
+<area shape="rect" id="node2" href="$a01058.html" title="FwdEegSphereModelSet class declaration. " alt="" coords="329,95,476,136"/>
+<area shape="rect" id="node6" href="$a01049.html" title="Definition of the FwdEegSphereModel Class. " alt="" coords="507,184,653,225"/>
+<area shape="rect" id="node8" href="$a01013.html" title="Definition of the FwdBemModel Class. " alt="" coords="617,95,767,136"/>
+<area shape="rect" id="node9" href="$a01103.html" title="Dipole Fit Data class declaration. " alt="" coords="821,95,971,136"/>
+<area shape="rect" id="node3" href="$a01004.html" title="Compute Forward Setting class declaration. " alt="" coords="128,184,299,225"/>
+<area shape="rect" id="node4" href="$a01001_source.html" title="libraries/fwd/computeFwd\l/compute_fwd.cpp" alt="" coords="5,273,176,315"/>
+<area shape="rect" id="node7" href="$a01055.html" title="Definition of the FwdEegSphereModelSet Class. " alt="" coords="323,184,483,225"/>
+<area shape="rect" id="node5" href="$a06193_source.html" title="applications/mne_forward\l_solution/main.cpp" alt="" coords="200,273,371,315"/>
+<area shape="rect" id="node10" href="$a01097.html" title="Dipole Fit class declaration. " alt="" coords="677,184,827,225"/>
+<area shape="rect" id="node13" href="$a01100_source.html" title="libraries/inverse/dipole\lFit/dipole_fit_data.cpp" alt="" coords="851,184,1002,225"/>
+<area shape="rect" id="node14" href="$a01130.html" title="Definition of the GuessData Class. " alt="" coords="1026,184,1177,225"/>
+<area shape="rect" id="node11" href="$a01094_source.html" title="libraries/inverse/dipole\lFit/dipole_fit.cpp" alt="" coords="586,273,737,315"/>
+<area shape="rect" id="node12" href="$a06190_source.html" title="applications/mne_dipole\l_fit/main.cpp" alt="" coords="761,273,922,315"/>
+</map>

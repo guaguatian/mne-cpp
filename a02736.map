@@ -1,0 +1,15 @@
+<map id="applications/mne_scan/plugins/lsladapter/lsladapter.h" name="applications/mne_scan/plugins/lsladapter/lsladapter.h">
+<area shape="rect" id="node2" href="$a02738.html" title="Contains the LSL adapter plugin library export/import macros. " alt="" coords="5,184,136,211"/>
+<area shape="rect" id="node4" href="$a02258.html" title="Contains declaration of IIinverseAlgorithm interface class. " alt="" coords="647,95,785,136"/>
+<area shape="rect" id="node5" href="$a02255.html" title="Contains declaration of IPlugin interface class. " alt="" coords="711,184,785,211"/>
+<area shape="rect" id="node6" href="$a02312_source.html" title="../Management/pluginoutputdata.h" alt="" coords="896,259,1115,285"/>
+<area shape="rect" id="node21" href="$a02294.html" title="Contains the declaration of the PluginInputData class. " alt="" coords="365,259,576,285"/>
+<area shape="rect" id="node7" href="$a02321.html" title="Contains the scshared library export/import macros. " alt="" coords="168,483,307,509"/>
+<area shape="rect" id="node8" href="$a02306.html" title="Contains the declaration of the PluginOutputConnector class. " alt="" coords="523,333,683,360"/>
+<area shape="rect" id="node19" href="$a02309.html" title="Contains the declaration of the PluginOutputData class. " alt="" coords="934,333,1077,360"/>
+<area shape="rect" id="node9" href="$a02270.html" title="Contains the declaration of the PluginConnector class. " alt="" coords="465,408,589,435"/>
+<area shape="rect" id="node15" href="$a02183.html" title="MeasurementTreeItem class declaration. " alt="" coords="664,408,827,435"/>
+<area shape="rect" id="node16" href="$a02246.html" title="Contains the scMeas library export/import macros. " alt="" coords="685,483,805,509"/>
+<area shape="rect" id="node22" href="$a02288_source.html" title="plugininputconnector.h" alt="" coords="707,333,859,360"/>
+<area shape="rect" id="node23" href="$a02291.html" title="Contains the declaration of the PluginInputData class. " alt="" coords="313,333,447,360"/>
+</map>

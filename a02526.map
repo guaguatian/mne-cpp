@@ -1,0 +1,18 @@
+<map id="applications/mne_scan/plugins/covariance/FormFiles/covariancesetupwidget.cpp" name="applications/mne_scan/plugins/covariance/FormFiles/covariancesetupwidget.cpp">
+<area shape="rect" id="node2" href="$a02528.html" title="Contains the declaration of the CovarianceSetupWidget class. " alt="" coords="115,109,282,136"/>
+<area shape="rect" id="node5" href="$a02516.html" title="Contains the declaration of the CovarianceAboutWidget class. " alt="" coords="306,109,473,136"/>
+<area shape="rect" id="node7" href="$a02507.html" title="Contains the declaration of the Covariance class. " alt="" coords="513,109,621,136"/>
+<area shape="rect" id="node8" href="$a02510.html" title="Contains the Covariance library export/import macros. " alt="" coords="275,273,413,300"/>
+<area shape="rect" id="node10" href="$a02249.html" title="Contains declaration of IAlgorithm interface class. " alt="" coords="528,184,667,225"/>
+<area shape="rect" id="node11" href="$a02255.html" title="Contains declaration of IPlugin interface class. " alt="" coords="707,273,781,300"/>
+<area shape="rect" id="node12" href="$a02312_source.html" title="../Management/pluginoutputdata.h" alt="" coords="635,348,853,375"/>
+<area shape="rect" id="node27" href="$a02294.html" title="Contains the declaration of the PluginInputData class. " alt="" coords="1259,348,1469,375"/>
+<area shape="rect" id="node13" href="$a02321.html" title="Contains the scshared library export/import macros. " alt="" coords="1312,572,1451,599"/>
+<area shape="rect" id="node14" href="$a02306.html" title="Contains the declaration of the PluginOutputConnector class. " alt="" coords="1149,423,1309,449"/>
+<area shape="rect" id="node25" href="$a02309.html" title="Contains the declaration of the PluginOutputData class. " alt="" coords="705,423,847,449"/>
+<area shape="rect" id="node15" href="$a02270.html" title="Contains the declaration of the PluginConnector class. " alt="" coords="1103,497,1227,524"/>
+<area shape="rect" id="node21" href="$a02183.html" title="MeasurementTreeItem class declaration. " alt="" coords="916,497,1079,524"/>
+<area shape="rect" id="node22" href="$a02246.html" title="Contains the scMeas library export/import macros. " alt="" coords="683,572,803,599"/>
+<area shape="rect" id="node28" href="$a02288_source.html" title="plugininputconnector.h" alt="" coords="973,423,1125,449"/>
+<area shape="rect" id="node29" href="$a02291.html" title="Contains the declaration of the PluginInputData class. " alt="" coords="1385,423,1519,449"/>
+</map>

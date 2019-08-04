@@ -1,0 +1,51 @@
+<map id="applications/mne_scan/libs/scShared/Interfaces/IAlgorithm.h" name="applications/mne_scan/libs/scShared/Interfaces/IAlgorithm.h">
+<area shape="rect" id="node2" href="$a02297.html" title="Definition of the PluginManager class. " alt="" coords="191,109,375,165"/>
+<area shape="rect" id="node3" href="$a02336.html" title="PluginGui class implementation. " alt="" coords="400,117,567,158"/>
+<area shape="rect" id="node4" href="$a02369.html" title="Contains the declaration of the Averaging class. " alt="" coords="591,117,789,158"/>
+<area shape="rect" id="node7" href="$a02441.html" title="Contains the declaration of the BCI class. " alt="" coords="813,117,967,158"/>
+<area shape="rect" id="node11" href="$a02507.html" title="Contains the declaration of the Covariance class. " alt="" coords="1347,117,1559,158"/>
+<area shape="rect" id="node15" href="$a02534.html" title="Contains the declaration of the DummyToolbox class. " alt="" coords="1893,109,2049,165"/>
+<area shape="rect" id="node18" href="$a02639.html" title="Contains the declaration of the epidetect class. " alt="" coords="2330,117,2522,158"/>
+<area shape="rect" id="node21" href="$a06436_source.html" title="applications/mne_scan\l/plugins/mne/mne.h" alt="" coords="3346,117,3501,158"/>
+<area shape="rect" id="node42" href="$a02819.html" title="Contains the declaration of the NeuronalConnectivity class. " alt="" coords="3525,109,3716,165"/>
+<area shape="rect" id="node43" href="$a02834.html" title="Contains the declaration of the NoiseEstimate class. " alt="" coords="3740,117,3939,158"/>
+<area shape="rect" id="node44" href="$a02855.html" title="Contains the declaration of the NoiseReduction class. " alt="" coords="3962,109,4117,165"/>
+<area shape="rect" id="node45" href="$a02876.html" title="Contains the declaration of the RapMusicToolbox class. " alt="" coords="4141,109,4308,165"/>
+<area shape="rect" id="node46" href="$a02909.html" title="Contains the declaration of the Reference class. " alt="" coords="4333,117,4527,158"/>
+<area shape="rect" id="node47" href="$a02930.html" title="Contains the declaration of the RTHPI class. " alt="" coords="4551,117,4706,158"/>
+<area shape="rect" id="node48" href="$a02957.html" title="Contains the declaration of the RTSSS class. " alt="" coords="4730,117,4885,158"/>
+<area shape="rect" id="node49" href="$a03008.html" title="Contains the declaration of the ssvepBCI class. " alt="" coords="4909,117,5100,158"/>
+<area shape="rect" id="node50" href="$a03122.html" title="Contains the declaration of the TriggerControl class. " alt="" coords="5125,109,5279,165"/>
+<area shape="rect" id="node5" href="$a02366.html" title="Definition of the Averaging class. " alt="" coords="5,221,217,262"/>
+<area shape="rect" id="node6" href="$a02381.html" title="Definition of the AveragingSetupWidget class. " alt="" coords="242,213,431,269"/>
+<area shape="rect" id="node8" href="$a02438.html" title="Contains the implementation of the BCI class. " alt="" coords="455,221,610,262"/>
+<area shape="rect" id="node9" href="$a02453.html" title="Contains the implementation of the BCIAboutWidget class. " alt="" coords="634,213,789,269"/>
+<area shape="rect" id="node10" href="$a02459.html" title="Contains the implementation of the BCISetupWidget class. " alt="" coords="813,213,967,269"/>
+<area shape="rect" id="node12" href="$a02504.html" title="Definition of the Covariance class. " alt="" coords="991,221,1218,262"/>
+<area shape="rect" id="node13" href="$a02519_source.html" title="applications/mne_scan\l/plugins/covariance/FormFiles\l/covariancesettingswidget.cpp" alt="" coords="1243,213,1441,269"/>
+<area shape="rect" id="node14" href="$a02525.html" title="Definition of the CovarianceSetupWidget class. " alt="" coords="1465,213,1661,269"/>
+<area shape="rect" id="node16" href="$a02531.html" title="Definition of the DummyToolbox class. " alt="" coords="1685,213,1841,269"/>
+<area shape="rect" id="node17" href="$a02549.html" title="Contains the declaration of the DummySetupWidget class. " alt="" coords="1865,213,2077,269"/>
+<area shape="rect" id="node19" href="$a02636.html" title="Definition of the Epidetect class. " alt="" coords="2101,221,2308,262"/>
+<area shape="rect" id="node20" href="$a02654.html" title="Contains the declaration of the EpidetectSetupWidget class. " alt="" coords="2333,213,2519,269"/>
+<area shape="rect" id="node22" href="$a01730.html" title="Definition of the MNE class. " alt="" coords="2544,221,2751,262"/>
+<area shape="rect" id="node23" href="$a01745.html" title="Definition of the Music class. " alt="" coords="2775,221,2967,262"/>
+<area shape="rect" id="node24" href="$a01898.html" title="The FilterOperator class represents a derived class from an arbitrary MNEOperator class object..." alt="" coords="2992,221,3161,262"/>
+<area shape="rect" id="node25" href="$a01868.html" title="This class represents the model of the model/view framework of mne_browse application. It is derived from QAbstractTableModel so the virtual functions rowCount(),columnCount() and data() needed to be reimplemented. The delegate requests the data for any individual table cell by invoking data(QModelIndex index, int role) and a certain role. DisplayRole is the standard role for requesting the plain data. Other roles such as BackgroundRole are requested to fill a cell with a certain background color with respect to the individual index. For further information see [1]. " alt="" coords="3043,317,3212,359"/>
+<area shape="rect" id="node26" href="$a01850.html" title="This class represents the delegate of the model/view framework of mne_browse application. Since it is derived from the QAbstractItemDelegate class [1], the virtual functions paint() und sizeHint() need to be reimplemented. The paint() function is invoked from the connected QTableView for each table cell for any individual item with a certain QModelIndex. The task of this function is to paint this cell with the data that is requested by index.model()&#45;&gt;data(index,Qt::DisplayRole); with the corresponding QModelIndex. " alt="" coords="3165,407,3335,448"/>
+<area shape="rect" id="node27" href="$a01862.html" title="This class represents the event model of the model/view framework of mne_browse application. " alt="" coords="3288,317,3457,359"/>
+<area shape="rect" id="node28" href="$a06340_source.html" title="applications/mne_browse\l/Windows/mainwindow.h" alt="" coords="3339,221,3508,262"/>
+<area shape="rect" id="node29" href="$a06343_source.html" title="applications/mne_matching\l_pursuit/mainwindow.h" alt="" coords="3609,317,3789,359"/>
+<area shape="rect" id="node30" href="$a06199_source.html" title="applications/mne_matching\l_pursuit/main.cpp" alt="" coords="3481,407,3661,448"/>
+<area shape="rect" id="node31" href="$a06331_source.html" title="applications/mne_matching\l_pursuit/mainwindow.cpp" alt="" coords="3736,407,3916,448"/>
+<area shape="rect" id="node32" href="$a01994.html" title="Editorwindow class declaration which enables the generation of individual dictionaries. Gaussian atoms (with parameters scale, modulation and phase) or chirp atoms could be created and saved as part dictionaries. For using the atoms for decompostion it&#39;s necessary to build an entire dictionary from serveral (minimum one) part dictionaries. " alt="" coords="3635,221,3815,262"/>
+<area shape="rect" id="node33" href="$a02753.html" title="Definition of the MNESetupWidget class. " alt="" coords="3891,213,4049,269"/>
+<area shape="rect" id="node34" href="$a06430_source.html" title="applications/mne_scan\l/plugins/mne/mne.cpp" alt="" coords="4074,221,4229,262"/>
+<area shape="rect" id="node35" href="$a06214_source.html" title="examples/ex_cancel\l_noise/main.cpp" alt="" coords="4253,221,4394,262"/>
+<area shape="rect" id="node36" href="$a06220_source.html" title="examples/ex_clustered\l_inverse_mne_raw/main.cpp" alt="" coords="4419,221,4607,262"/>
+<area shape="rect" id="node37" href="$a06223_source.html" title="examples/ex_clustered\l_inverse_pwl_rap_music\l_raw/main.cpp" alt="" coords="4631,213,4797,269"/>
+<area shape="rect" id="node38" href="$a06226_source.html" title="examples/ex_clustered\l_inverse_rap_music_raw\l/main.cpp" alt="" coords="4821,213,4988,269"/>
+<area shape="rect" id="node39" href="$a06229_source.html" title="examples/ex_connectivity\l/main.cpp" alt="" coords="5013,221,5186,262"/>
+<area shape="rect" id="node40" href="$a06232_source.html" title="examples/ex_connectivity\l_comparison/main.cpp" alt="" coords="5210,221,5383,262"/>
+<area shape="rect" id="node41" href="$a06235_source.html" title="examples/ex_connectivity\l_performance/main.cpp" alt="" coords="5407,221,5581,262"/>
+</map>

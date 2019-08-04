@@ -1,0 +1,24 @@
+<map id="applications/mne_scan/plugins/noisereduction/noisereduction.h" name="applications/mne_scan/plugins/noisereduction/noisereduction.h">
+<area shape="rect" id="node2" href="$a02858.html" title="Contains the NoiseReduction library export/import macros. " alt="" coords="2464,199,2623,225"/>
+<area shape="rect" id="node4" href="$a01562.html" title="CircularMatrixBuffer class declaration. " alt="" coords="117,348,343,375"/>
+<area shape="rect" id="node13" href="$a01523.html" title="The FilterData class represents a derived class from an arbitrary MNEOperator class object..." alt="" coords="1288,423,1460,449"/>
+<area shape="rect" id="node16" href="$a00932.html" title="FiffProj class declaration. " alt="" coords="984,273,1079,300"/>
+<area shape="rect" id="node26" href="$a02249.html" title="Contains declaration of IAlgorithm interface class. " alt="" coords="1606,109,1745,151"/>
+<area shape="rect" id="node5" href="$a01655.html" title="utils library export/import macros. " alt="" coords="967,497,1077,524"/>
+<area shape="rect" id="node6" href="$a01547.html" title="Contains the declaration of the Buffer base class. " alt="" coords="791,423,858,449"/>
+<area shape="rect" id="node17" href="$a00896.html" title="Fiff library export/import macros. " alt="" coords="1175,423,1264,449"/>
+<area shape="rect" id="node18" href="$a00959.html" title="Definitions for describing the objects in a FIFF file. " alt="" coords="427,423,513,449"/>
+<area shape="rect" id="node23" href="$a00926.html" title="FiffNamedMatrix class declaration. " alt="" coords="864,348,1001,375"/>
+<area shape="rect" id="node19" href="$a00833.html" title="Fiff constants. " alt="" coords="538,497,650,524"/>
+<area shape="rect" id="node27" href="$a02255.html" title="Contains declaration of IPlugin interface class. " alt="" coords="2061,199,2135,225"/>
+<area shape="rect" id="node28" href="$a02312_source.html" title="../Management/pluginoutputdata.h" alt="" coords="1989,273,2207,300"/>
+<area shape="rect" id="node40" href="$a02294.html" title="Contains the declaration of the PluginInputData class. " alt="" coords="2325,273,2535,300"/>
+<area shape="rect" id="node29" href="$a02321.html" title="Contains the scshared library export/import macros. " alt="" coords="2469,497,2607,524"/>
+<area shape="rect" id="node30" href="$a02306.html" title="Contains the declaration of the PluginOutputConnector class. " alt="" coords="2319,348,2479,375"/>
+<area shape="rect" id="node38" href="$a02309.html" title="Contains the declaration of the PluginOutputData class. " alt="" coords="1840,348,1983,375"/>
+<area shape="rect" id="node31" href="$a02270.html" title="Contains the declaration of the PluginConnector class. " alt="" coords="2325,423,2449,449"/>
+<area shape="rect" id="node35" href="$a02183.html" title="MeasurementTreeItem class declaration. " alt="" coords="2138,423,2301,449"/>
+<area shape="rect" id="node36" href="$a02246.html" title="Contains the scMeas library export/import macros. " alt="" coords="1930,497,2050,524"/>
+<area shape="rect" id="node41" href="$a02288_source.html" title="plugininputconnector.h" alt="" coords="2143,348,2295,375"/>
+<area shape="rect" id="node42" href="$a02291.html" title="Contains the declaration of the PluginInputData class. " alt="" coords="2677,348,2812,375"/>
+</map>

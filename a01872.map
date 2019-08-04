@@ -1,0 +1,31 @@
+<map id="applications/mne_browse/Utils/butterflyscene.cpp" name="applications/mne_browse/Utils/butterflyscene.cpp">
+<area shape="rect" id="node2" href="$a01874.html" title="Contains the declaration of the ButterflyScene class. " alt="" coords="4513,95,4628,121"/>
+<area shape="rect" id="node3" href="$a01880.html" title="Contains the declaration of the ButterflySceneItem class. " alt="" coords="4021,177,4161,203"/>
+<area shape="rect" id="node47" href="$a00371.html" title="Contains the declaration of the LayoutScene class. " alt="" coords="4585,169,4727,211"/>
+<area shape="rect" id="node50" href="$a00401.html" title="Contains the declaration of the SelectionSceneItem class. " alt="" coords="4412,169,4561,211"/>
+<area shape="rect" id="node6" href="$a00818.html" title="FIFF class declaration, which provides static wrapper functions to stay consistent with mne matlab to..." alt="" coords="2415,408,2481,435"/>
+<area shape="rect" id="node41" href="$a06412_source.html" title="types.h" alt="" coords="469,259,534,285"/>
+<area shape="rect" id="node7" href="$a00896.html" title="Fiff library export/import macros. " alt="" coords="3362,781,3451,808"/>
+<area shape="rect" id="node9" href="$a00833.html" title="Fiff constants. " alt="" coords="981,856,1093,883"/>
+<area shape="rect" id="node10" href="$a00839.html" title="FiffCoordTrans class declaration. " alt="" coords="2861,632,2984,659"/>
+<area shape="rect" id="node11" href="$a00959.html" title="Definitions for describing the objects in a FIFF file. " alt="" coords="1639,781,1726,808"/>
+<area shape="rect" id="node17" href="$a00875.html" title="FiffDirNode class declaration, which provides fiff dir tree processing methods. " alt="" coords="1299,632,1403,659"/>
+<area shape="rect" id="node18" href="$a00869.html" title="FiffDirEntry class declaration. " alt="" coords="1398,707,1503,733"/>
+<area shape="rect" id="node22" href="$a00926.html" title="FiffNamedMatrix class declaration. " alt="" coords="2902,707,3039,733"/>
+<area shape="rect" id="node25" href="$a00956.html" title="FiffTag class declaration, which provides fiff tag I/O and processing methods. " alt="" coords="1505,557,1578,584"/>
+<area shape="rect" id="node34" href="$a00932.html" title="FiffProj class declaration. " alt="" coords="3521,632,3597,659"/>
+<area shape="rect" id="node35" href="$a00851.html" title="FiffCtfComp class declaration. " alt="" coords="2728,632,2837,659"/>
+<area shape="rect" id="node36" href="$a00908.html" title="FiffInfo class declaration. " alt="" coords="2546,557,2622,584"/>
+<area shape="rect" id="node37" href="$a00938.html" title="FiffRawData class declaration. " alt="" coords="2058,483,2166,509"/>
+<area shape="rect" id="node38" href="$a00944.html" title="FiffRawDir class declaration. " alt="" coords="2150,632,2247,659"/>
+<area shape="rect" id="node39" href="$a00950.html" title="FiffStream class declaration. " alt="" coords="1913,557,2007,584"/>
+<area shape="rect" id="node40" href="$a00887.html" title="FiffEvokedSet class declaration. " alt="" coords="3576,483,3699,509"/>
+<area shape="rect" id="node19" href="$a00902.html" title="FiffId class declaration. " alt="" coords="1579,707,1645,733"/>
+<area shape="rect" id="node20" href="$a00890.html" title="Fiff block and dir tag explainations. " alt="" coords="1075,707,1171,733"/>
+<area shape="rect" id="node21" href="$a00893.html" title="Header file describing the numerical values used in fif files. " alt="" coords="925,781,997,808"/>
+<area shape="rect" id="node26" href="$a00824.html" title="FiffChInfo class declaration. " alt="" coords="2505,632,2602,659"/>
+<area shape="rect" id="node27" href="$a00830.html" title="FiffChPos class declaration. " alt="" coords="2171,707,2269,733"/>
+<area shape="rect" id="node29" href="$a00857.html" title="FiffDigPoint class declaration. " alt="" coords="2373,632,2480,659"/>
+<area shape="rect" id="node42" href="$a01898.html" title="The FilterOperator class represents a derived class from an arbitrary MNEOperator class object..." alt="" coords="449,333,554,360"/>
+<area shape="rect" id="node48" href="$a00167.html" title="disp library export/import macros. " alt="" coords="4564,259,4687,285"/>
+</map>

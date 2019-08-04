@@ -1,0 +1,33 @@
+<map id="libraries/inverse/minimumNorm/minimumnorm.h" name="libraries/inverse/minimumNorm/minimumnorm.h">
+<area shape="rect" id="node2" href="$a01151.html" title="inverse library export/import macros. " alt="" coords="4107,169,4235,196"/>
+<area shape="rect" id="node4" href="$a01148_source.html" title="../IInverseAlgorithm.h" alt="" coords="24,692,171,719"/>
+<area shape="rect" id="node7" href="$a06424_source.html" title="mne/mne_inverse_operator.h" alt="" coords="2025,95,2215,121"/>
+<area shape="rect" id="node50" href="$a00986.html" title="Label class declaration. " alt="" coords="587,692,661,719"/>
+<area shape="rect" id="node8" href="$a06439_source.html" title="mne_global.h" alt="" coords="896,468,995,495"/>
+<area shape="rect" id="node9" href="$a01454.html" title="MNESourceSpace class declaration. " alt="" coords="2425,244,2564,271"/>
+<area shape="rect" id="node14" href="$a00959.html" title="Definitions for describing the objects in a FIFF file. " alt="" coords="2872,767,2979,793"/>
+<area shape="rect" id="node26" href="$a00926.html" title="FiffNamedMatrix class declaration. " alt="" coords="3387,692,3525,719"/>
+<area shape="rect" id="node29" href="$a00932.html" title="FiffProj class declaration. " alt="" coords="2605,617,2681,644"/>
+<area shape="rect" id="node31" href="$a00908.html" title="FiffInfo class declaration. " alt="" coords="2211,468,2287,495"/>
+<area shape="rect" id="node38" href="$a01427.html" title="MNEForwardSolution class declaration, which provides the forward solution including the source space ..." alt="" coords="1086,169,1239,196"/>
+<area shape="rect" id="node39" href="$a01607.html" title="MNEMath class declaration. " alt="" coords="347,692,461,719"/>
+<area shape="rect" id="node46" href="$a00845.html" title="FiffCov class declaration. " alt="" coords="1943,393,2038,420"/>
+<area shape="rect" id="node10" href="$a01436.html" title="MNEHemisphere class declaration. " alt="" coords="2079,319,2211,345"/>
+<area shape="rect" id="node19" href="$a00818.html" title="FIFF class declaration, which provides static wrapper functions to stay consistent with mne matlab to..." alt="" coords="2897,393,2964,420"/>
+<area shape="rect" id="node22" href="$a00875.html" title="FiffDirNode class declaration, which provides fiff dir tree processing methods. " alt="" coords="3115,617,3219,644"/>
+<area shape="rect" id="node11" href="$a01403.html" title="MNEClusterInfo class declaration, which provides cluster information. " alt="" coords="1222,393,1354,420"/>
+<area shape="rect" id="node15" href="$a00833.html" title="Fiff constants. " alt="" coords="3339,841,3451,868"/>
+<area shape="rect" id="node20" href="$a00896.html" title="Fiff library export/import macros. " alt="" coords="2047,767,2137,793"/>
+<area shape="rect" id="node21" href="$a00839.html" title="FiffCoordTrans class declaration. " alt="" coords="1627,617,1749,644"/>
+<area shape="rect" id="node23" href="$a00869.html" title="FiffDirEntry class declaration. " alt="" coords="2782,692,2887,719"/>
+<area shape="rect" id="node30" href="$a00851.html" title="FiffCtfComp class declaration. " alt="" coords="2027,617,2136,644"/>
+<area shape="rect" id="node24" href="$a00902.html" title="FiffId class declaration. " alt="" coords="2438,692,2503,719"/>
+<area shape="rect" id="node25" href="$a00890.html" title="Fiff block and dir tag explainations. " alt="" coords="3115,692,3211,719"/>
+<area shape="rect" id="node32" href="$a00914.html" title="FiffInfoBase class declaration. " alt="" coords="2177,543,2287,569"/>
+<area shape="rect" id="node33" href="$a00824.html" title="FiffChInfo class declaration. " alt="" coords="1830,692,1927,719"/>
+<area shape="rect" id="node34" href="$a00857.html" title="FiffDigPoint class declaration. " alt="" coords="2256,692,2363,719"/>
+<area shape="rect" id="node42" href="$a01589.html" title="KMeans class declaration. " alt="" coords="939,692,1045,719"/>
+<area shape="rect" id="node43" href="$a00971.html" title="AnnotationSet class declaration. " alt="" coords="686,692,813,719"/>
+<area shape="rect" id="node40" href="$a01655.html" title="utils library export/import macros. " alt="" coords="1088,767,1187,793"/>
+<area shape="rect" id="node44" href="$a00980.html" title="Fs library export/import macros. " alt="" coords="827,767,912,793"/>
+</map>

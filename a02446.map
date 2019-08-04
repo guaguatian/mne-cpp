@@ -1,0 +1,6 @@
+<map id="applications/mne_scan/plugins/bci/bci_global.h" name="applications/mne_scan/plugins/bci/bci_global.h">
+<area shape="rect" id="node2" href="$a02441.html" title="Contains the declaration of the BCI class. " alt="" coords="184,95,339,136"/>
+<area shape="rect" id="node3" href="$a02438.html" title="Contains the implementation of the BCI class. " alt="" coords="5,191,160,233"/>
+<area shape="rect" id="node4" href="$a02453.html" title="Contains the implementation of the BCIAboutWidget class. " alt="" coords="184,184,339,240"/>
+<area shape="rect" id="node5" href="$a02459.html" title="Contains the implementation of the BCISetupWidget class. " alt="" coords="363,184,517,240"/>
+</map>

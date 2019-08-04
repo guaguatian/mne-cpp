@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['_5fchar_5fcircularbuffer',['_char_CircularBuffer',['../a01553.html#a0e56f56a3cbc53ea45d1b1dace1acc1e',1,'IOBUFFER']]],
+  ['_5fchar_5fcircularbuffer_5fold',['_char_CircularBuffer_old',['../a01556.html#aa0eb3d98d3ab484efa68561e25ed6036',1,'IOBUFFER']]],
+  ['_5fchar_5fcircularmatrixbuffer',['_char_CircularMatrixBuffer',['../a01562.html#a606eb342235c8bd91904e9b38bdc7461',1,'IOBUFFER']]],
+  ['_5fchar_5fcircularmultichannelbuffer_5fold',['_char_CircularMultiChannelBuffer_old',['../a01565.html#a398cc3997012ef269e9aefaccc7b6c14',1,'IOBUFFER']]],
+  ['_5fdouble_5fcircularbuffer',['_double_CircularBuffer',['../a01553.html#ae2a31c7acf84d07206697816fa7a4a20',1,'IOBUFFER']]],
+  ['_5fdouble_5fcircularbuffer_5fold',['_double_CircularBuffer_old',['../a01556.html#a1960487316b9c7e9f82db66267f273a1',1,'IOBUFFER']]],
+  ['_5fdouble_5fcircularmatrixbuffer',['_double_CircularMatrixBuffer',['../a01562.html#a160436dc4fe45366a7fdcf0d7ad6999a',1,'IOBUFFER']]],
+  ['_5fdouble_5fcircularmultichannelbuffer_5fold',['_double_CircularMultiChannelBuffer_old',['../a01565.html#a1ba88aec798546fd81f473147771eb04',1,'IOBUFFER']]],
+  ['_5fdouble_5fdouble_5fpair_5fcircularbuffer',['_double_double_pair_CircularBuffer',['../a01553.html#adc1bc196b01c5c05ca9e75b1bac7539d',1,'IOBUFFER']]],
+  ['_5fdouble_5fdouble_5fpair_5fcircularbuffer_5fold',['_double_double_pair_CircularBuffer_old',['../a01556.html#a725c48218e096325039e6492d111b18e',1,'IOBUFFER']]],
+  ['_5fdouble_5fdouble_5fpair_5fcircularmultichannelbuffer_5fold',['_double_double_pair_CircularMultiChannelBuffer_old',['../a01565.html#aa0fc73bb0ce2b7c28d0141a81d2a1808',1,'IOBUFFER']]],
+  ['_5ffloat_5fcircularmatrixbuffer',['_float_CircularMatrixBuffer',['../a01562.html#ad03ad0f8033b2d4f5e7932dd2f3b1606',1,'IOBUFFER']]],
+  ['_5fint_5fcircularbuffer',['_int_CircularBuffer',['../a01553.html#a677824f3b4e9df5341e7e76a2cd231c5',1,'IOBUFFER']]],
+  ['_5fint_5fcircularbuffer_5fold',['_int_CircularBuffer_old',['../a01556.html#a42f77ddd2e7259a118dd6803ca999929',1,'IOBUFFER']]],
+  ['_5fint_5fcircularmatrixbuffer',['_int_CircularMatrixBuffer',['../a01562.html#ab672c08b8a0542cd114a9bc6b3feb9ef',1,'IOBUFFER']]],
+  ['_5fint_5fcircularmultichannelbuffer_5fold',['_int_CircularMultiChannelBuffer_old',['../a01565.html#a80ff42c079f9395d8aaf2334c1afaa97',1,'IOBUFFER']]],
+  ['_5fint_5fint_5fpair_5fcircularbuffer',['_int_int_pair_CircularBuffer',['../a01553.html#ad6da8f776e1fa4d69cc2cf78a4d1b5dc',1,'IOBUFFER']]],
+  ['_5fint_5fint_5fpair_5fcircularbuffer_5fold',['_int_int_pair_CircularBuffer_old',['../a01556.html#a2138ca35cab2f3697d86e6045d32597e',1,'IOBUFFER']]],
+  ['_5fint_5fint_5fpair_5fcircularmultichannelbuffer_5fold',['_int_int_pair_CircularMultiChannelBuffer_old',['../a01565.html#a1fa38865087c3dc0f34c1594c7a2232b',1,'IOBUFFER']]],
+  ['_5fpshort_5fcircularbuffer_5fold',['_pShort_CircularBuffer_old',['../a01556.html#a78595d96e38451dfdc4ed9b4d34555de',1,'IOBUFFER']]],
+  ['_5fpshort_5fcircularmultichannelbuffer_5fold',['_pShort_CircularMultiChannelBuffer_old',['../a01565.html#abc7e3122f781ad14331c34f5e43bd4f9',1,'IOBUFFER']]],
+  ['_5fshort_5fcircularbuffer',['_short_CircularBuffer',['../a01553.html#afe19c8df012fa94ab087ec521ca1bb16',1,'IOBUFFER']]],
+  ['_5fshort_5fcircularbuffer_5fold',['_short_CircularBuffer_old',['../a01556.html#a1b61d84deb800a91c3051ff05e8cdba6',1,'IOBUFFER']]],
+  ['_5fshort_5fcircularmultichannelbuffer_5fold',['_short_CircularMultiChannelBuffer_old',['../a01565.html#a7dd5abe089524483e18a04a81b720798',1,'IOBUFFER']]]
+];

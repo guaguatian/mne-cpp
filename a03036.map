@@ -1,0 +1,23 @@
+<map id="applications/mne_scan/plugins/tmsi/FormFiles/tmsiimpedancewidget.h" name="applications/mne_scan/plugins/tmsi/FormFiles/tmsiimpedancewidget.h">
+<area shape="rect" id="node2" href="$a01595.html" title="LayoutLoader class declaration. " alt="" coords="2495,333,2625,360"/>
+<area shape="rect" id="node11" href="$a03074.html" title="Contains the declaration of the TMSIElectrodeItem class. " alt="" coords="2587,184,2735,211"/>
+<area shape="rect" id="node17" href="$a03080.html" title="Contains the implementation of the TMSIImpedanceScene class. " alt="" coords="2736,109,2904,136"/>
+<area shape="rect" id="node22" href="$a02219.html" title="Contains the declaration of the RealTimeMultiSampleArray class. " alt="" coords="2054,109,2282,136"/>
+<area shape="rect" id="node3" href="$a01655.html" title="utils library export/import macros. " alt="" coords="2623,483,2721,509"/>
+<area shape="rect" id="node23" href="$a02246.html" title="Contains the scMeas library export/import macros. " alt="" coords="2205,408,2325,435"/>
+<area shape="rect" id="node24" href="$a02183.html" title="MeasurementTreeItem class declaration. " alt="" coords="2065,184,2177,211"/>
+<area shape="rect" id="node28" href="$a02231.html" title="Contains the declaration of the RealTimeSampleArrayChInfo class. " alt="" coords="1963,333,2149,360"/>
+<area shape="rect" id="node34" href="$a00908.html" title="FiffInfo class declaration. " alt="" coords="971,184,1066,211"/>
+<area shape="rect" id="node29" href="$a00833.html" title="Fiff constants. " alt="" coords="589,557,720,584"/>
+<area shape="rect" id="node30" href="$a00959.html" title="Definitions for describing the objects in a FIFF file. " alt="" coords="763,483,869,509"/>
+<area shape="rect" id="node35" href="$a00896.html" title="Fiff library export/import macros. " alt="" coords="1161,483,1250,509"/>
+<area shape="rect" id="node36" href="$a00914.html" title="FiffInfoBase class declaration. " alt="" coords="870,259,981,285"/>
+<area shape="rect" id="node37" href="$a00902.html" title="FiffId class declaration. " alt="" coords="1243,408,1309,435"/>
+<area shape="rect" id="node38" href="$a00824.html" title="FiffChInfo class declaration. " alt="" coords="1486,333,1583,360"/>
+<area shape="rect" id="node40" href="$a00857.html" title="FiffDigPoint class declaration. " alt="" coords="661,408,768,435"/>
+<area shape="rect" id="node42" href="$a00851.html" title="FiffCtfComp class declaration. " alt="" coords="563,333,672,360"/>
+<area shape="rect" id="node45" href="$a00839.html" title="FiffCoordTrans class declaration. " alt="" coords="995,408,1117,435"/>
+<area shape="rect" id="node47" href="$a00932.html" title="FiffProj class declaration. " alt="" coords="887,333,963,360"/>
+<area shape="rect" id="node39" href="$a00830.html" title="FiffChPos class declaration. " alt="" coords="1385,408,1482,435"/>
+<area shape="rect" id="node43" href="$a00926.html" title="FiffNamedMatrix class declaration. " alt="" coords="398,408,535,435"/>
+</map>

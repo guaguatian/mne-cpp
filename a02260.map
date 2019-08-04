@@ -1,0 +1,48 @@
+<map id="applications/mne_scan/libs/scShared/Interfaces/ISensor.h" name="applications/mne_scan/libs/scShared/Interfaces/ISensor.h">
+<area shape="rect" id="node2" href="$a02297.html" title="Definition of the PluginManager class. " alt="" coords="309,109,493,165"/>
+<area shape="rect" id="node3" href="$a02336.html" title="PluginGui class implementation. " alt="" coords="517,117,684,158"/>
+<area shape="rect" id="node4" href="$a02390.html" title="BabyMEG class declaration. " alt="" coords="709,117,901,158"/>
+<area shape="rect" id="node8" href="$a02468.html" title="Contains the declaration of the BrainAMP class. " alt="" coords="1185,117,1377,158"/>
+<area shape="rect" id="node13" href="$a02573.html" title="Contains the declaration of the ECGSimulator class. " alt="" coords="1902,109,2057,165"/>
+<area shape="rect" id="node17" href="$a02594.html" title="Contains the declaration of the EEGoSports class. " alt="" coords="2768,117,2983,158"/>
+<area shape="rect" id="node22" href="$a06358_source.html" title="applications/mne_scan\l/plugins/fiffsimulator\l/fiffsimulator.h" alt="" coords="3326,109,3481,165"/>
+<area shape="rect" id="node26" href="$a02708.html" title="Contains the declaration of the GUSBAmp class. " alt="" coords="4115,117,4307,158"/>
+<area shape="rect" id="node31" href="$a02735.html" title="Contains the declaration of the LSLAdapter class. " alt="" coords="4836,117,5035,158"/>
+<area shape="rect" id="node34" href="$a02768.html" title="Contains the declaration of the Natus class. " alt="" coords="5295,117,5450,158"/>
+<area shape="rect" id="node37" href="$a06376_source.html" title="applications/mne_scan\l/plugins/neuromag/neuromag.h" alt="" coords="5777,117,5977,158"/>
+<area shape="rect" id="node41" href="$a03059.html" title="Contains the declaration of the TMSI class. " alt="" coords="6869,117,7023,158"/>
+<area shape="rect" id="node5" href="$a02387.html" title="BabyMEG class definition. " alt="" coords="5,221,212,262"/>
+<area shape="rect" id="node6" href="$a02414.html" title="BabyMEGSetupWidget class definition. " alt="" coords="237,213,423,269"/>
+<area shape="rect" id="node7" href="$a02420.html" title="BabyMEGSQUIDControlDgl class definition. " alt="" coords="448,213,639,269"/>
+<area shape="rect" id="node9" href="$a02465.html" title="Contains the implementation of the BrainAMP class. " alt="" coords="663,221,869,262"/>
+<area shape="rect" id="node10" href="$a02480_source.html" title="applications/mne_scan\l/plugins/brainamp/brainampproducer.cpp" alt="" coords="894,221,1150,262"/>
+<area shape="rect" id="node11" href="$a02492.html" title="Contains the implementation of the BrainAMPSetupProjectWidget class. " alt="" coords="1174,213,1387,269"/>
+<area shape="rect" id="node12" href="$a02498.html" title="Contains the implementation of the BrainAMPSetupWidget class. " alt="" coords="1411,213,1598,269"/>
+<area shape="rect" id="node14" href="$a02558.html" title="Definition of the ECGProducer class. " alt="" coords="1622,213,1777,269"/>
+<area shape="rect" id="node15" href="$a02570.html" title="Definition of the ECGSimulator class. " alt="" coords="1801,213,1955,269"/>
+<area shape="rect" id="node16" href="$a02585.html" title="Definition of the ECGSetupWidget class. " alt="" coords="1980,213,2184,269"/>
+<area shape="rect" id="node18" href="$a02591.html" title="Contains the implementation of the EEGoSports class. " alt="" coords="2208,221,2436,262"/>
+<area shape="rect" id="node19" href="$a02606.html" title="Contains the implementation of the EEGoSportsProducer class. " alt="" coords="2460,221,2739,262"/>
+<area shape="rect" id="node20" href="$a02618.html" title="Contains the implementation of the EEGoSportsSetupProjectWidget class. " alt="" coords="2763,213,2987,269"/>
+<area shape="rect" id="node21" href="$a02624.html" title="Contains the implementation of the EEGoSportsSetupWidget class. " alt="" coords="3011,213,3209,269"/>
+<area shape="rect" id="node23" href="$a06352_source.html" title="applications/mne_scan\l/plugins/fiffsimulator\l/fiffsimulator.cpp" alt="" coords="3233,213,3387,269"/>
+<area shape="rect" id="node24" href="$a02669.html" title="Definition of the FiffSimulatorProducer class. " alt="" coords="3412,213,3581,269"/>
+<area shape="rect" id="node25" href="$a02681_source.html" title="applications/mne_scan\l/plugins/fiffsimulator\l/FormFiles/fiffsimulatorsetupwidget.cpp" alt="" coords="3606,213,3857,269"/>
+<area shape="rect" id="node27" href="$a02693.html" title="Contains the implementation of the gUSBampSetupProjectWidget class. " alt="" coords="3881,213,4094,269"/>
+<area shape="rect" id="node28" href="$a02699.html" title="Contains the implementation of the GUSBAmpSetupWidget class. " alt="" coords="4118,213,4305,269"/>
+<area shape="rect" id="node29" href="$a02705.html" title="Contains the implementation of the GUSBAmp class. " alt="" coords="4329,221,4536,262"/>
+<area shape="rect" id="node30" href="$a02720.html" title="Contains the implementation of the GUSBAmpProducer class. " alt="" coords="4561,221,4817,262"/>
+<area shape="rect" id="node32" href="$a02726.html" title="Contains the implementation of the LSLAdapterSetup class. " alt="" coords="4841,213,5030,269"/>
+<area shape="rect" id="node33" href="$a02732.html" title="Contains the definition of the LSLAdapter class. " alt="" coords="5055,221,5267,262"/>
+<area shape="rect" id="node35" href="$a02759.html" title="Contains the implementation of the NatusSetup class. " alt="" coords="5290,213,5455,269"/>
+<area shape="rect" id="node36" href="$a02765.html" title="Contains the definition of the Natus class. " alt="" coords="5480,221,5644,262"/>
+<area shape="rect" id="node38" href="$a02792.html" title="Definition of the RTServerSetupWidget class. " alt="" coords="5668,213,5859,269"/>
+<area shape="rect" id="node39" href="$a06370_source.html" title="applications/mne_scan\l/plugins/neuromag/neuromag.cpp" alt="" coords="5883,221,6097,262"/>
+<area shape="rect" id="node40" href="$a02798.html" title="Definition of the NeuromagProducer class. " alt="" coords="6122,221,6386,262"/>
+<area shape="rect" id="node42" href="$a03032.html" title="Contains the declaration of the TMSIImpedanceWidget class. " alt="" coords="6411,213,6588,269"/>
+<area shape="rect" id="node43" href="$a03038.html" title="Contains the implementation of the TMSISetupWidget class. " alt="" coords="6613,213,6829,269"/>
+<area shape="rect" id="node44" href="$a03044.html" title="Contains the implementation of the TMSISetupProjectWidget class. " alt="" coords="6853,213,7039,269"/>
+<area shape="rect" id="node45" href="$a03050.html" title="Contains the implementation of the TMSISetupWidget class. " alt="" coords="7063,213,7221,269"/>
+<area shape="rect" id="node46" href="$a03056.html" title="Contains the implementation of the TMSI class. " alt="" coords="7246,221,7401,262"/>
+<area shape="rect" id="node47" href="$a03089.html" title="Contains the implementation of the TMSIProducer class. " alt="" coords="7425,221,7625,262"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="libraries/utils/spectral.h" name="libraries/utils/spectral.h">
+<area shape="rect" id="node2" href="$a00074.html" title="Coherency class declaration. " alt="" coords="5,80,164,121"/>
+<area shape="rect" id="node3" href="$a00086.html" title="CrossCorrelation class definition. " alt="" coords="188,80,379,121"/>
+<area shape="rect" id="node4" href="$a00092.html" title="DebiasedSquaredWeightedPhaseLagIndex class definition. " alt="" coords="403,80,734,121"/>
+<area shape="rect" id="node5" href="$a00104.html" title="PhaseLagIndex class definition. " alt="" coords="758,80,939,121"/>
+<area shape="rect" id="node6" href="$a00110.html" title="PhaseLockingValue class definition. " alt="" coords="963,80,1169,121"/>
+<area shape="rect" id="node7" href="$a00116_source.html" title="libraries/connectivity\l/metrics/unbiasedsquaredphaselagindex.cpp" alt="" coords="1193,80,1472,121"/>
+<area shape="rect" id="node8" href="$a00122.html" title="WeightedPhaseLagIndex class definition. " alt="" coords="1496,80,1729,121"/>
+<area shape="rect" id="node9" href="$a06385_source.html" title="libraries/connectivity\l/network/network.cpp" alt="" coords="1754,80,1901,121"/>
+<area shape="rect" id="node10" href="$a01637.html" title="Declaration of Spectral class. " alt="" coords="1925,87,2095,114"/>
+<area shape="rect" id="node11" href="$a06316_source.html" title="examples/ex_spectral\l/main.cpp" alt="" coords="2119,80,2269,121"/>
+</map>

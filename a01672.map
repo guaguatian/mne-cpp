@@ -1,0 +1,11 @@
+<map id="applications/mne_analyze/extensions/deepcntk/deepcntk_global.h" name="applications/mne_analyze/extensions/deepcntk/deepcntk_global.h">
+<area shape="rect" id="node2" href="$a01667.html" title="Contains the declaration of the DeepCNTK class. " alt="" coords="5,109,220,151"/>
+<area shape="rect" id="node4" href="$a01679.html" title="Contains declaration of IDeepCNTKNet interface class. " alt="" coords="533,109,788,151"/>
+<area shape="rect" id="node10" href="$a01676.html" title="Contains the declaration of the DeepCNTKManager class. " alt="" coords="245,109,509,151"/>
+<area shape="rect" id="node3" href="$a01664.html" title="Definition of the DeepCNTK class. " alt="" coords="20,206,248,247"/>
+<area shape="rect" id="node5" href="$a01673.html" title="Definition of the DeepCNTKManager class. " alt="" coords="272,206,551,247"/>
+<area shape="rect" id="node6" href="$a01685_source.html" title="applications/mne_analyze\l/extensions/deepcntknets\l/dnn/dnn.h" alt="" coords="575,199,747,255"/>
+<area shape="rect" id="node8" href="$a01694.html" title="Contains the declaration of the FNN class. " alt="" coords="771,199,943,255"/>
+<area shape="rect" id="node7" href="$a01682.html" title="Definition of the DNN class. " alt="" coords="575,303,747,359"/>
+<area shape="rect" id="node9" href="$a01691.html" title="Definition of the FNN class. " alt="" coords="771,303,943,359"/>
+</map>

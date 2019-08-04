@@ -1,0 +1,51 @@
+<map id="libraries/fiff/fiff_tag.h" name="libraries/fiff/fiff_tag.h">
+<area shape="rect" id="node2" href="$a00020.html" title="declaration of the RtDataClient Class. " alt="" coords="459,102,618,143"/>
+<area shape="rect" id="node7" href="$a00788.html" title="Definition of the FiffCoordTransOld Class. " alt="" coords="1116,102,1263,143"/>
+<area shape="rect" id="node8" href="$a00809.html" title="FiffSparseMatrix class declaration. " alt="" coords="1337,102,1460,143"/>
+<area shape="rect" id="node13" href="$a01190.html" title="Definition of the MneCTFCompData Class. " alt="" coords="1569,303,1709,344"/>
+<area shape="rect" id="node16" href="$a00818.html" title="FIFF class declaration, which provides static wrapper functions to stay consistent with mne matlab to..." alt="" coords="2389,109,2505,136"/>
+<area shape="rect" id="node31" href="$a00836.html" title="Definition of the FiffCoordTrans Class. " alt="" coords="2529,102,2652,143"/>
+<area shape="rect" id="node32" href="$a00854.html" title="Definition of the FiffDigPoint Class. " alt="" coords="2676,102,2783,143"/>
+<area shape="rect" id="node33" href="$a00860.html" title="fiff_dig_point_set class definition. " alt="" coords="2807,102,2937,143"/>
+<area shape="rect" id="node34" href="$a00872.html" title="Definition of the FiffDirNode Class. " alt="" coords="2962,102,3067,143"/>
+<area shape="rect" id="node35" href="$a00878.html" title="Definition of the FIFFEvoked Class. " alt="" coords="3091,102,3197,143"/>
+<area shape="rect" id="node36" href="$a00884.html" title="Definition of the FiffEvokedSet Class. " alt="" coords="3221,102,3342,143"/>
+<area shape="rect" id="node37" href="$a00935.html" title="Definition of the FiffRawData Class. " alt="" coords="3367,102,3473,143"/>
+<area shape="rect" id="node38" href="$a00947.html" title="Definition of the FiffStream Class. " alt="" coords="3498,102,3603,143"/>
+<area shape="rect" id="node39" href="$a00953.html" title="Definition of the FiffTag Class. " alt="" coords="3627,102,3733,143"/>
+<area shape="rect" id="node40" href="$a01016.html" title="FwdBemModel class declaration. " alt="" coords="828,206,977,247"/>
+<area shape="rect" id="node41" href="$a01130.html" title="Definition of the GuessData Class. " alt="" coords="3757,102,3907,143"/>
+<area shape="rect" id="node42" href="$a01280.html" title="Definition of the MNE Named Matrix (MneNamedMatrix) Class. " alt="" coords="3932,102,4068,143"/>
+<area shape="rect" id="node43" href="$a01310.html" title="Definition of the MNEProjOp Class. " alt="" coords="4092,102,4228,143"/>
+<area shape="rect" id="node44" href="$a01328.html" title="Definition of the MneRawInfo Class. " alt="" coords="4252,102,4388,143"/>
+<area shape="rect" id="node45" href="$a01340.html" title="Definition of the MNE SSS Data (MneSssData) Class. " alt="" coords="4412,102,4548,143"/>
+<area shape="rect" id="node46" href="$a01457.html" title="MNESurface class implementation. " alt="" coords="4572,109,4772,136"/>
+<area shape="rect" id="node47" href="$a02051.html" title="Definition of the FiffStreamThread Class. " alt="" coords="4796,95,4948,151"/>
+<area shape="rect" id="node48" href="$a02093.html" title="Definition of the DacqServer class. " alt="" coords="4972,95,5143,151"/>
+<area shape="rect" id="node49" href="$a02108_source.html" title="applications/mne_rt\l_server/plugins/neuromag\l/shmemsocket.cpp" alt="" coords="5167,95,5337,151"/>
+<area shape="rect" id="node50" href="$a03134.html" title="Definition of the MneFiffExpSet class. " alt="" coords="5361,102,5535,143"/>
+<area shape="rect" id="node3" href="$a00005.html" title="Definition of the RtClient Class. " alt="" coords="459,206,618,247"/>
+<area shape="rect" id="node4" href="$a00017.html" title="Definition of the RtDataClient Class. " alt="" coords="642,206,803,247"/>
+<area shape="rect" id="node5" href="$a02672.html" title="Contains the declaration of the FiffSimulatorProducer class. " alt="" coords="5,199,160,255"/>
+<area shape="rect" id="node6" href="$a02801.html" title="Contains the declaration of the NeuromagProducer class. " alt="" coords="184,206,435,247"/>
+<area shape="rect" id="node9" href="$a00806.html" title="Definition of the FiffSparseMatrix Class. " alt="" coords="1279,206,1415,247"/>
+<area shape="rect" id="node10" href="$a01004.html" title="Compute Forward Setting class declaration. " alt="" coords="1052,303,1223,344"/>
+<area shape="rect" id="node11" href="$a01001_source.html" title="libraries/fwd/computeFwd\l/compute_fwd.cpp" alt="" coords="991,392,1161,433"/>
+<area shape="rect" id="node12" href="$a01193.html" title="MneCTFCompData class declaration. " alt="" coords="1489,206,1625,247"/>
+<area shape="rect" id="node14" href="$a01370_source.html" title="libraries/mne/c/mne\l_types.h" alt="" coords="1384,303,1520,344"/>
+<area shape="rect" id="node15" href="$a01199.html" title="MneCTFCompDataSet class declaration. " alt="" coords="1103,206,1254,247"/>
+<area shape="rect" id="node17" href="$a00248.html" title="Definition of the ChannelSelectionView class. " alt="" coords="2678,206,2853,247"/>
+<area shape="rect" id="node18" href="$a00815.html" title="Definition of the FIFF Wrapper Class. " alt="" coords="2877,213,3008,240"/>
+<area shape="rect" id="node19" href="$a00917.html" title="Definition of a generic Fiff IO interface. " alt="" coords="3033,206,3138,247"/>
+<area shape="rect" id="node20" href="$a01436.html" title="MNEHemisphere class declaration. " alt="" coords="2199,213,2409,240"/>
+<area shape="rect" id="node21" href="$a01454.html" title="MNESourceSpace class declaration. " alt="" coords="2269,310,2486,337"/>
+<area shape="rect" id="node22" href="$a01397.html" title="MNEBemSurface class declaration. " alt="" coords="3407,206,3564,247"/>
+<area shape="rect" id="node23" href="$a01391.html" title="MNEBem class declaration. " alt="" coords="3459,310,3627,337"/>
+<area shape="rect" id="node24" href="$a06427_source.html" title="libraries/mne/mne.cpp" alt="" coords="3639,213,3790,240"/>
+<area shape="rect" id="node25" href="$a01730.html" title="Definition of the MNE class. " alt="" coords="1701,206,1907,247"/>
+<area shape="rect" id="node26" href="$a01745.html" title="Definition of the Music class. " alt="" coords="1932,206,2124,247"/>
+<area shape="rect" id="node27" href="$a06412_source.html" title="applications/mne_browse\l/Utils/types.h" alt="" coords="3162,206,3331,247"/>
+<area shape="rect" id="node28" href="$a01898.html" title="The FilterOperator class represents a derived class from an arbitrary MNEOperator class object..." alt="" coords="3162,303,3331,344"/>
+<area shape="rect" id="node29" href="$a01868.html" title="This class represents the model of the model/view framework of mne_browse application. It is derived from QAbstractTableModel so the virtual functions rowCount(),columnCount() and data() needed to be reimplemented. The delegate requests the data for any individual table cell by invoking data(QModelIndex index, int role) and a certain role. DisplayRole is the standard role for requesting the plain data. Other roles such as BackgroundRole are requested to fill a cell with a certain background color with respect to the individual index. For further information see [1]. " alt="" coords="3039,392,3209,433"/>
+<area shape="rect" id="node30" href="$a01862.html" title="This class represents the event model of the model/view framework of mne_browse application. " alt="" coords="2485,206,2654,247"/>
+</map>

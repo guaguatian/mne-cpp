@@ -1,0 +1,28 @@
+<map id="applications/mne_scan/plugins/covariance/covariance.cpp" name="applications/mne_scan/plugins/covariance/covariance.cpp">
+<area shape="rect" id="node2" href="$a02507.html" title="Contains the declaration of the Covariance class. " alt="" coords="1152,95,1248,121"/>
+<area shape="rect" id="node7" href="$a02528.html" title="Contains the declaration of the CovarianceSetupWidget class. " alt="" coords="3146,95,3374,121"/>
+<area shape="rect" id="node10" href="$a02522_source.html" title="FormFiles/covariancesettingswidget.h" alt="" coords="656,95,899,121"/>
+<area shape="rect" id="node16" href="$a01562.html" title="CircularMatrixBuffer class declaration. " alt="" coords="174,326,399,353"/>
+<area shape="rect" id="node23" href="$a02219.html" title="Contains the declaration of the RealTimeMultiSampleArray class. " alt="" coords="2234,95,2462,121"/>
+<area shape="rect" id="node33" href="$a00908.html" title="FiffInfo class declaration. " alt="" coords="1609,244,1703,271"/>
+<area shape="rect" id="node43" href="$a02207.html" title="Contains the declaration of the RealTimeCov class. " alt="" coords="2486,95,2637,121"/>
+<area shape="rect" id="node44" href="$a00845.html" title="FiffCov class declaration. " alt="" coords="2054,169,2149,196"/>
+<area shape="rect" id="node47" href="$a01478.html" title="RtCov class declaration. " alt="" coords="421,169,558,196"/>
+<area shape="rect" id="node3" href="$a02510.html" title="Contains the Covariance library export/import macros. " alt="" coords="1025,169,1162,196"/>
+<area shape="rect" id="node4" href="$a02249.html" title="Contains declaration of IAlgorithm interface class. " alt="" coords="688,319,827,360"/>
+<area shape="rect" id="node17" href="$a01655.html" title="utils library export/import macros. " alt="" coords="202,483,313,509"/>
+<area shape="rect" id="node18" href="$a01547.html" title="Contains the declaration of the Buffer base class. " alt="" coords="496,408,563,435"/>
+<area shape="rect" id="node24" href="$a02246.html" title="Contains the scMeas library export/import macros. " alt="" coords="2589,244,2709,271"/>
+<area shape="rect" id="node25" href="$a02183.html" title="MeasurementTreeItem class declaration. " alt="" coords="2433,169,2596,196"/>
+<area shape="rect" id="node28" href="$a02231.html" title="Contains the declaration of the RealTimeSampleArrayChInfo class. " alt="" coords="2173,169,2358,196"/>
+<area shape="rect" id="node29" href="$a00959.html" title="Definitions for describing the objects in a FIFF file. " alt="" coords="1852,483,1959,509"/>
+<area shape="rect" id="node34" href="$a00896.html" title="Fiff library export/import macros. " alt="" coords="1575,483,1665,509"/>
+<area shape="rect" id="node35" href="$a00914.html" title="FiffInfoBase class declaration. " alt="" coords="1647,326,1758,353"/>
+<area shape="rect" id="node36" href="$a00902.html" title="FiffId class declaration. " alt="" coords="1587,408,1653,435"/>
+<area shape="rect" id="node37" href="$a00824.html" title="FiffChInfo class declaration. " alt="" coords="1729,408,1826,435"/>
+<area shape="rect" id="node38" href="$a00857.html" title="FiffDigPoint class declaration. " alt="" coords="1851,408,1957,435"/>
+<area shape="rect" id="node40" href="$a00851.html" title="FiffCtfComp class declaration. " alt="" coords="1403,408,1512,435"/>
+<area shape="rect" id="node41" href="$a00839.html" title="FiffCoordTrans class declaration. " alt="" coords="1256,408,1379,435"/>
+<area shape="rect" id="node42" href="$a00932.html" title="FiffProj class declaration. " alt="" coords="2083,408,2159,435"/>
+<area shape="rect" id="node48" href="$a01505.html" title="realtime library export/import macros. " alt="" coords="417,244,562,271"/>
+</map>

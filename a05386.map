@@ -1,0 +1,10 @@
+<map id="SCSHAREDLIB::PluginOutputConnector" name="SCSHAREDLIB::PluginOutputConnector">
+<area shape="rect" id="node4" href="$a05391.html" title="{SCSHAREDLIB::PluginOutput\lData\&lt; SCMEASLIB::RealTimeConnectivity\lEstimate \&gt;\n||+ PluginOutputData()\l+ ~PluginOutputData()\l+ data()\l+ update()\l+ create()\l}" alt="" coords="5,513,281,679"/>
+<area shape="rect" id="node5" href="$a05391.html" title="{SCSHAREDLIB::PluginOutput\lData\&lt; SCMEASLIB::RealTimeEvokedSet \&gt;\n||+ PluginOutputData()\l+ ~PluginOutputData()\l+ data()\l+ update()\l+ create()\l}" alt="" coords="305,521,584,671"/>
+<area shape="rect" id="node6" href="$a05391.html" title="{SCSHAREDLIB::PluginOutput\lData\&lt; SCMEASLIB::RealTimeMulti\lSampleArray \&gt;\n||+ PluginOutputData()\l+ ~PluginOutputData()\l+ data()\l+ update()\l+ create()\l}" alt="" coords="608,513,839,679"/>
+<area shape="rect" id="node7" href="$a05391.html" title="{SCSHAREDLIB::PluginOutput\lData\&lt; SCMEASLIB::RealTimeSample\lArray \&gt;\n||+ PluginOutputData()\l+ ~PluginOutputData()\l+ data()\l+ update()\l+ create()\l}" alt="" coords="863,513,1109,679"/>
+<area shape="rect" id="node8" href="$a05391.html" title="{SCSHAREDLIB::PluginOutput\lData\&lt; SCMEASLIB::RealTimeSource\lEstimate \&gt;\n||+ PluginOutputData()\l+ ~PluginOutputData()\l+ data()\l+ update()\l+ create()\l}" alt="" coords="1133,513,1377,679"/>
+<area shape="rect" id="node9" href="$a05391.html" title="{SCSHAREDLIB::PluginOutput\lData\&lt; SCMEASLIB::RealTimeSpectrum \&gt;\n||+ PluginOutputData()\l+ ~PluginOutputData()\l+ data()\l+ update()\l+ create()\l}" alt="" coords="1401,521,1672,671"/>
+<area shape="rect" id="node10" href="$a05391.html" title="PluginOutputConnector with specified Measurement. " alt="" coords="1696,521,1897,671"/>
+<area shape="rect" id="node2" href="$a05363.html" title="The PluginConnector class provides the base to connect plug&#45;in data. " alt="" coords="875,131,1097,281"/>
+</map>

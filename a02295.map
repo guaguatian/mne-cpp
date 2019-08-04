@@ -1,0 +1,8 @@
+<map id="applications/mne_scan/libs/scShared/Management/plugininputdata.h" name="applications/mne_scan/libs/scShared/Management/plugininputdata.h">
+<area shape="rect" id="node2" href="$a02321.html" title="Contains the scshared library export/import macros. " alt="" coords="5,259,144,285"/>
+<area shape="rect" id="node4" href="$a02288_source.html" title="plugininputconnector.h" alt="" coords="480,109,632,136"/>
+<area shape="rect" id="node14" href="$a02291.html" title="Contains the declaration of the PluginInputData class. " alt="" coords="763,109,898,136"/>
+<area shape="rect" id="node5" href="$a02270.html" title="Contains the declaration of the PluginConnector class. " alt="" coords="307,184,431,211"/>
+<area shape="rect" id="node11" href="$a02183.html" title="MeasurementTreeItem class declaration. " alt="" coords="475,184,637,211"/>
+<area shape="rect" id="node12" href="$a02246.html" title="Contains the scMeas library export/import macros. " alt="" coords="653,259,773,285"/>
+</map>

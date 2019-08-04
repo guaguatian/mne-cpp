@@ -1,0 +1,15 @@
+<map id="applications/mne_scan/libs/scShared/Management/pluginscenemanager.cpp" name="applications/mne_scan/libs/scShared/Management/pluginscenemanager.cpp">
+<area shape="rect" id="node2" href="$a02318.html" title="Contains declaration of PluginSceneManager class. " alt="" coords="1043,109,1195,136"/>
+<area shape="rect" id="node3" href="$a02321.html" title="Contains the scshared library export/import macros. " alt="" coords="1104,557,1243,584"/>
+<area shape="rect" id="node5" href="$a02255.html" title="Contains declaration of IPlugin interface class. " alt="" coords="440,259,587,285"/>
+<area shape="rect" id="node26" href="$a02276.html" title="Contains the declaration of the PluginConnectorConnection class. " alt="" coords="905,184,1092,211"/>
+<area shape="rect" id="node6" href="$a02312_source.html" title="../Management/pluginoutputdata.h" alt="" coords="717,333,936,360"/>
+<area shape="rect" id="node20" href="$a02294.html" title="Contains the declaration of the PluginInputData class. " alt="" coords="187,333,397,360"/>
+<area shape="rect" id="node7" href="$a02306.html" title="Contains the declaration of the PluginOutputConnector class. " alt="" coords="929,408,1089,435"/>
+<area shape="rect" id="node18" href="$a02309.html" title="Contains the declaration of the PluginOutputData class. " alt="" coords="421,408,563,435"/>
+<area shape="rect" id="node8" href="$a02270.html" title="Contains the declaration of the PluginConnector class. " alt="" coords="805,483,929,509"/>
+<area shape="rect" id="node14" href="$a02183.html" title="MeasurementTreeItem class declaration. " alt="" coords="617,483,780,509"/>
+<area shape="rect" id="node15" href="$a02246.html" title="Contains the scMeas library export/import macros. " alt="" coords="604,557,724,584"/>
+<area shape="rect" id="node21" href="$a02288_source.html" title="plugininputconnector.h" alt="" coords="588,408,740,435"/>
+<area shape="rect" id="node22" href="$a02291.html" title="Contains the declaration of the PluginInputData class. " alt="" coords="159,408,294,435"/>
+</map>

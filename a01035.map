@@ -1,0 +1,14 @@
+<map id="libraries/fwd/fwd_coil_set.h" name="libraries/fwd/fwd_coil_set.h">
+<area shape="rect" id="node2" href="$a01061.html" title="forward library export/import macros. " alt="" coords="981,177,1075,203"/>
+<area shape="rect" id="node4" href="$a01028.html" title="FwdCoil class declaration. " alt="" coords="1491,95,1573,121"/>
+<area shape="rect" id="node7" href="$a00959.html" title="Definitions for describing the objects in a FIFF file. " alt="" coords="552,483,651,509"/>
+<area shape="rect" id="node5" href="$a00791.html" title="FiffCoordTransOld class declaration. " alt="" coords="1099,169,1242,211"/>
+<area shape="rect" id="node6" href="$a00896.html" title="Fiff library export/import macros. " alt="" coords="120,483,221,509"/>
+<area shape="rect" id="node14" href="$a00950.html" title="FiffStream class declaration. " alt="" coords="864,259,971,285"/>
+<area shape="rect" id="node17" href="$a00875.html" title="FiffDirNode class declaration, which provides fiff dir tree processing methods. " alt="" coords="389,333,493,360"/>
+<area shape="rect" id="node8" href="$a00833.html" title="Fiff constants. " alt="" coords="368,557,480,584"/>
+<area shape="rect" id="node15" href="$a00902.html" title="FiffId class declaration. " alt="" coords="569,408,634,435"/>
+<area shape="rect" id="node18" href="$a00869.html" title="FiffDirEntry class declaration. " alt="" coords="658,408,763,435"/>
+<area shape="rect" id="node19" href="$a00890.html" title="Fiff block and dir tag explainations. " alt="" coords="347,408,443,435"/>
+<area shape="rect" id="node20" href="$a00893.html" title="Header file describing the numerical values used in fif files. " alt="" coords="359,483,431,509"/>
+</map>

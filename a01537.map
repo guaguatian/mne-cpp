@@ -1,0 +1,42 @@
+<map id="libraries/utils/filterTools/parksmcclellan.h" name="libraries/utils/filterTools/parksmcclellan.h">
+<area shape="rect" id="node2" href="$a01520.html" title="Contains all FilterData. " alt="" coords="1440,95,1596,136"/>
+<area shape="rect" id="node3" href="$a01532.html" title="libraries/utils/filterTools\l/parksmcclellan.cpp" alt="" coords="1620,95,1776,136"/>
+<area shape="rect" id="node4" href="$a01898.html" title="The FilterOperator class represents a derived class from an arbitrary MNEOperator class object..." alt="" coords="1800,95,1969,136"/>
+<area shape="rect" id="node26" href="$a01868.html" title="This class represents the model of the model/view framework of mne_browse application. It is derived from QAbstractTableModel so the virtual functions rowCount(),columnCount() and data() needed to be reimplemented. The delegate requests the data for any individual table cell by invoking data(QModelIndex index, int role) and a certain role. DisplayRole is the standard role for requesting the plain data. Other roles such as BackgroundRole are requested to fill a cell with a certain background color with respect to the individual index. For further information see [1]. " alt="" coords="1973,363,2143,404"/>
+<area shape="rect" id="node5" href="$a06412_source.html" title="applications/mne_browse\l/Utils/types.h" alt="" coords="1483,184,1652,225"/>
+<area shape="rect" id="node33" href="$a01892.html" title="Contains the declaration of the DataPackage class. " alt="" coords="1973,273,2143,315"/>
+<area shape="rect" id="node39" href="$a06406_source.html" title="applications/mne_browse\l/Utils/filterplotscene.h" alt="" coords="128,184,297,225"/>
+<area shape="rect" id="node41" href="$a01895.html" title="Contains all FilterOperators. " alt="" coords="1923,184,2092,225"/>
+<area shape="rect" id="node6" href="$a01838.html" title="Contains the declaration of the AverageDelegate class. " alt="" coords="774,273,969,315"/>
+<area shape="rect" id="node8" href="$a01928.html" title="Contains the declaration of the AverageWindow class. " alt="" coords="691,452,876,493"/>
+<area shape="rect" id="node9" href="$a06340_source.html" title="applications/mne_browse\l/Windows/mainwindow.h" alt="" coords="1023,541,1192,583"/>
+<area shape="rect" id="node19" href="$a01910.html" title="In this RawSettings class all mne_browse settings are managed. In order to store settings from the la..." alt="" coords="1483,273,1652,315"/>
+<area shape="rect" id="node23" href="$a01850.html" title="This class represents the delegate of the model/view framework of mne_browse application. Since it is derived from the QAbstractItemDelegate class [1], the virtual functions paint() und sizeHint() need to be reimplemented. The paint() function is invoked from the connected QTableView for each table cell for any individual item with a certain QModelIndex. The task of this function is to paint this cell with the data that is requested by index.model()&#45;&gt;data(index,Qt::DisplayRole); with the corresponding QModelIndex. " alt="" coords="1850,452,2021,493"/>
+<area shape="rect" id="node30" href="$a01856.html" title="This class represents the average model of the model/view framework of mne_browse application..." alt="" coords="1044,363,1213,404"/>
+<area shape="rect" id="node35" href="$a01880.html" title="Contains the declaration of the ButterflySceneItem class. " alt="" coords="512,273,687,315"/>
+<area shape="rect" id="node7" href="$a01835.html" title="Definition of AverageDelegate of mne_browse. " alt="" coords="708,363,917,404"/>
+<area shape="rect" id="node18" href="$a01925.html" title="Definition of the AverageWindow class. " alt="" coords="684,541,883,583"/>
+<area shape="rect" id="node10" href="$a06187_source.html" title="applications/mne_browse\l/main.cpp" alt="" coords="1149,631,1319,672"/>
+<area shape="rect" id="node11" href="$a01952.html" title="Contains the declaration of the FilterWindow class. " alt="" coords="749,631,919,672"/>
+<area shape="rect" id="node13" href="$a01946.html" title="Definition of the EventWindow class. " alt="" coords="1343,631,1514,672"/>
+<area shape="rect" id="node15" href="$a01940.html" title="Definition of the DataWindow class. " alt="" coords="1544,631,1713,672"/>
+<area shape="rect" id="node17" href="$a06328_source.html" title="applications/mne_browse\l/Windows/mainwindow.cpp" alt="" coords="943,631,1125,672"/>
+<area shape="rect" id="node12" href="$a01949.html" title="Definition of the FilterWindow class. " alt="" coords="745,720,923,761"/>
+<area shape="rect" id="node14" href="$a01943_source.html" title="applications/mne_browse\l/Windows/eventwindow.cpp" alt="" coords="1332,720,1517,761"/>
+<area shape="rect" id="node16" href="$a01937_source.html" title="applications/mne_browse\l/Windows/datawindow.cpp" alt="" coords="1542,720,1721,761"/>
+<area shape="rect" id="node20" href="$a01862.html" title="This class represents the event model of the model/view framework of mne_browse application. " alt="" coords="1289,363,1459,404"/>
+<area shape="rect" id="node28" href="$a01886.html" title="Contains the declaration of the DataMarker class. " alt="" coords="1483,363,1652,404"/>
+<area shape="rect" id="node32" href="$a01907.html" title="Contains all application settings. " alt="" coords="1728,363,1897,404"/>
+<area shape="rect" id="node21" href="$a01844.html" title="Contains the declaration of the EventDelegate class. " alt="" coords="1349,452,1530,493"/>
+<area shape="rect" id="node25" href="$a01859.html" title="This class represents the event model of the model/view framework of mne_browse application. " alt="" coords="1155,452,1324,493"/>
+<area shape="rect" id="node22" href="$a01841.html" title="Definition of delegate of EventDelegate. " alt="" coords="1217,541,1411,583"/>
+<area shape="rect" id="node24" href="$a01847.html" title="Definition of delegate of mne_browse. " alt="" coords="1714,541,1898,583"/>
+<area shape="rect" id="node27" href="$a01865.html" title="This class represents the model of the model/view framework of mne_browse application. " alt="" coords="2096,452,2265,493"/>
+<area shape="rect" id="node29" href="$a01883_source.html" title="applications/mne_browse\l/Utils/datamarker.cpp" alt="" coords="1656,452,1825,493"/>
+<area shape="rect" id="node31" href="$a01853.html" title="This class represents the average model of the model/view framework of mne_browse application..." alt="" coords="901,452,1079,493"/>
+<area shape="rect" id="node34" href="$a01889.html" title="Definition of the DataPackage class. " alt="" coords="2167,363,2336,404"/>
+<area shape="rect" id="node36" href="$a01874.html" title="Contains the declaration of the ButterflyScene class. " alt="" coords="515,363,684,404"/>
+<area shape="rect" id="node38" href="$a01877.html" title="Definition of the ButterflySceneItem class. " alt="" coords="301,363,490,404"/>
+<area shape="rect" id="node37" href="$a01871.html" title="Definition of the ButterflyScene class. " alt="" coords="497,452,667,493"/>
+<area shape="rect" id="node40" href="$a06400_source.html" title="applications/mne_browse\l/Utils/filterplotscene.cpp" alt="" coords="5,273,175,315"/>
+</map>

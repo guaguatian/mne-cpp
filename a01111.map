@@ -1,0 +1,12 @@
+<map id="libraries/inverse/dipoleFit/dipole_fit_settings.h" name="libraries/inverse/dipoleFit/dipole_fit_settings.h">
+<area shape="rect" id="node2" href="$a00758.html" title="AbstractView class definition. " alt="" coords="5,102,167,143"/>
+<area shape="rect" id="node3" href="$a00764.html" title="ECDView class definition. " alt="" coords="191,102,352,143"/>
+<area shape="rect" id="node4" href="$a01097.html" title="Dipole Fit class declaration. " alt="" coords="376,102,527,143"/>
+<area shape="rect" id="node6" href="$a06190_source.html" title="applications/mne_dipole\l_fit/main.cpp" alt="" coords="457,206,619,247"/>
+<area shape="rect" id="node7" href="$a01106_source.html" title="libraries/inverse/dipole\lFit/dipole_fit_settings.cpp" alt="" coords="602,102,773,143"/>
+<area shape="rect" id="node8" href="$a01802.html" title="Contains declaration of AnalyzeData Container class. " alt="" coords="849,95,1033,151"/>
+<area shape="rect" id="node5" href="$a01094_source.html" title="libraries/inverse/dipole\lFit/dipole_fit.cpp" alt="" coords="283,206,433,247"/>
+<area shape="rect" id="node9" href="$a01730.html" title="Definition of the MNE class. " alt="" coords="643,206,849,247"/>
+<area shape="rect" id="node10" href="$a01799.html" title="Definition of the Analyze Data Container Class. " alt="" coords="874,199,1058,255"/>
+<area shape="rect" id="node11" href="$a06325_source.html" title="applications/mne_analyze\l/mne_analyze/mainwindow.cpp" alt="" coords="1083,206,1287,247"/>
+</map>

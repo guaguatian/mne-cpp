@@ -1,0 +1,31 @@
+<map id="applications/mne_scan/plugins/averaging/FormFiles/averagingsetupwidget.cpp" name="applications/mne_scan/plugins/averaging/FormFiles/averagingsetupwidget.cpp">
+<area shape="rect" id="node2" href="$a02384.html" title="Contains the declaration of the AveragingSetupWidget class. " alt="" coords="1282,109,1441,136"/>
+<area shape="rect" id="node5" href="$a02378.html" title="Contains the declaration of the AveragingAboutWidget class. " alt="" coords="1465,109,1623,136"/>
+<area shape="rect" id="node7" href="$a02369.html" title="Contains the declaration of the Averaging class. " alt="" coords="2523,109,2624,136"/>
+<area shape="rect" id="node8" href="$a02372.html" title="Contains the Averaging library export/import macros. " alt="" coords="3093,266,3224,293"/>
+<area shape="rect" id="node10" href="$a02249.html" title="Contains declaration of IAlgorithm interface class. " alt="" coords="2504,259,2643,300"/>
+<area shape="rect" id="node25" href="$a01562.html" title="CircularMatrixBuffer class declaration. " alt="" coords="3082,423,3307,449"/>
+<area shape="rect" id="node33" href="$a00887.html" title="FiffEvokedSet class declaration. " alt="" coords="1623,184,1764,211"/>
+<area shape="rect" id="node11" href="$a02255.html" title="Contains declaration of IPlugin interface class. " alt="" coords="2553,348,2626,375"/>
+<area shape="rect" id="node12" href="$a02312_source.html" title="../Management/pluginoutputdata.h" alt="" coords="2139,423,2357,449"/>
+<area shape="rect" id="node19" href="$a02294.html" title="Contains the declaration of the PluginInputData class. " alt="" coords="2484,423,2695,449"/>
+<area shape="rect" id="node13" href="$a02321.html" title="Contains the scshared library export/import macros. " alt="" coords="2609,572,2748,599"/>
+<area shape="rect" id="node14" href="$a02306.html" title="Contains the declaration of the PluginOutputConnector class. " alt="" coords="2368,497,2528,524"/>
+<area shape="rect" id="node17" href="$a02309.html" title="Contains the declaration of the PluginOutputData class. " alt="" coords="2035,497,2178,524"/>
+<area shape="rect" id="node20" href="$a02288_source.html" title="plugininputconnector.h" alt="" coords="2603,497,2755,524"/>
+<area shape="rect" id="node21" href="$a02291.html" title="Contains the declaration of the PluginInputData class. " alt="" coords="2779,497,2914,524"/>
+<area shape="rect" id="node26" href="$a01655.html" title="utils library export/import macros. " alt="" coords="3233,572,3343,599"/>
+<area shape="rect" id="node27" href="$a01547.html" title="Contains the declaration of the Buffer base class. " alt="" coords="3040,497,3107,524"/>
+<area shape="rect" id="node34" href="$a00908.html" title="FiffInfo class declaration. " alt="" coords="1094,348,1170,375"/>
+<area shape="rect" id="node35" href="$a00896.html" title="Fiff library export/import macros. " alt="" coords="1133,572,1222,599"/>
+<area shape="rect" id="node49" href="$a00881.html" title="FiffEvoked class declaration. " alt="" coords="385,266,482,293"/>
+<area shape="rect" id="node36" href="$a00914.html" title="FiffInfoBase class declaration. " alt="" coords="1030,423,1141,449"/>
+<area shape="rect" id="node37" href="$a00959.html" title="Definitions for describing the objects in a FIFF file. " alt="" coords="751,572,838,599"/>
+<area shape="rect" id="node41" href="$a00902.html" title="FiffId class declaration. " alt="" coords="1257,497,1322,524"/>
+<area shape="rect" id="node42" href="$a00824.html" title="FiffChInfo class declaration. " alt="" coords="849,497,946,524"/>
+<area shape="rect" id="node44" href="$a00857.html" title="FiffDigPoint class declaration. " alt="" coords="1347,497,1453,524"/>
+<area shape="rect" id="node45" href="$a00851.html" title="FiffCtfComp class declaration. " alt="" coords="1123,497,1232,524"/>
+<area shape="rect" id="node46" href="$a00839.html" title="FiffCoordTrans class declaration. " alt="" coords="651,497,773,524"/>
+<area shape="rect" id="node48" href="$a00932.html" title="FiffProj class declaration. " alt="" coords="550,497,626,524"/>
+<area shape="rect" id="node50" href="$a00893.html" title="Header file describing the numerical values used in fif files. " alt="" coords="195,348,267,375"/>
+</map>

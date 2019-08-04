@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$a03683.html" title="This abstract class is used as a base class for all materials that are using the phong alpha lightini..." alt="" coords="153,129,338,171"/>
+<area shape="rect" id="node8" href="$a03707.html" title="ShowNormalsMaterial is provides a Qt3D material with own shader support. " alt="" coords="132,195,359,222"/>
+<area shape="rect" id="node3" href="$a03687.html" title="Custom phong alpha material for instanced rendering. " alt="" coords="407,5,615,47"/>
+<area shape="rect" id="node4" href="$a03691.html" title="Compute shader interpolation material. " alt="" coords="413,71,608,112"/>
+<area shape="rect" id="node5" href="$a03695.html" title="NetworkMaterial is provides a Qt3D material with own shader support. " alt="" coords="413,137,608,163"/>
+<area shape="rect" id="node6" href="$a03699.html" title="PerVertexPhongAlphaMaterial is provides a Qt3D material with own shader support. " alt="" coords="413,188,608,229"/>
+<area shape="rect" id="node7" href="$a03703.html" title="PerVertexTessPhongAlphaMaterial is provides a Qt3D material with own shader support. " alt="" coords="417,253,604,295"/>
+</map>

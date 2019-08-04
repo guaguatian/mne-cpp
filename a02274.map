@@ -1,0 +1,35 @@
+<map id="applications/mne_scan/libs/scShared/Management/pluginconnectorconnection.cpp" name="applications/mne_scan/libs/scShared/Management/pluginconnectorconnection.cpp">
+<area shape="rect" id="node2" href="$a02276.html" title="Contains the declaration of the PluginConnectorConnection class. " alt="" coords="940,109,1126,136"/>
+<area shape="rect" id="node22" href="$a02282.html" title="Contains the declaration of the PluginConnectorConnectionWidget class. " alt="" coords="1400,109,1626,136"/>
+<area shape="rect" id="node26" href="$a02195.html" title="Contains the declaration of the Numeric class. " alt="" coords="1334,333,1463,360"/>
+<area shape="rect" id="node27" href="$a02225.html" title="Contains the declaration of the RealTimeSampleArray class. " alt="" coords="1690,333,1890,360"/>
+<area shape="rect" id="node29" href="$a02219.html" title="Contains the declaration of the RealTimeMultiSampleArray class. " alt="" coords="2611,333,2839,360"/>
+<area shape="rect" id="node39" href="$a02213.html" title="Contains the declaration of the RealTimeEvokedSet class. " alt="" coords="2093,259,2282,285"/>
+<area shape="rect" id="node42" href="$a02207.html" title="Contains the declaration of the RealTimeCov class. " alt="" coords="1578,259,1728,285"/>
+<area shape="rect" id="node44" href="$a02237.html" title="Contains the declaration of the RealTimeSourceEstimate class. " alt="" coords="3085,184,3304,211"/>
+<area shape="rect" id="node3" href="$a02321.html" title="Contains the scshared library export/import macros. " alt="" coords="640,483,778,509"/>
+<area shape="rect" id="node5" href="$a02255.html" title="Contains declaration of IPlugin interface class. " alt="" coords="305,184,452,211"/>
+<area shape="rect" id="node7" href="$a02306.html" title="Contains the declaration of the PluginOutputConnector class. " alt="" coords="669,333,829,360"/>
+<area shape="rect" id="node17" href="$a02288_source.html" title="plugininputconnector.h" alt="" coords="904,333,1056,360"/>
+<area shape="rect" id="node6" href="$a02312_source.html" title="../Management/pluginoutputdata.h" alt="" coords="416,259,634,285"/>
+<area shape="rect" id="node16" href="$a02294.html" title="Contains the declaration of the PluginInputData class. " alt="" coords="658,259,869,285"/>
+<area shape="rect" id="node8" href="$a02270.html" title="Contains the declaration of the PluginConnector class. " alt="" coords="931,408,1055,435"/>
+<area shape="rect" id="node13" href="$a02183.html" title="MeasurementTreeItem class declaration. " alt="" coords="1502,408,1665,435"/>
+<area shape="rect" id="node14" href="$a02246.html" title="Contains the scMeas library export/import macros. " alt="" coords="1834,483,1954,509"/>
+<area shape="rect" id="node30" href="$a02231.html" title="Contains the declaration of the RealTimeSampleArrayChInfo class. " alt="" coords="2712,408,2898,435"/>
+<area shape="rect" id="node34" href="$a00908.html" title="FiffInfo class declaration. " alt="" coords="3662,408,3756,435"/>
+<area shape="rect" id="node31" href="$a00833.html" title="Fiff constants. " alt="" coords="4094,707,4225,733"/>
+<area shape="rect" id="node32" href="$a00959.html" title="Definitions for describing the objects in a FIFF file. " alt="" coords="4106,632,4213,659"/>
+<area shape="rect" id="node35" href="$a00896.html" title="Fiff library export/import macros. " alt="" coords="3630,632,3719,659"/>
+<area shape="rect" id="node36" href="$a00914.html" title="FiffInfoBase class declaration. " alt="" coords="3874,483,3984,509"/>
+<area shape="rect" id="node37" href="$a00902.html" title="FiffId class declaration. " alt="" coords="3834,557,3899,584"/>
+<area shape="rect" id="node38" href="$a00824.html" title="FiffChInfo class declaration. " alt="" coords="3712,557,3810,584"/>
+<area shape="rect" id="node40" href="$a00887.html" title="FiffEvokedSet class declaration. " alt="" coords="2965,333,3106,360"/>
+<area shape="rect" id="node43" href="$a00845.html" title="FiffCov class declaration. " alt="" coords="3576,333,3671,360"/>
+<area shape="rect" id="node45" href="$a00986.html" title="Label class declaration. " alt="" coords="2973,557,3048,584"/>
+<area shape="rect" id="node46" href="$a00998.html" title="SurfaceSet class declaration. " alt="" coords="3173,557,3282,584"/>
+<area shape="rect" id="node47" href="$a00971.html" title="AnnotationSet class declaration. " alt="" coords="4178,557,4304,584"/>
+<area shape="rect" id="node48" href="$a01454.html" title="MNESourceSpace class declaration. " alt="" coords="4390,408,4558,435"/>
+<area shape="rect" id="node49" href="$a01448.html" title="MNESourceEstimate class declaration. " alt="" coords="3024,483,3207,509"/>
+<area shape="rect" id="node50" href="$a01427.html" title="MNEForwardSolution class declaration, which provides the forward solution including the source space ..." alt="" coords="4059,259,4242,285"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="SCSHAREDLIB::IAlgorithm" name="SCSHAREDLIB::IAlgorithm">
+<area shape="rect" id="node4" href="$a05435.html" title="The Averaging class provides a Averaging algorithm structure. " alt="" coords="5,880,224,1119"/>
+<area shape="rect" id="node5" href="$a05511.html" title="The BCI class provides an EEG BCI. " alt="" coords="249,777,493,1221"/>
+<area shape="rect" id="node6" href="$a05551.html" title="The Covariance class provides a Covariance algorithm structure. " alt="" coords="517,858,753,1141"/>
+<area shape="rect" id="node7" href="$a05567.html" title="The DummyToolbox class provides a dummy algorithm structure. " alt="" coords="777,946,964,1053"/>
+<area shape="rect" id="node8" href="$a05631.html" title="The Epidetect class provides a Epidetect algorithm structure. " alt="" coords="988,953,1199,1045"/>
+<area shape="rect" id="node9" href="$a05711.html" title="The MNE class provides a plugin for estimating distributed source localization in real&#45;time..." alt="" coords="1222,785,1421,1214"/>
+<area shape="rect" id="node10" href="$a05755.html" title="The NeuronalConnectivity class provides a NeuronalConnectivity plugin for online processing. " alt="" coords="1444,902,1692,1097"/>
+<area shape="rect" id="node11" href="$a05763.html" title="The NoiseEstimate class provides a NoiseEstimate algorithm structure. " alt="" coords="1716,865,1897,1133"/>
+<area shape="rect" id="node12" href="$a05775.html" title="The NoiseReduction class provides a tools to reduce noise of an incoming data stream. It then forwards the processed data to subsequent plugins. " alt="" coords="1921,902,2116,1097"/>
+<area shape="rect" id="node13" href="$a05787.html" title="The RapMusicToolbox class provides a dummy algorithm structure. " alt="" coords="2141,851,2347,1148"/>
+<area shape="rect" id="node14" href="$a05807.html" title="The Reference class provides a Reference algorithm structure. " alt="" coords="2372,953,2596,1045"/>
+<area shape="rect" id="node15" href="$a05819.html" title="{RTHPIPLUGIN::RtHpi\n||# run()\l}" alt="" coords="2620,961,2775,1038"/>
+<area shape="rect" id="node16" href="$a05835.html" title="The RtSss class provides a rtsss algorithm structure. " alt="" coords="2799,961,2961,1038"/>
+<area shape="rect" id="node17" href="$a05867.html" title="The BCI class provides an EEG SSVEP&#45;BCI. " alt="" coords="2985,748,3220,1251"/>
+<area shape="rect" id="node18" href="$a05963.html" title="The TriggerControl is a MNE Scan plugin which contains an intuitive terminal for manual configuration..." alt="" coords="3243,851,3442,1148"/>
+<area shape="rect" id="node2" href="$a05351.html" title="The IPlugin class is the base interface class of all plugins. " alt="" coords="1723,131,1890,428"/>
+</map>

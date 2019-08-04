@@ -1,0 +1,26 @@
+<map id="applications/mne_scan/plugins/rtsss/FormFiles/rtssssetupwidget.cpp" name="applications/mne_scan/plugins/rtsss/FormFiles/rtssssetupwidget.cpp">
+<area shape="rect" id="node2" href="$a02951.html" title="Contains the declaration of the RtSssSetupWidget class. " alt="" coords="115,109,247,136"/>
+<area shape="rect" id="node5" href="$a02939.html" title="Contains the declaration of the RtSssAboutWidget class. " alt="" coords="271,109,403,136"/>
+<area shape="rect" id="node7" href="$a02957.html" title="Contains the declaration of the RTSSS class. " alt="" coords="1304,109,1379,136"/>
+<area shape="rect" id="node41" href="$a02966.html" title="Contains the declaration of the RtSssAlgo class. " alt="" coords="2581,109,2680,136"/>
+<area shape="rect" id="node8" href="$a02960.html" title="Contains the RTSSS library export/import macros. " alt="" coords="497,423,599,449"/>
+<area shape="rect" id="node10" href="$a02249.html" title="Contains declaration of IAlgorithm interface class. " alt="" coords="1005,259,1144,300"/>
+<area shape="rect" id="node13" href="$a01553.html" title="CircularBuffer class declaration. " alt="" coords="392,266,581,293"/>
+<area shape="rect" id="node17" href="$a01562.html" title="CircularMatrixBuffer class declaration. " alt="" coords="655,266,881,293"/>
+<area shape="rect" id="node22" href="$a02225.html" title="Contains the declaration of the RealTimeSampleArray class. " alt="" coords="1241,184,1441,211"/>
+<area shape="rect" id="node28" href="$a02219.html" title="Contains the declaration of the RealTimeMultiSampleArray class. " alt="" coords="1578,184,1806,211"/>
+<area shape="rect" id="node32" href="$a00908.html" title="FiffInfo class declaration. " alt="" coords="2651,266,2746,293"/>
+<area shape="rect" id="node36" href="$a00818.html" title="FIFF class declaration, which provides static wrapper functions to stay consistent with mne matlab to..." alt="" coords="2275,184,2341,211"/>
+<area shape="rect" id="node39" href="$a00881.html" title="FiffEvoked class declaration. " alt="" coords="1873,184,1970,211"/>
+<area shape="rect" id="node11" href="$a02255.html" title="Contains declaration of IPlugin interface class. " alt="" coords="1118,348,1191,375"/>
+<area shape="rect" id="node14" href="$a01655.html" title="utils library export/import macros. " alt="" coords="735,423,846,449"/>
+<area shape="rect" id="node18" href="$a01547.html" title="Contains the declaration of the Buffer base class. " alt="" coords="840,348,907,375"/>
+<area shape="rect" id="node23" href="$a02246.html" title="Contains the scMeas library export/import macros. " alt="" coords="1661,348,1781,375"/>
+<area shape="rect" id="node24" href="$a02183.html" title="MeasurementTreeItem class declaration. " alt="" coords="1320,266,1483,293"/>
+<area shape="rect" id="node29" href="$a02231.html" title="Contains the declaration of the RealTimeSampleArrayChInfo class. " alt="" coords="1857,266,2042,293"/>
+<area shape="rect" id="node30" href="$a00833.html" title="Fiff constants. " alt="" coords="2237,348,2368,375"/>
+<area shape="rect" id="node33" href="$a00896.html" title="Fiff library export/import macros. " alt="" coords="2502,423,2591,449"/>
+<area shape="rect" id="node34" href="$a00839.html" title="FiffCoordTrans class declaration. " alt="" coords="2752,348,2875,375"/>
+<area shape="rect" id="node37" href="$a00875.html" title="FiffDirNode class declaration, which provides fiff dir tree processing methods. " alt="" coords="2371,266,2475,293"/>
+<area shape="rect" id="node38" href="$a00869.html" title="FiffDirEntry class declaration. " alt="" coords="2494,348,2599,375"/>
+</map>

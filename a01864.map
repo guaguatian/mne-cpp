@@ -1,0 +1,16 @@
+<map id="applications/mne_browse/Models/eventmodel.h" name="applications/mne_browse/Models/eventmodel.h">
+<area shape="rect" id="node2" href="$a01844.html" title="Contains the declaration of the EventDelegate class. " alt="" coords="342,95,523,136"/>
+<area shape="rect" id="node4" href="$a01946.html" title="Definition of the EventWindow class. " alt="" coords="407,184,578,225"/>
+<area shape="rect" id="node13" href="$a01850.html" title="This class represents the delegate of the model/view framework of mne_browse application. Since it is derived from the QAbstractItemDelegate class [1], the virtual functions paint() und sizeHint() need to be reimplemented. The paint() function is invoked from the connected QTableView for each table cell for any individual item with a certain QModelIndex. The task of this function is to paint this cell with the data that is requested by index.model()&#45;&gt;data(index,Qt::DisplayRole); with the corresponding QModelIndex. " alt="" coords="598,95,769,136"/>
+<area shape="rect" id="node15" href="$a01859.html" title="This class represents the event model of the model/view framework of mne_browse application. " alt="" coords="793,95,963,136"/>
+<area shape="rect" id="node3" href="$a01841.html" title="Definition of delegate of EventDelegate. " alt="" coords="189,184,383,225"/>
+<area shape="rect" id="node5" href="$a06340_source.html" title="applications/mne_browse\l/Windows/mainwindow.h" alt="" coords="267,273,436,315"/>
+<area shape="rect" id="node12" href="$a01943_source.html" title="applications/mne_browse\l/Windows/eventwindow.cpp" alt="" coords="460,273,645,315"/>
+<area shape="rect" id="node6" href="$a06187_source.html" title="applications/mne_browse\l/main.cpp" alt="" coords="5,363,175,404"/>
+<area shape="rect" id="node7" href="$a01952.html" title="Contains the declaration of the FilterWindow class. " alt="" coords="199,363,368,404"/>
+<area shape="rect" id="node9" href="$a01940.html" title="Definition of the DataWindow class. " alt="" coords="599,363,768,404"/>
+<area shape="rect" id="node11" href="$a06328_source.html" title="applications/mne_browse\l/Windows/mainwindow.cpp" alt="" coords="393,363,574,404"/>
+<area shape="rect" id="node8" href="$a01949.html" title="Definition of the FilterWindow class. " alt="" coords="194,452,373,493"/>
+<area shape="rect" id="node10" href="$a01937_source.html" title="applications/mne_browse\l/Windows/datawindow.cpp" alt="" coords="594,452,773,493"/>
+<area shape="rect" id="node14" href="$a01847.html" title="Definition of delegate of mne_browse. " alt="" coords="721,184,905,225"/>
+</map>

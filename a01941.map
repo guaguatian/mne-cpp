@@ -1,0 +1,20 @@
+<map id="applications/mne_browse/Windows/datawindow.h" name="applications/mne_browse/Windows/datawindow.h">
+<area shape="rect" id="node2" href="$a06340_source.html" title="mainwindow.h" alt="" coords="2532,95,2638,121"/>
+<area shape="rect" id="node34" href="$a01886.html" title="Contains the declaration of the DataMarker class. " alt="" coords="1349,169,1490,196"/>
+<area shape="rect" id="node42" href="$a01850.html" title="This class represents the delegate of the model/view framework of mne_browse application. Since it is derived from the QAbstractItemDelegate class [1], the virtual functions paint() und sizeHint() need to be reimplemented. The paint() function is invoked from the connected QTableView for each table cell for any individual item with a certain QModelIndex. The task of this function is to paint this cell with the data that is requested by index.model()&#45;&gt;data(index,Qt::DisplayRole); with the corresponding QModelIndex. " alt="" coords="565,169,744,196"/>
+<area shape="rect" id="node43" href="$a01868.html" title="This class represents the model of the model/view framework of mne_browse application. It is derived from QAbstractTableModel so the virtual functions rowCount(),columnCount() and data() needed to be reimplemented. The delegate requests the data for any individual table cell by invoking data(QModelIndex index, int role) and a certain role. DisplayRole is the standard role for requesting the plain data. Other roles such as BackgroundRole are requested to fill a cell with a certain background color with respect to the individual index. For further information see [1]. " alt="" coords="828,244,974,271"/>
+<area shape="rect" id="node3" href="$a06178_source.html" title="../Utils/info.h" alt="" coords="3839,393,3936,420"/>
+<area shape="rect" id="node4" href="$a06412_source.html" title="../Utils/types.h" alt="" coords="1028,393,1136,420"/>
+<area shape="rect" id="node7" href="$a00818.html" title="FIFF class declaration, which provides static wrapper functions to stay consistent with mne matlab to..." alt="" coords="1922,468,1989,495"/>
+<area shape="rect" id="node8" href="$a01910.html" title="In this RawSettings class all mne_browse settings are managed. In order to store settings from the la..." alt="" coords="1832,319,1975,345"/>
+<area shape="rect" id="node11" href="$a01952.html" title="Contains the declaration of the FilterWindow class. " alt="" coords="2347,169,2450,196"/>
+<area shape="rect" id="node13" href="$a01946.html" title="Definition of the EventWindow class. " alt="" coords="1770,169,1880,196"/>
+<area shape="rect" id="node16" href="$a01922.html" title="Definition of the AboutWindow class. " alt="" coords="1904,169,2013,196"/>
+<area shape="rect" id="node17" href="$a01958.html" title="Definition of the InformationWindow class. " alt="" coords="3816,169,3957,196"/>
+<area shape="rect" id="node19" href="$a01928.html" title="Contains the declaration of the AverageWindow class. " alt="" coords="2474,169,2597,196"/>
+<area shape="rect" id="node21" href="$a01970.html" title="Contains the declaration of the ScaleWindow class. " alt="" coords="2307,244,2415,271"/>
+<area shape="rect" id="node22" href="$a01934.html" title="Contains the declaration of the ChInfoWindow class. " alt="" coords="2240,393,2352,420"/>
+<area shape="rect" id="node23" href="$a01964.html" title="Contains the declaration of the NoiseReductionWindow class. " alt="" coords="2723,169,2884,196"/>
+<area shape="rect" id="node25" href="$a00251.html" title="Contains the declaration of the ChannelSelectionView class. " alt="" coords="2037,169,2272,196"/>
+<area shape="rect" id="node14" href="$a01862.html" title="This class represents the event model of the model/view framework of mne_browse application. " alt="" coords="1872,244,2031,271"/>
+</map>

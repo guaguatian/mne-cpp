@@ -1,0 +1,9 @@
+<map id="libraries/disp/viewers/quickcontrolview.h" name="libraries/disp/viewers/quickcontrolview.h">
+<area shape="rect" id="node2" href="$a00428.html" title="Definition of the QuickControlView Class. " alt="" coords="5,95,153,136"/>
+<area shape="rect" id="node3" href="$a00758.html" title="AbstractView class definition. " alt="" coords="177,95,339,136"/>
+<area shape="rect" id="node4" href="$a02129.html" title="Definition of the MeasurementWidget Class. " alt="" coords="363,95,601,136"/>
+<area shape="rect" id="node5" href="$a02135.html" title="Definition of the RealTimeConnectivityEstimateWidget Class. " alt="" coords="625,95,949,136"/>
+<area shape="rect" id="node6" href="$a02147.html" title="Definition of the RealTimeEvokedSetWidget Class. " alt="" coords="974,95,1238,136"/>
+<area shape="rect" id="node7" href="$a02153.html" title="Definition of the RealTimeMultiSampleArrayWidget Class. " alt="" coords="1263,95,1565,136"/>
+<area shape="rect" id="node8" href="$a02165.html" title="Definition of the RealTimeSourceEstimateWidget Class. " alt="" coords="1590,95,1883,136"/>
+</map>

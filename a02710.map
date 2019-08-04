@@ -1,0 +1,6 @@
+<map id="applications/mne_scan/plugins/gusbamp/gusbamp.h" name="applications/mne_scan/plugins/gusbamp/gusbamp.h">
+<area shape="rect" id="node2" href="$a02693.html" title="Contains the implementation of the gUSBampSetupProjectWidget class. " alt="" coords="5,95,219,151"/>
+<area shape="rect" id="node3" href="$a02699.html" title="Contains the implementation of the GUSBAmpSetupWidget class. " alt="" coords="243,95,429,151"/>
+<area shape="rect" id="node4" href="$a02705.html" title="Contains the implementation of the GUSBAmp class. " alt="" coords="454,102,661,143"/>
+<area shape="rect" id="node5" href="$a02720.html" title="Contains the implementation of the GUSBAmpProducer class. " alt="" coords="685,102,941,143"/>
+</map>

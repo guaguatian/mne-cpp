@@ -1,0 +1,7 @@
+<map id="libraries/fwd/fwd_eeg_sphere_model_set.h" name="libraries/fwd/fwd_eeg_sphere_model_set.h">
+<area shape="rect" id="node2" href="$a01004.html" title="Compute Forward Setting class declaration. " alt="" coords="128,95,299,136"/>
+<area shape="rect" id="node3" href="$a01001_source.html" title="libraries/fwd/computeFwd\l/compute_fwd.cpp" alt="" coords="5,184,176,225"/>
+<area shape="rect" id="node5" href="$a01049.html" title="Definition of the FwdEegSphereModel Class. " alt="" coords="323,95,469,136"/>
+<area shape="rect" id="node6" href="$a01055.html" title="Definition of the FwdEegSphereModelSet Class. " alt="" coords="493,95,653,136"/>
+<area shape="rect" id="node4" href="$a06193_source.html" title="applications/mne_forward\l_solution/main.cpp" alt="" coords="200,184,371,225"/>
+</map>

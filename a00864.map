@@ -1,0 +1,11 @@
+<map id="libraries/fiff/fiff_dig_point_set.h" name="libraries/fiff/fiff_dig_point_set.h">
+<area shape="rect" id="node2" href="$a00896.html" title="Fiff library export/import macros. " alt="" coords="360,319,449,345"/>
+<area shape="rect" id="node7" href="$a00950.html" title="FiffStream class declaration. " alt="" coords="411,95,505,121"/>
+<area shape="rect" id="node8" href="$a00959.html" title="Definitions for describing the objects in a FIFF file. " alt="" coords="817,319,904,345"/>
+<area shape="rect" id="node14" href="$a00902.html" title="FiffId class declaration. " alt="" coords="496,244,561,271"/>
+<area shape="rect" id="node15" href="$a00875.html" title="FiffDirNode class declaration, which provides fiff dir tree processing methods. " alt="" coords="981,169,1085,196"/>
+<area shape="rect" id="node16" href="$a00869.html" title="FiffDirEntry class declaration. " alt="" coords="585,244,691,271"/>
+<area shape="rect" id="node9" href="$a00833.html" title="Fiff constants. " alt="" coords="982,393,1094,420"/>
+<area shape="rect" id="node17" href="$a00890.html" title="Fiff block and dir tag explainations. " alt="" coords="905,244,1001,271"/>
+<area shape="rect" id="node18" href="$a00893.html" title="Header file describing the numerical values used in fif files. " alt="" coords="929,319,1001,345"/>
+</map>

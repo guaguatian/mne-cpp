@@ -1,0 +1,13 @@
+<map id="DISP3DLIB::AbstractTreeItem" name="DISP3DLIB::AbstractTreeItem">
+<area shape="rect" id="node4" href="$a03595.html" title="BemTreeItem provides a tree item to hold BEM models. " alt="" coords="5,615,184,722"/>
+<area shape="rect" id="node5" href="$a03619.html" title="DigitizerSetTreeItem provides a tree item to hold the set of digitizer data. " alt="" coords="208,586,427,751"/>
+<area shape="rect" id="node6" href="$a03627.html" title="Provides a generic brain tree item. " alt="" coords="451,608,679,729"/>
+<area shape="rect" id="node7" href="$a03635.html" title="Provides a generic brain tree item. " alt="" coords="704,608,925,729"/>
+<area shape="rect" id="node8" href="$a03639.html" title="Provides a generic MeasurementTreeItem. " alt="" coords="950,542,1181,795"/>
+<area shape="rect" id="node9" href="$a03615.html" title="Provides a generic brain tree item. " alt="" coords="1205,615,1385,722"/>
+<area shape="rect" id="node10" href="$a03671.html" title="Provides a generic brain tree item to hold real time data. " alt="" coords="1409,403,1658,935"/>
+<area shape="rect" id="node11" href="$a03643.html" title="Provides a generic MriTreeItem. " alt="" coords="1682,608,1851,729"/>
+<area shape="rect" id="node12" href="$a03651.html" title="This item integrates GeometryInfo and Interpolation into Disp3D structure. " alt="" coords="1875,417,2111,920"/>
+<area shape="rect" id="node13" href="$a03659.html" title="Provides a generic SensorSetTreeItem. " alt="" coords="2135,586,2347,751"/>
+<area shape="rect" id="node14" href="$a03679.html" title="Provides a generic SubjectTreeItem. " alt="" coords="2372,623,2567,715"/>
+</map>

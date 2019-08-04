@@ -1,0 +1,6 @@
+<map id="applications/mne_analyze/extensions/fiffio/fiffio.cpp" name="applications/mne_analyze/extensions/fiffio/fiffio.cpp">
+<area shape="rect" id="node2" href="$a01718.html" title="Contains the declaration of the FiffIO class. " alt="" coords="400,95,459,121"/>
+<area shape="rect" id="node3" href="$a01721.html" title="Contains the FiffIO library export/import macros. " alt="" coords="55,177,153,203"/>
+<area shape="rect" id="node5" href="$a01793.html" title="Contains declaration of IExtension interface class. " alt="" coords="224,169,363,211"/>
+<area shape="rect" id="node6" href="$a01790.html" title="Contains the anshared library export/import macros. " alt="" coords="49,259,188,285"/>
+</map>

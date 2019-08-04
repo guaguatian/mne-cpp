@@ -1,0 +1,23 @@
+<map id="applications/mne_scan/mne_scan/plugingui.cpp" name="applications/mne_scan/mne_scan/plugingui.cpp">
+<area shape="rect" id="node2" href="$a02339.html" title="PluginGui class declaration. " alt="" coords="780,95,864,121"/>
+<area shape="rect" id="node3" href="$a02345.html" title="PluginItem class declaration. " alt="" coords="1068,266,1160,293"/>
+<area shape="rect" id="node4" href="$a02255.html" title="Contains declaration of IPlugin interface class. " alt="" coords="1289,437,1427,479"/>
+<area shape="rect" id="node22" href="$a02351.html" title="PluginScene class declaration. " alt="" coords="113,177,216,203"/>
+<area shape="rect" id="node33" href="$a02327.html" title="Arrow class declaration. " alt="" coords="991,177,1056,203"/>
+<area shape="rect" id="node35" href="$a02258.html" title="Contains declaration of IIinverseAlgorithm interface class. " alt="" coords="1182,169,1321,211"/>
+<area shape="rect" id="node36" href="$a02249.html" title="Contains declaration of IAlgorithm interface class. " alt="" coords="1395,348,1534,389"/>
+<area shape="rect" id="node37" href="$a02252.html" title="Contains declaration of IIO interface class. " alt="" coords="1639,348,1778,389"/>
+<area shape="rect" id="node23" href="$a02300.html" title="Contains the declaration of the PluginManager class. " alt="" coords="79,527,235,568"/>
+<area shape="rect" id="node26" href="$a02318.html" title="Contains declaration of PluginSceneManager class. " alt="" coords="469,259,625,300"/>
+<area shape="rect" id="node5" href="$a02312_source.html" title="../Management/pluginoutputdata.h" alt="" coords="1093,534,1311,561"/>
+<area shape="rect" id="node13" href="$a02294.html" title="Contains the declaration of the PluginInputData class. " alt="" coords="858,534,1069,561"/>
+<area shape="rect" id="node6" href="$a02321.html" title="Contains the scshared library export/import macros. " alt="" coords="445,691,583,717"/>
+<area shape="rect" id="node8" href="$a02306.html" title="Contains the declaration of the PluginOutputConnector class. " alt="" coords="295,616,455,643"/>
+<area shape="rect" id="node11" href="$a02309.html" title="Contains the declaration of the PluginOutputData class. " alt="" coords="1381,616,1524,643"/>
+<area shape="rect" id="node14" href="$a02288_source.html" title="plugininputconnector.h" alt="" coords="575,616,727,643"/>
+<area shape="rect" id="node15" href="$a02291.html" title="Contains the declaration of the PluginInputData class. " alt="" coords="955,616,1089,643"/>
+<area shape="rect" id="node27" href="$a02276.html" title="Contains the declaration of the PluginConnectorConnection class. " alt="" coords="418,355,605,382"/>
+<area shape="rect" id="node38" href="$a01556.html" title="Contains the declaration of the CircularBuffer_old class. " alt="" coords="1930,527,2109,568"/>
+<area shape="rect" id="node39" href="$a01655.html" title="utils library export/import macros. " alt="" coords="2007,691,2117,717"/>
+<area shape="rect" id="node40" href="$a01547.html" title="Contains the declaration of the Buffer base class. " alt="" coords="2029,616,2095,643"/>
+</map>

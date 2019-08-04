@@ -1,0 +1,51 @@
+<map id="libraries/connectivity/connectivity_global.h" name="libraries/connectivity/connectivity_global.h">
+<area shape="rect" id="node2" href="$a00050.html" title="Connectivity class declaration. " alt="" coords="5,184,147,225"/>
+<area shape="rect" id="node9" href="$a00059.html" title="ConnectivitySettings class declaration. " alt="" coords="778,95,931,136"/>
+<area shape="rect" id="node10" href="$a00083.html" title="Correlation class declaration. " alt="" coords="1333,184,1477,225"/>
+<area shape="rect" id="node12" href="$a00089.html" title="CrossCorrelation class declaration. " alt="" coords="1133,184,1309,225"/>
+<area shape="rect" id="node14" href="$a00101_source.html" title="libraries/connectivity\l/metrics/imagcoherence.h" alt="" coords="769,184,941,225"/>
+<area shape="rect" id="node16" href="$a00107.html" title="PhaseLagIndex class declaration. " alt="" coords="2658,184,2825,225"/>
+<area shape="rect" id="node18" href="$a00113.html" title="PhaseLockingValue class declaration. " alt="" coords="1791,184,1982,225"/>
+<area shape="rect" id="node20" href="$a00125.html" title="WeightedPhaseLagIndex class declaration. " alt="" coords="2313,184,2532,225"/>
+<area shape="rect" id="node22" href="$a00119.html" title="UnbiasedSquaredPhaseLagIndex class declaration. " alt="" coords="1502,184,1767,225"/>
+<area shape="rect" id="node24" href="$a00095.html" title="DebiasedSquaredWeightedPhaseLagIndex class declaration. " alt="" coords="2849,184,3167,225"/>
+<area shape="rect" id="node27" href="$a00077.html" title="Coherency class declaration. " alt="" coords="3356,184,3500,225"/>
+<area shape="rect" id="node32" href="$a06391_source.html" title="libraries/connectivity\l/network/network.h" alt="" coords="3191,184,3332,225"/>
+<area shape="rect" id="node44" href="$a00065.html" title="AbstractMetric class declaration. " alt="" coords="2065,95,2231,136"/>
+<area shape="rect" id="node45" href="$a00071.html" title="Coherence class declaration. " alt="" coords="965,184,1109,225"/>
+<area shape="rect" id="node47" href="$a00137.html" title="NetworkEdge class declaration. " alt="" coords="4117,184,4278,225"/>
+<area shape="rect" id="node50" href="$a00143.html" title="NetworkNode class declaration. " alt="" coords="4331,184,4493,225"/>
+<area shape="rect" id="node3" href="$a00047.html" title="Connectivity class definition. " alt="" coords="851,281,992,322"/>
+<area shape="rect" id="node4" href="$a01469.html" title="Definition of the RtConnectivity Class. " alt="" coords="246,281,389,322"/>
+<area shape="rect" id="node5" href="$a02816.html" title="Definition of the NeuronalConnectivity class. " alt="" coords="1017,377,1207,433"/>
+<area shape="rect" id="node6" href="$a06229_source.html" title="examples/ex_connectivity\l/main.cpp" alt="" coords="1587,385,1760,426"/>
+<area shape="rect" id="node7" href="$a06232_source.html" title="examples/ex_connectivity\l_comparison/main.cpp" alt="" coords="1247,385,1420,426"/>
+<area shape="rect" id="node8" href="$a06235_source.html" title="examples/ex_connectivity\l_performance/main.cpp" alt="" coords="584,281,757,322"/>
+<area shape="rect" id="node26" href="$a00056.html" title="ConnectivitySettings class definition. " alt="" coords="171,184,338,225"/>
+<area shape="rect" id="node28" href="$a00068.html" title="Coherence class declaration. " alt="" coords="1385,281,1543,322"/>
+<area shape="rect" id="node30" href="$a02819.html" title="Contains the declaration of the NeuronalConnectivity class. " alt="" coords="1017,273,1207,329"/>
+<area shape="rect" id="node31" href="$a03146.html" title="Definition of the DraggableFramelessWidget Class. " alt="" coords="1568,281,1771,322"/>
+<area shape="rect" id="node11" href="$a00080.html" title="Correlation class definition. " alt="" coords="3594,281,3753,322"/>
+<area shape="rect" id="node13" href="$a00086.html" title="CrossCorrelation class definition. " alt="" coords="3379,281,3570,322"/>
+<area shape="rect" id="node15" href="$a00098.html" title="Imaginary coherence class declaration. " alt="" coords="3168,281,3355,322"/>
+<area shape="rect" id="node17" href="$a00104.html" title="PhaseLagIndex class definition. " alt="" coords="4568,281,4749,322"/>
+<area shape="rect" id="node19" href="$a00110.html" title="PhaseLockingValue class definition. " alt="" coords="4080,281,4285,322"/>
+<area shape="rect" id="node21" href="$a00122.html" title="WeightedPhaseLagIndex class definition. " alt="" coords="4310,281,4543,322"/>
+<area shape="rect" id="node23" href="$a00116_source.html" title="libraries/connectivity\l/metrics/unbiasedsquaredphaselagindex.cpp" alt="" coords="3777,281,4055,322"/>
+<area shape="rect" id="node25" href="$a00092.html" title="DebiasedSquaredWeightedPhaseLagIndex class definition. " alt="" coords="4773,281,5104,322"/>
+<area shape="rect" id="node29" href="$a00074.html" title="Coherency class declaration. " alt="" coords="5129,281,5287,322"/>
+<area shape="rect" id="node33" href="$a06385_source.html" title="libraries/connectivity\l/network/network.cpp" alt="" coords="5363,281,5509,322"/>
+<area shape="rect" id="node34" href="$a00506.html" title="Data3DTreeModel class declaration. " alt="" coords="1846,281,2021,322"/>
+<area shape="rect" id="node37" href="$a00776.html" title="NetworkView class definition. " alt="" coords="2031,385,2193,426"/>
+<area shape="rect" id="node38" href="$a02135.html" title="Definition of the RealTimeConnectivityEstimateWidget Class. " alt="" coords="2217,385,2541,426"/>
+<area shape="rect" id="node39" href="$a00587_source.html" title="libraries/disp3D/engine\l/model/items/measurement\l/measurementtreeitem.h" alt="" coords="2426,273,2606,329"/>
+<area shape="rect" id="node40" href="$a00593.html" title="MriTreeItem class declaration. " alt="" coords="2630,281,2829,322"/>
+<area shape="rect" id="node41" href="$a00599.html" title="NetworkTreeItem class declaration. " alt="" coords="2045,281,2299,322"/>
+<area shape="rect" id="node43" href="$a02198.html" title="Definition of the RealTimeConnectivityEstimate class. " alt="" coords="2853,281,3144,322"/>
+<area shape="rect" id="node35" href="$a00479.html" title="Data3DTreeDelegate class definition. " alt="" coords="1790,385,2007,426"/>
+<area shape="rect" id="node36" href="$a00503.html" title="Data3DTreeModel class definition. " alt="" coords="2565,385,2755,426"/>
+<area shape="rect" id="node42" href="$a00596.html" title="NetworkTreeItem class definition. " alt="" coords="5191,385,5460,426"/>
+<area shape="rect" id="node46" href="$a00062.html" title="AbstractMetric class definition. " alt="" coords="2007,184,2188,225"/>
+<area shape="rect" id="node48" href="$a00134.html" title="NetworkEdge class definition. " alt="" coords="5534,281,5709,322"/>
+<area shape="rect" id="node49" href="$a00140.html" title="NetworkNode class definition. " alt="" coords="5733,281,5907,322"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="libraries/disp3D/helpers/geometryinfo/geometryinfo.h" name="libraries/disp3D/helpers/geometryinfo/geometryinfo.h">
+<area shape="rect" id="node2" href="$a00476.html" title="disp3D library export/import macros. " alt="" coords="5,244,144,271"/>
+<area shape="rect" id="node4" href="$a00881.html" title="FiffEvoked class declaration. " alt="" coords="2134,95,2250,121"/>
+<area shape="rect" id="node5" href="$a00896.html" title="Fiff library export/import macros. " alt="" coords="893,468,982,495"/>
+<area shape="rect" id="node6" href="$a00908.html" title="FiffInfo class declaration. " alt="" coords="1226,169,1302,196"/>
+<area shape="rect" id="node8" href="$a00959.html" title="Definitions for describing the objects in a FIFF file. " alt="" coords="1303,468,1390,495"/>
+<area shape="rect" id="node29" href="$a00893.html" title="Header file describing the numerical values used in fif files. " alt="" coords="1129,169,1201,196"/>
+<area shape="rect" id="node7" href="$a00914.html" title="FiffInfoBase class declaration. " alt="" coords="1069,244,1179,271"/>
+<area shape="rect" id="node15" href="$a00902.html" title="FiffId class declaration. " alt="" coords="965,393,1030,420"/>
+<area shape="rect" id="node17" href="$a00824.html" title="FiffChInfo class declaration. " alt="" coords="1845,319,1942,345"/>
+<area shape="rect" id="node20" href="$a00857.html" title="FiffDigPoint class declaration. " alt="" coords="1353,393,1460,420"/>
+<area shape="rect" id="node22" href="$a00851.html" title="FiffCtfComp class declaration. " alt="" coords="711,319,820,345"/>
+<area shape="rect" id="node26" href="$a00839.html" title="FiffCoordTrans class declaration. " alt="" coords="1055,393,1177,420"/>
+<area shape="rect" id="node28" href="$a00932.html" title="FiffProj class declaration. " alt="" coords="1270,319,1346,345"/>
+<area shape="rect" id="node9" href="$a00833.html" title="Fiff constants. " alt="" coords="1016,543,1128,569"/>
+<area shape="rect" id="node18" href="$a00830.html" title="FiffChPos class declaration. " alt="" coords="1485,393,1582,420"/>
+<area shape="rect" id="node23" href="$a00926.html" title="FiffNamedMatrix class declaration. " alt="" coords="447,393,585,420"/>
+</map>

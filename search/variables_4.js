@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['eeg_5fels',['eeg_els',['../a04187.html#aec4d07001fdae2152b3a8dba5b7f8077',1,'INVERSELIB::DipoleFitData']]],
+  ['eeg_5floc',['eeg_loc',['../a03875.html#aed17aadc87a1f61a9f5257aadf469c8c',1,'FIFFLIB::FiffChInfo']]],
+  ['eeg_5fmodel',['eeg_model',['../a04187.html#ae607ee8554cd0c345a25bb379f725ec3',1,'INVERSELIB::DipoleFitData']]],
+  ['eeg_5fmodel_5ffile',['eeg_model_file',['../a04023.html#ad47fdd7ecd60f2b9cd2721f23b0cc006',1,'FWDLIB::ComputeFwdSettings::eeg_model_file()'],['../a04195.html#ae99703b2e95b32421b4b0d583ce04579',1,'INVERSELIB::DipoleFitSettings::eeg_model_file()']]],
+  ['eeg_5fmodel_5fname',['eeg_model_name',['../a04023.html#ab153752ba7e85207eb394ae72e752bd5',1,'FWDLIB::ComputeFwdSettings::eeg_model_name()'],['../a04195.html#a8d6de5ba56bd1ff44c1c8f167e709936',1,'INVERSELIB::DipoleFitSettings::eeg_model_name()']]],
+  ['eeg_5freg',['eeg_reg',['../a04195.html#aca8c8b2cec5b9ca36ee7df8074a839ed',1,'INVERSELIB::DipoleFitSettings']]],
+  ['eeg_5fsphere_5frad',['eeg_sphere_rad',['../a04023.html#abd822fb2b2317ee319d5842fd81401b5',1,'FWDLIB::ComputeFwdSettings::eeg_sphere_rad()'],['../a04195.html#a4cbf654ab40151ce04d8793aa726c073',1,'INVERSELIB::DipoleFitSettings::eeg_sphere_rad()']]],
+  ['eig',['eig',['../a03887.html#a39fc29400ff48ad9ef062ba701eab5aa',1,'FIFFLIB::FiffCov']]],
+  ['eigen_5ffields',['eigen_fields',['../a04663.html#afb102fbfd585dede44d1bf1c0069ad9a',1,'MNELIB::MNEInverseOperator']]],
+  ['eigen_5fleads',['eigen_leads',['../a04663.html#a2dc0c2da948869c91bb9d5ecf96a94ca',1,'MNELIB::MNEInverseOperator']]],
+  ['eigen_5fleads_5fweighted',['eigen_leads_weighted',['../a04663.html#a5d27190215db612df4141865f4340e07',1,'MNELIB::MNEInverseOperator']]],
+  ['eigvec',['eigvec',['../a03887.html#ab3292fd27b3ab9f10c64dc0b8fd3e12e',1,'FIFFLIB::FiffCov']]],
+  ['endian',['endian',['../a03867.html#a7727c31dc26c51e4d179f096a9063829',1,'_fiff_data_ref::endian()'],['../a03967.html#adf1ace9f1a93518db18b26e97b11929a',1,'FIFFLIB::_fiff_data_ref::endian()']]],
+  ['ent',['ent',['../a03951.html#ad1b7515d555d643f4fc4d9456786bdfc',1,'FIFFLIB::FiffRawDir']]],
+  ['epoch',['epoch',['../a04627.html#a88abd28efd26091fa4028a343037e57a',1,'MNELIB::MNEEpochData']]],
+  ['event',['event',['../a04627.html#aef887d7c3d8dc9eea2ae45b865e30ece',1,'MNELIB::MNEEpochData']]],
+  ['event_5fbits',['event_bits',['../a03859.html#af5a59542eb3e63e8c976d85bf366535d',1,'_fiff_hpi_coil']]],
+  ['event_5fchannel',['event_channel',['../a03859.html#acd30d4f975938582dcc52bf36a986f8a',1,'_fiff_hpi_coil']]],
+  ['evoked',['evoked',['../a03915.html#aec48fff116de710b554d21f7f89f8fe6',1,'FIFFLIB::FiffEvokedSet']]],
+  ['ex',['ex',['../a03835.html#a18a88911f9d60d8aabd7f03262b84466',1,'_fiffChPosRec::ex()'],['../a03879.html#af2b7fe047a95dd173508bcb5219d3d17',1,'FIFFLIB::FiffChPos::ex()'],['../a03987.html#abcb4feed1cc0635501464596147dc3c8',1,'FIFFLIB::_fiffChPosRec::ex()'],['../a04047.html#ae4d7b6cfd7808b86fe7b2a9777d27e79',1,'FWDLIB::FwdCoil::ex()']]],
+  ['exclass',['exclass',['../a05967.html#a3f8f60def9f4413d764bbd36935fbd46',1,'SHOWFIFF::MneFiffExp']]],
+  ['ey',['ey',['../a03835.html#ad3b96cc76218662aa3561da2773447c7',1,'_fiffChPosRec::ey()'],['../a03879.html#ae11bf8ad62d9325ccdf928f90173d6f9',1,'FIFFLIB::FiffChPos::ey()'],['../a03987.html#aa209e77e63944e949a0e04c2575fb2d1',1,'FIFFLIB::_fiffChPosRec::ey()'],['../a04047.html#aa4f43e524afeb6d0cd791ee2761eaf4b',1,'FWDLIB::FwdCoil::ey()']]],
+  ['ez',['ez',['../a03835.html#aab1a0b3f8ff5c350438fe629b2ff6d16',1,'_fiffChPosRec::ez()'],['../a03879.html#af782fcbb6eae438e86849d8d33a780b5',1,'FIFFLIB::FiffChPos::ez()'],['../a03987.html#aef291081f18615f86f309ec369b19e90',1,'FIFFLIB::_fiffChPosRec::ez()'],['../a04047.html#aa4dff96a0289172a54e7cb73df570d2b',1,'FWDLIB::FwdCoil::ez()']]]
+];

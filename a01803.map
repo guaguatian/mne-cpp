@@ -1,0 +1,11 @@
+<map id="applications/mne_analyze/libs/anShared/Management/analyzedata.h" name="applications/mne_analyze/libs/anShared/Management/analyzedata.h">
+<area shape="rect" id="node2" href="$a01790.html" title="Contains the anshared library export/import macros. " alt="" coords="32,117,171,143"/>
+<area shape="rect" id="node4" href="$a01448.html" title="MNESourceEstimate class declaration. " alt="" coords="246,199,429,225"/>
+<area shape="rect" id="node13" href="$a01109.html" title="Dipole Fit Setting class declaration. " alt="" coords="635,109,789,151"/>
+<area shape="rect" id="node15" href="$a01127.html" title="FiffDigPointSet class declaration. " alt="" coords="798,199,877,225"/>
+<area shape="rect" id="node5" href="$a06439_source.html" title="mne_global.h" alt="" coords="21,273,120,300"/>
+<area shape="rect" id="node6" href="$a00986.html" title="Label class declaration. " alt="" coords="144,273,219,300"/>
+<area shape="rect" id="node7" href="$a00980.html" title="Fs library export/import macros. " alt="" coords="108,348,193,375"/>
+<area shape="rect" id="node14" href="$a01151.html" title="inverse library export/import macros. " alt="" coords="840,348,968,375"/>
+<area shape="rect" id="node16" href="$a01121.html" title="Electric Current Dipole (ECD) class declaration. " alt="" coords="737,273,791,300"/>
+</map>

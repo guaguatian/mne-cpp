@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['_5ffeaturedata',['_FeatureData',['../a05907.html',1,'TMSIPLUGIN']]],
+  ['_5ffiff_5fdata_5fref',['_fiff_data_ref',['../a03967.html',1,'FIFFLIB::_fiff_data_ref'],['../a03867.html',1,'_fiff_data_ref']]],
+  ['_5ffiff_5fevent_5fbits',['_fiff_event_bits',['../a03827.html',1,'']]],
+  ['_5ffiff_5fhpi_5fcoil',['_fiff_hpi_coil',['../a03859.html',1,'']]],
+  ['_5ffiff_5fhpi_5fsubsys',['_fiff_hpi_subsys',['../a03863.html',1,'']]],
+  ['_5ffiff_5fsparse_5fmatrix',['_fiff_sparse_matrix',['../a03855.html',1,'']]],
+  ['_5ffiffchinforec',['_fiffChInfoRec',['../a03839.html',1,'_fiffChInfoRec'],['../a03991.html',1,'FIFFLIB::_fiffChInfoRec']]],
+  ['_5ffiffchposrec',['_fiffChPosRec',['../a03835.html',1,'_fiffChPosRec'],['../a03987.html',1,'FIFFLIB::_fiffChPosRec']]],
+  ['_5ffiffcoordtransrec',['_fiffCoordTransRec',['../a03851.html',1,'']]],
+  ['_5ffiffdigpointrec',['_fiffDigPointRec',['../a03847.html',1,'_fiffDigPointRec'],['../a03983.html',1,'FIFFLIB::_fiffDigPointRec']]],
+  ['_5ffiffdigstringrec',['_fiffDigStringRec',['../a03823.html',1,'']]],
+  ['_5ffiffdirentryrec',['_fiffDirEntryRec',['../a03843.html',1,'_fiffDirEntryRec'],['../a03979.html',1,'FIFFLIB::_fiffDirEntryRec']]],
+  ['_5ffiffexp',['_fiffExp',['../a03919.html',1,'FIFFLIB']]],
+  ['_5ffiffidrec',['_fiffIdRec',['../a03831.html',1,'_fiffIdRec'],['../a03975.html',1,'FIFFLIB::_fiffIdRec']]],
+  ['_5ffifftagrec',['_fiffTagRec',['../a03815.html',1,'_fiffTagRec'],['../a03971.html',1,'FIFFLIB::_fiffTagRec']]],
+  ['_5ffifftimerec',['_fiffTimeRec',['../a03819.html',1,'_fiffTimeRec'],['../a03963.html',1,'FIFFLIB::_fiffTimeRec']]],
+  ['_5ffrontendinfo',['_FRONTENDINFO',['../a05919.html',1,'TMSIPLUGIN']]],
+  ['_5fsignal_5fformat',['_SIGNAL_FORMAT',['../a05915.html',1,'TMSIPLUGIN']]],
+  ['_5fsp_5fdevice_5fpath',['_SP_DEVICE_PATH',['../a05903.html',1,'TMSIPLUGIN']]],
+  ['_5fsystem_5ftime',['_SYSTEM_TIME',['../a05911.html',1,'TMSIPLUGIN']]]
+];

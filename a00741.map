@@ -1,0 +1,21 @@
+<map id="libraries/disp3D/engine/view/view3D.cpp" name="libraries/disp3D/engine/view/view3D.cpp">
+<area shape="rect" id="node2" href="$a00743.html" title="View3D class declaration. " alt="" coords="1072,191,1149,218"/>
+<area shape="rect" id="node8" href="$a06409_source.html" title="../model/items/common\l/types.h" alt="" coords="2226,95,2385,136"/>
+<area shape="rect" id="node21" href="$a00506.html" title="Data3DTreeModel class declaration. " alt="" coords="1359,191,1542,218"/>
+<area shape="rect" id="node26" href="$a00500.html" title="Renderable3DEntity class declaration. " alt="" coords="1899,184,2045,225"/>
+<area shape="rect" id="node28" href="$a00731.html" title="CustomFrameGraph class declaration. " alt="" coords="273,191,415,218"/>
+<area shape="rect" id="node30" href="$a00494.html" title="GeometryMultiplier class declaration. " alt="" coords="439,184,582,225"/>
+<area shape="rect" id="node32" href="$a00659.html" title="GeometryMultiplierMaterial class declaration. " alt="" coords="792,95,981,136"/>
+<area shape="rect" id="node35" href="$a00737.html" title="OrbitalCameraController class declaration. " alt="" coords="2070,191,2234,218"/>
+<area shape="rect" id="node3" href="$a00476.html" title="disp3D library export/import macros. " alt="" coords="861,281,1000,307"/>
+<area shape="rect" id="node9" href="$a00986.html" title="Label class declaration. " alt="" coords="2831,281,2905,307"/>
+<area shape="rect" id="node14" href="$a01127.html" title="FiffDigPointSet class declaration. " alt="" coords="2854,184,2997,225"/>
+<area shape="rect" id="node17" href="$a00908.html" title="FiffInfo class declaration. " alt="" coords="2258,191,2353,218"/>
+<area shape="rect" id="node10" href="$a00980.html" title="Fs library export/import macros. " alt="" coords="2899,363,2984,389"/>
+<area shape="rect" id="node15" href="$a01151.html" title="inverse library export/import macros. " alt="" coords="2664,363,2792,389"/>
+<area shape="rect" id="node16" href="$a01121.html" title="Electric Current Dipole (ECD) class declaration. " alt="" coords="2701,281,2755,307"/>
+<area shape="rect" id="node22" href="$a01427.html" title="MNEForwardSolution class declaration, which provides the forward solution including the source space ..." alt="" coords="1534,281,1717,307"/>
+<area shape="rect" id="node23" href="$a01391.html" title="MNEBem class declaration. " alt="" coords="1391,281,1510,307"/>
+<area shape="rect" id="node24" href="$a06391_source.html" title="connectivity/network\l/network.h" alt="" coords="1741,273,1883,315"/>
+<area shape="rect" id="node33" href="$a00653.html" title="AbstractPhongAlphaMaterial class declaration. " alt="" coords="657,191,849,218"/>
+</map>

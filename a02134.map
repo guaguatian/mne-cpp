@@ -1,0 +1,18 @@
+<map id="applications/mne_scan/libs/scDisp/measurementwidget.h" name="applications/mne_scan/libs/scDisp/measurementwidget.h">
+<area shape="rect" id="node2" href="$a02129.html" title="Definition of the MeasurementWidget Class. " alt="" coords="5,95,243,136"/>
+<area shape="rect" id="node3" href="$a02138.html" title="Declaration of the RealTimeConnectivityEstimateWidget Class. " alt="" coords="266,95,577,136"/>
+<area shape="rect" id="node6" href="$a02144.html" title="Declaration of the RealTimeCovWidget Class. " alt="" coords="601,95,812,136"/>
+<area shape="rect" id="node8" href="$a02150.html" title="Declaration of the RealTimeEvokedSetWidget Class. " alt="" coords="836,95,1087,136"/>
+<area shape="rect" id="node10" href="$a02156.html" title="Declaration of the RealTimeMultiSampleArrayWidget Class. " alt="" coords="1111,95,1401,136"/>
+<area shape="rect" id="node12" href="$a02162.html" title="Declaration of the RealTimeSampleArrayWidget Class. " alt="" coords="1425,95,1687,136"/>
+<area shape="rect" id="node14" href="$a02168.html" title="Declaration of the RealTimeSourceEstimateWidget Class. " alt="" coords="1711,95,1990,136"/>
+<area shape="rect" id="node16" href="$a02174.html" title="Declaration of the RealTimeSpectrumWidget Class. " alt="" coords="2014,95,2258,136"/>
+<area shape="rect" id="node4" href="$a02135.html" title="Definition of the RealTimeConnectivityEstimateWidget Class. " alt="" coords="121,191,445,233"/>
+<area shape="rect" id="node5" href="$a02261.html" title="Definition of the DisplayManager Class. " alt="" coords="1007,184,1191,240"/>
+<area shape="rect" id="node7" href="$a02141.html" title="Definition of the RealTimeCovWidget Class. " alt="" coords="469,191,694,233"/>
+<area shape="rect" id="node9" href="$a02147.html" title="Definition of the RealTimeEvokedSetWidget Class. " alt="" coords="719,191,983,233"/>
+<area shape="rect" id="node11" href="$a02153.html" title="Definition of the RealTimeMultiSampleArrayWidget Class. " alt="" coords="1215,191,1518,233"/>
+<area shape="rect" id="node13" href="$a02159.html" title="Definition of the RealTimeSampleArrayWidget Class. " alt="" coords="1543,191,1817,233"/>
+<area shape="rect" id="node15" href="$a02165.html" title="Definition of the RealTimeSourceEstimateWidget Class. " alt="" coords="1841,191,2135,233"/>
+<area shape="rect" id="node17" href="$a02171.html" title="Definition of the RealTimeSpectrumWidget Class. " alt="" coords="2159,191,2417,233"/>
+</map>

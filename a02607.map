@@ -1,0 +1,23 @@
+<map id="applications/mne_scan/plugins/eegosports/eegosportsproducer.cpp" name="applications/mne_scan/plugins/eegosports/eegosportsproducer.cpp">
+<area shape="rect" id="node2" href="$a02609.html" title="Contains the declaration of the EEGoSportsProducer class. " alt="" coords="477,259,624,285"/>
+<area shape="rect" id="node6" href="$a02594.html" title="Contains the declaration of the EEGoSports class. " alt="" coords="950,95,1047,121"/>
+<area shape="rect" id="node44" href="$a02603.html" title="Contains the declaration of the EEGoSportsDriver class. This class implements the basic communication..." alt="" coords="1830,95,1959,121"/>
+<area shape="rect" id="node7" href="$a02597.html" title="Contains the EEGoSports library export/import macros. " alt="" coords="1805,483,1944,509"/>
+<area shape="rect" id="node9" href="$a02627.html" title="Contains the declaration of the EEGoSportsSetupWidget class. " alt="" coords="5,177,235,203"/>
+<area shape="rect" id="node11" href="$a02621.html" title="Contains the declaration of the EEGoSportsSetupProjectWidget class. " alt="" coords="259,177,527,203"/>
+<area shape="rect" id="node13" href="$a02258.html" title="Contains declaration of IIinverseAlgorithm interface class. " alt="" coords="929,169,1068,211"/>
+<area shape="rect" id="node34" href="$a01562.html" title="CircularMatrixBuffer class declaration. " alt="" coords="679,177,905,203"/>
+<area shape="rect" id="node14" href="$a02255.html" title="Contains declaration of IPlugin interface class. " alt="" coords="1130,259,1203,285"/>
+<area shape="rect" id="node15" href="$a02312_source.html" title="../Management/pluginoutputdata.h" alt="" coords="852,333,1071,360"/>
+<area shape="rect" id="node29" href="$a02294.html" title="Contains the declaration of the PluginInputData class. " alt="" coords="1151,333,1361,360"/>
+<area shape="rect" id="node16" href="$a02321.html" title="Contains the scshared library export/import macros. " alt="" coords="1612,557,1751,584"/>
+<area shape="rect" id="node17" href="$a02306.html" title="Contains the declaration of the PluginOutputConnector class. " alt="" coords="1360,408,1520,435"/>
+<area shape="rect" id="node27" href="$a02309.html" title="Contains the declaration of the PluginOutputData class. " alt="" coords="750,408,893,435"/>
+<area shape="rect" id="node18" href="$a02270.html" title="Contains the declaration of the PluginConnector class. " alt="" coords="1421,483,1545,509"/>
+<area shape="rect" id="node23" href="$a02183.html" title="MeasurementTreeItem class declaration. " alt="" coords="1233,483,1396,509"/>
+<area shape="rect" id="node24" href="$a02246.html" title="Contains the scMeas library export/import macros. " alt="" coords="1204,557,1324,584"/>
+<area shape="rect" id="node30" href="$a02288_source.html" title="plugininputconnector.h" alt="" coords="1184,408,1336,435"/>
+<area shape="rect" id="node31" href="$a02291.html" title="Contains the declaration of the PluginInputData class. " alt="" coords="1595,408,1730,435"/>
+<area shape="rect" id="node35" href="$a01655.html" title="utils library export/import macros. " alt="" coords="294,333,405,360"/>
+<area shape="rect" id="node36" href="$a01547.html" title="Contains the declaration of the Buffer base class. " alt="" coords="387,259,453,285"/>
+</map>

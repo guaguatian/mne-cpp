@@ -1,0 +1,17 @@
+<map id="libraries/fiff/fiff_evoked_set.h" name="libraries/fiff/fiff_evoked_set.h">
+<area shape="rect" id="node2" href="$a00908.html" title="FiffInfo class declaration. " alt="" coords="1497,169,1573,196"/>
+<area shape="rect" id="node3" href="$a00896.html" title="Fiff library export/import macros. " alt="" coords="1637,468,1726,495"/>
+<area shape="rect" id="node27" href="$a00881.html" title="FiffEvoked class declaration. " alt="" coords="1947,95,2045,121"/>
+<area shape="rect" id="node5" href="$a00914.html" title="FiffInfoBase class declaration. " alt="" coords="1410,244,1521,271"/>
+<area shape="rect" id="node6" href="$a00959.html" title="Definitions for describing the objects in a FIFF file. " alt="" coords="1391,468,1478,495"/>
+<area shape="rect" id="node13" href="$a00902.html" title="FiffId class declaration. " alt="" coords="1614,393,1679,420"/>
+<area shape="rect" id="node15" href="$a00824.html" title="FiffChInfo class declaration. " alt="" coords="1326,319,1423,345"/>
+<area shape="rect" id="node18" href="$a00857.html" title="FiffDigPoint class declaration. " alt="" coords="1016,393,1123,420"/>
+<area shape="rect" id="node20" href="$a00851.html" title="FiffCtfComp class declaration. " alt="" coords="813,319,923,345"/>
+<area shape="rect" id="node24" href="$a00839.html" title="FiffCoordTrans class declaration. " alt="" coords="1907,393,2029,420"/>
+<area shape="rect" id="node26" href="$a00932.html" title="FiffProj class declaration. " alt="" coords="713,319,789,345"/>
+<area shape="rect" id="node7" href="$a00833.html" title="Fiff constants. " alt="" coords="1047,543,1159,569"/>
+<area shape="rect" id="node16" href="$a00830.html" title="FiffChPos class declaration. " alt="" coords="1198,393,1295,420"/>
+<area shape="rect" id="node21" href="$a00926.html" title="FiffNamedMatrix class declaration. " alt="" coords="347,393,485,420"/>
+<area shape="rect" id="node28" href="$a00893.html" title="Header file describing the numerical values used in fif files. " alt="" coords="2059,169,2131,196"/>
+</map>

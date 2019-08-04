@@ -1,0 +1,51 @@
+<map id="libraries/utils/kmeans.h" name="libraries/utils/kmeans.h">
+<area shape="rect" id="node2" href="$a01427.html" title="MNEForwardSolution class declaration, which provides the forward solution including the source space ..." alt="" coords="5029,80,5260,107"/>
+<area shape="rect" id="node45" href="$a01424.html" title="MNEForwardSolution class implementation. " alt="" coords="6683,169,6929,196"/>
+<area shape="rect" id="node50" href="$a01586.html" title="Definition of the KMeans class. " alt="" coords="6089,80,6259,107"/>
+<area shape="rect" id="node3" href="$a00056.html" title="ConnectivitySettings class definition. " alt="" coords="6243,162,6409,203"/>
+<area shape="rect" id="node4" href="$a00506.html" title="Data3DTreeModel class declaration. " alt="" coords="2893,266,3068,307"/>
+<area shape="rect" id="node12" href="$a00782.html" title="SourceEstimateView class definition. " alt="" coords="916,370,1083,411"/>
+<area shape="rect" id="node27" href="$a06304_source.html" title="examples/ex_read_fwd\l_disp_3D/main.cpp" alt="" coords="5133,370,5289,411"/>
+<area shape="rect" id="node30" href="$a00587_source.html" title="libraries/disp3D/engine\l/model/items/measurement\l/measurementtreeitem.h" alt="" coords="471,155,651,211"/>
+<area shape="rect" id="node34" href="$a00593.html" title="MriTreeItem class declaration. " alt="" coords="5,266,204,307"/>
+<area shape="rect" id="node35" href="$a00578.html" title="HemisphereTreeItem class definition. " alt="" coords="4698,155,4866,211"/>
+<area shape="rect" id="node36" href="$a00596.html" title="NetworkTreeItem class definition. " alt="" coords="4890,162,5159,203"/>
+<area shape="rect" id="node37" href="$a00632.html" title="MneDataTreeItem class definition. " alt="" coords="5183,155,5349,211"/>
+<area shape="rect" id="node38" href="$a01175.html" title="RapMusic algorithm class declaration. " alt="" coords="4139,162,4310,203"/>
+<area shape="rect" id="node39" href="$a01169.html" title="PwlRapMusic algorithm class declaration. " alt="" coords="4361,266,4531,307"/>
+<area shape="rect" id="node40" href="$a02876.html" title="Contains the declaration of the RapMusicToolbox class. " alt="" coords="5388,363,5555,419"/>
+<area shape="rect" id="node41" href="$a02867.html" title="Definition of the RapMusicToolboxSetupWidget class. " alt="" coords="5248,467,5527,523"/>
+<area shape="rect" id="node42" href="$a06424_source.html" title="libraries/mne/mne_inverse\l_operator.h" alt="" coords="6433,162,6608,203"/>
+<area shape="rect" id="node43" href="$a06433_source.html" title="libraries/mne/mne.h" alt="" coords="6054,273,6190,300"/>
+<area shape="rect" id="node44" href="$a01493.html" title="Definition of the RtInvOp Class. " alt="" coords="6512,266,6655,307"/>
+<area shape="rect" id="node46" href="$a02237.html" title="Contains the declaration of the RealTimeSourceEstimate class. " alt="" coords="5373,162,5620,203"/>
+<area shape="rect" id="node47" href="$a06430_source.html" title="applications/mne_scan\l/plugins/mne/mne.cpp" alt="" coords="5138,266,5293,307"/>
+<area shape="rect" id="node48" href="$a02198.html" title="Definition of the RealTimeConnectivityEstimate class. " alt="" coords="5745,162,6035,203"/>
+<area shape="rect" id="node49" href="$a02753.html" title="Definition of the MNESetupWidget class. " alt="" coords="6060,155,6219,211"/>
+<area shape="rect" id="node5" href="$a00479.html" title="Data3DTreeDelegate class definition. " alt="" coords="2975,370,3192,411"/>
+<area shape="rect" id="node6" href="$a00503.html" title="Data3DTreeModel class definition. " alt="" coords="330,370,519,411"/>
+<area shape="rect" id="node7" href="$a00740.html" title="View3D class definition. " alt="" coords="3217,370,3371,411"/>
+<area shape="rect" id="node8" href="$a00758.html" title="AbstractView class definition. " alt="" coords="3396,370,3557,411"/>
+<area shape="rect" id="node9" href="$a00764.html" title="ECDView class definition. " alt="" coords="3581,370,3743,411"/>
+<area shape="rect" id="node10" href="$a00770.html" title="HpiView class definition. " alt="" coords="1107,370,1268,411"/>
+<area shape="rect" id="node11" href="$a00776.html" title="NetworkView class definition. " alt="" coords="1292,370,1453,411"/>
+<area shape="rect" id="node13" href="$a01745.html" title="Definition of the Music class. " alt="" coords="4129,370,4321,411"/>
+<area shape="rect" id="node14" href="$a01787.html" title="applications/mne_analyze\l/extensions/surfer/Views\l/view3danalyze.h" alt="" coords="1477,363,1649,419"/>
+<area shape="rect" id="node15" href="$a02135.html" title="Definition of the RealTimeConnectivityEstimateWidget Class. " alt="" coords="1673,370,1997,411"/>
+<area shape="rect" id="node16" href="$a06217_source.html" title="examples/ex_clustered\l_inverse_mne/main.cpp" alt="" coords="2022,370,2182,411"/>
+<area shape="rect" id="node17" href="$a06220_source.html" title="examples/ex_clustered\l_inverse_mne_raw/main.cpp" alt="" coords="2207,370,2395,411"/>
+<area shape="rect" id="node18" href="$a06223_source.html" title="examples/ex_clustered\l_inverse_pwl_rap_music\l_raw/main.cpp" alt="" coords="4746,363,4911,419"/>
+<area shape="rect" id="node19" href="$a06226_source.html" title="examples/ex_clustered\l_inverse_rap_music_raw\l/main.cpp" alt="" coords="3767,363,3933,419"/>
+<area shape="rect" id="node20" href="$a06229_source.html" title="examples/ex_connectivity\l/main.cpp" alt="" coords="543,370,717,411"/>
+<area shape="rect" id="node21" href="$a06232_source.html" title="examples/ex_connectivity\l_comparison/main.cpp" alt="" coords="2419,370,2593,411"/>
+<area shape="rect" id="node22" href="$a06250_source.html" title="examples/ex_disp_3D\l/main.cpp" alt="" coords="741,370,892,411"/>
+<area shape="rect" id="node23" href="$a06265_source.html" title="examples/ex_fs_surface\l/main.cpp" alt="" coords="2617,370,2781,411"/>
+<area shape="rect" id="node24" href="$a06277_source.html" title="examples/ex_inverse\l_mne_raw/main.cpp" alt="" coords="2805,370,2951,411"/>
+<area shape="rect" id="node25" href="$a06280_source.html" title="examples/ex_inverse\l_pwl_rap_music/main.cpp" alt="" coords="4935,370,5109,411"/>
+<area shape="rect" id="node26" href="$a06283_source.html" title="examples/ex_inverse\l_rap_music/main.cpp" alt="" coords="3958,370,4105,411"/>
+<area shape="rect" id="node28" href="$a06313_source.html" title="examples/ex_roi_clustered\l_inverse_pwl_rap_music\l/main.cpp" alt="" coords="4345,363,4523,419"/>
+<area shape="rect" id="node29" href="$a06319_source.html" title="examples/ex_st_clustered\l_inverse_pwl_rap_music\l/main.cpp" alt="" coords="4547,363,4721,419"/>
+<area shape="rect" id="node31" href="$a00647.html" title="SubjectTreeItem class declaration. " alt="" coords="277,266,524,307"/>
+<area shape="rect" id="node32" href="$a00584_source.html" title="libraries/disp3D/engine\l/model/items/measurement\l/measurementtreeitem.cpp" alt="" coords="125,363,305,419"/>
+<area shape="rect" id="node33" href="$a00605.html" title="libraries/disp3D/engine\l/model/items/sensordata\l/sensordatatreeitem.h" alt="" coords="598,259,763,315"/>
+</map>

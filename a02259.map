@@ -1,0 +1,13 @@
+<map id="applications/mne_scan/libs/scShared/Interfaces/ISensor.h" name="applications/mne_scan/libs/scShared/Interfaces/ISensor.h">
+<area shape="rect" id="node2" href="$a02255.html" title="Contains declaration of IPlugin interface class. " alt="" coords="551,109,625,136"/>
+<area shape="rect" id="node3" href="$a02312_source.html" title="../Management/pluginoutputdata.h" alt="" coords="157,184,376,211"/>
+<area shape="rect" id="node19" href="$a02294.html" title="Contains the declaration of the PluginInputData class. " alt="" coords="400,184,611,211"/>
+<area shape="rect" id="node4" href="$a02321.html" title="Contains the scshared library export/import macros. " alt="" coords="773,408,912,435"/>
+<area shape="rect" id="node6" href="$a02306.html" title="Contains the declaration of the PluginOutputConnector class. " alt="" coords="584,259,744,285"/>
+<area shape="rect" id="node17" href="$a02309.html" title="Contains the declaration of the PluginOutputData class. " alt="" coords="75,259,218,285"/>
+<area shape="rect" id="node7" href="$a02270.html" title="Contains the declaration of the PluginConnector class. " alt="" coords="539,333,663,360"/>
+<area shape="rect" id="node13" href="$a02183.html" title="MeasurementTreeItem class declaration. " alt="" coords="352,333,515,360"/>
+<area shape="rect" id="node14" href="$a02246.html" title="Contains the scMeas library export/import macros. " alt="" coords="275,408,395,435"/>
+<area shape="rect" id="node20" href="$a02288_source.html" title="plugininputconnector.h" alt="" coords="408,259,560,285"/>
+<area shape="rect" id="node21" href="$a02291.html" title="Contains the declaration of the PluginInputData class. " alt="" coords="819,259,954,285"/>
+</map>

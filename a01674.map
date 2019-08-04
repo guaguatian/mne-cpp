@@ -1,0 +1,5 @@
+<map id="applications/mne_analyze/extensions/deepcntk/deepcntkmanager.cpp" name="applications/mne_analyze/extensions/deepcntk/deepcntkmanager.cpp">
+<area shape="rect" id="node2" href="$a01676.html" title="Contains the declaration of the DeepCNTKManager class. " alt="" coords="104,95,240,121"/>
+<area shape="rect" id="node7" href="$a01679.html" title="Contains declaration of IDeepCNTKNet interface class. " alt="" coords="265,95,391,121"/>
+<area shape="rect" id="node3" href="$a01670.html" title="Contains the DeepCNTK library export/import macros. " alt="" coords="231,169,358,196"/>
+</map>

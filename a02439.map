@@ -1,0 +1,27 @@
+<map id="applications/mne_scan/plugins/bci/bci.cpp" name="applications/mne_scan/plugins/bci/bci.cpp">
+<area shape="rect" id="node2" href="$a02441.html" title="Contains the declaration of the BCI class. " alt="" coords="3160,95,3211,121"/>
+<area shape="rect" id="node3" href="$a02444.html" title="Contains the BCI library export/import macros. " alt="" coords="3181,177,3272,203"/>
+<area shape="rect" id="node5" href="$a01562.html" title="CircularMatrixBuffer class declaration. " alt="" coords="2882,259,3107,285"/>
+<area shape="rect" id="node14" href="$a02249.html" title="Contains declaration of IAlgorithm interface class. " alt="" coords="2304,169,2443,211"/>
+<area shape="rect" id="node20" href="$a02225.html" title="Contains the declaration of the RealTimeSampleArray class. " alt="" coords="5,259,205,285"/>
+<area shape="rect" id="node26" href="$a02219.html" title="Contains the declaration of the RealTimeMultiSampleArray class. " alt="" coords="551,259,779,285"/>
+<area shape="rect" id="node31" href="$a02237.html" title="Contains the declaration of the RealTimeSourceEstimate class. " alt="" coords="1185,177,1404,203"/>
+<area shape="rect" id="node38" href="$a01523.html" title="The FilterData class represents a derived class from an arbitrary MNEOperator class object..." alt="" coords="3347,333,3519,360"/>
+<area shape="rect" id="node42" href="$a02462.html" title="Contains the declaration of the BCISetupWidget class. " alt="" coords="3347,177,3530,203"/>
+<area shape="rect" id="node45" href="$a02456.html" title="Contains the declaration of the BCIAboutWidget class. " alt="" coords="3853,177,4049,203"/>
+<area shape="rect" id="node6" href="$a01655.html" title="utils library export/import macros. " alt="" coords="2874,408,2985,435"/>
+<area shape="rect" id="node7" href="$a01547.html" title="Contains the declaration of the Buffer base class. " alt="" coords="2825,333,2892,360"/>
+<area shape="rect" id="node15" href="$a02255.html" title="Contains declaration of IPlugin interface class. " alt="" coords="2337,259,2410,285"/>
+<area shape="rect" id="node16" href="$a02312_source.html" title="../Management/pluginoutputdata.h" alt="" coords="2481,333,2700,360"/>
+<area shape="rect" id="node18" href="$a02294.html" title="Contains the declaration of the PluginInputData class. " alt="" coords="2196,333,2407,360"/>
+<area shape="rect" id="node21" href="$a02246.html" title="Contains the scMeas library export/import macros. " alt="" coords="673,408,793,435"/>
+<area shape="rect" id="node22" href="$a02183.html" title="MeasurementTreeItem class declaration. " alt="" coords="432,333,595,360"/>
+<area shape="rect" id="node27" href="$a02231.html" title="Contains the declaration of the RealTimeSampleArrayChInfo class. " alt="" coords="941,333,1126,360"/>
+<area shape="rect" id="node29" href="$a00908.html" title="FiffInfo class declaration. " alt="" coords="822,333,917,360"/>
+<area shape="rect" id="node32" href="$a00986.html" title="Label class declaration. " alt="" coords="1647,333,1721,360"/>
+<area shape="rect" id="node33" href="$a00998.html" title="SurfaceSet class declaration. " alt="" coords="1240,259,1349,285"/>
+<area shape="rect" id="node34" href="$a00971.html" title="AnnotationSet class declaration. " alt="" coords="1898,333,2025,360"/>
+<area shape="rect" id="node35" href="$a01454.html" title="MNESourceSpace class declaration. " alt="" coords="1353,333,1521,360"/>
+<area shape="rect" id="node36" href="$a01448.html" title="MNESourceEstimate class declaration. " alt="" coords="1475,259,1658,285"/>
+<area shape="rect" id="node37" href="$a01427.html" title="MNEForwardSolution class declaration, which provides the forward solution including the source space ..." alt="" coords="1734,259,1917,285"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="libraries/rtprocessing/rtnoise.h" name="libraries/rtprocessing/rtnoise.h">
+<area shape="rect" id="node2" href="$a01505.html" title="realtime library export/import macros. " alt="" coords="2599,169,2745,196"/>
+<area shape="rect" id="node4" href="$a00845.html" title="FiffCov class declaration. " alt="" coords="389,95,483,121"/>
+<area shape="rect" id="node19" href="$a00908.html" title="FiffInfo class declaration. " alt="" coords="1147,169,1223,196"/>
+<area shape="rect" id="node29" href="$a01562.html" title="CircularMatrixBuffer class declaration. " alt="" coords="2435,319,2661,345"/>
+<area shape="rect" id="node5" href="$a00896.html" title="Fiff library export/import macros. " alt="" coords="1953,468,2042,495"/>
+<area shape="rect" id="node6" href="$a00932.html" title="FiffProj class declaration. " alt="" coords="803,319,879,345"/>
+<area shape="rect" id="node7" href="$a00959.html" title="Definitions for describing the objects in a FIFF file. " alt="" coords="843,468,930,495"/>
+<area shape="rect" id="node14" href="$a00926.html" title="FiffNamedMatrix class declaration. " alt="" coords="641,393,778,420"/>
+<area shape="rect" id="node8" href="$a00833.html" title="Fiff constants. " alt="" coords="643,543,755,569"/>
+<area shape="rect" id="node20" href="$a00914.html" title="FiffInfoBase class declaration. " alt="" coords="1177,244,1287,271"/>
+<area shape="rect" id="node21" href="$a00902.html" title="FiffId class declaration. " alt="" coords="1462,393,1527,420"/>
+<area shape="rect" id="node22" href="$a00824.html" title="FiffChInfo class declaration. " alt="" coords="1094,319,1191,345"/>
+<area shape="rect" id="node24" href="$a00857.html" title="FiffDigPoint class declaration. " alt="" coords="1107,393,1213,420"/>
+<area shape="rect" id="node26" href="$a00851.html" title="FiffCtfComp class declaration. " alt="" coords="1469,319,1579,345"/>
+<area shape="rect" id="node27" href="$a00839.html" title="FiffCoordTrans class declaration. " alt="" coords="1704,393,1827,420"/>
+<area shape="rect" id="node23" href="$a00830.html" title="FiffChPos class declaration. " alt="" coords="1238,393,1335,420"/>
+<area shape="rect" id="node30" href="$a01655.html" title="utils library export/import macros. " alt="" coords="2537,468,2647,495"/>
+<area shape="rect" id="node31" href="$a01547.html" title="Contains the declaration of the Buffer base class. " alt="" coords="2408,393,2475,420"/>
+</map>
